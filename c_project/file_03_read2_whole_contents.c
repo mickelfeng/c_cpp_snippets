@@ -23,6 +23,10 @@ int main(int argc, char *argv[], char **env) {
         // start to process your data / extract strings here...
         printf("%s", buffer);
         FILE *fptr = fopen("C:\\pg.txt", "w");
+        // buffer[length] = '\0';
+        fprintf(fptr, "%s", buffer);
+        // fprintf(fptr, "%s", "12345\n12345"); // first 5 character
+        fclose(fptr);
         // fprintf(fptr, "%s", &(buffer[strlen(buffer) - 5])); // last 5 character
         // fprintf(fptr, "%.5s", buffer); // first 5 character
     }
