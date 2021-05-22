@@ -4,7 +4,7 @@
 int main(int argc, char *argv[], char **env) {
     char *buffer = 0;
     long length;
-    const char *filename = "C:\\program.txt";
+    const char *filename = "C:\\test.txt";
     FILE *f = fopen(filename, "rb");
 
     if (f) {
