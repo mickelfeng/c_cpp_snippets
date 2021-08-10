@@ -12,7 +12,7 @@ int main()
     struct threeNum num;
     FILE *fptr;
 
-    if ((fptr = fopen("C:\\program.bin","rb")) == NULL){
+    if ((fptr = fopen("C:\\test.bin","rb")) == NULL){
         printf("Error! opening file");
 
         // Program exits if the file pointer returns NULL.

@@ -8,7 +8,7 @@ int main() {
     FILE *fptr;
 
     // opening file in writing mode
-    fptr = fopen("C:\\program.txt", "w");
+    fptr = fopen("C:\\test.txt", "w");
 
     // exiting program
     if (fptr == NULL) {

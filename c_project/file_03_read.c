@@ -6,7 +6,7 @@ int main()
     int num;
     FILE *fptr;
 
-    if ((fptr = fopen("C:\\program.txt","r")) == NULL){
+    if ((fptr = fopen("C:\\test.txt","r")) == NULL){
         printf("Error! opening file");
 
         // Program exits if the file pointer returns NULL.
