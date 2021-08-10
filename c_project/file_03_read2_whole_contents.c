@@ -22,7 +22,7 @@ int main(int argc, char *argv[], char **env) {
     if (buffer) {
         // start to process your data / extract strings here...
         printf("%s", buffer);
-        FILE *fptr = fopen("C:\\pg.txt", "w");
+        FILE *fptr = fopen("C:\\pg.txt", "wb");
         // buffer[length] = '\0';
         fprintf(fptr, "%s", buffer);
         // fprintf(fptr, "%s", "12345\n12345"); // first 5 character
