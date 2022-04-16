@@ -6,3 +6,10 @@ https://cs.android.com/
 # Crypto
 https://cs.android.com/android/platform/superproject/+/master:external/boringssl/src/crypto/
 https://git.cloud13.de/raphael/deltachat-android/-/tree/v0.18.2/MessengerProj/jni/openssl/crypto
+
+https://ffmpeg.org/doxygen/3.3/dir_8d855866ba5d436d839c7fc557836cd9.html
+tea https://ffmpeg.org/doxygen/3.4/tea_8c_source.html
+
+## 在调试时输出 printf
+setbuf(stdout, 0); // main头这样 https://www.zhihu.com/question/442393842
+fflush(stdout); // 或者这样输出缓存
