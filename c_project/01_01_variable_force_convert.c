@@ -1,6 +1,8 @@
 #include <string.h>
 #include "stdio.h"
 
+static const unsigned long FK[4] = {0xa3b1bac6, 0x56aa3350, 0x677d9197, 0xb27022dc};
+
 int main(int argc, char *argv[], char **env) {
     __int64 a[] = {0, 0x410A4335494A0942, 0x0B0EF2F50BE619F0, 0x4F0A3A064A35282B, 0};
     __int64 i;

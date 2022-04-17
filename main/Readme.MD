@@ -6,3 +6,7 @@ https://cs.android.com/
 # Crypto
 https://cs.android.com/android/platform/superproject/+/master:external/boringssl/src/crypto/
 https://git.cloud13.de/raphael/deltachat-android/-/tree/v0.18.2/MessengerProj/jni/openssl/crypto
+
+SM4 https://ppppz.net/2022/02/03/SM4-P-Z/
+TEA-P.Z https://ppppz.net/2022/01/31/TEA-P-Z/
+AES-P.Z https://ppppz.net/2022/01/31/AES-P-Z/
