@@ -17,7 +17,7 @@ set(CMAKE_C_STANDARD 99)
 #add_executable(rc4  RC4.c)
 
 # 遍历项目根目录下所有的 .c 文件
-file (GLOB files *.c)
+file (GLOB files *.c **/*.c)
 foreach (file ${files})
     string(REGEX REPLACE ".+/(.+)\\..*" "\\1" exe ${file})
     add_executable (${exe} ${file})
