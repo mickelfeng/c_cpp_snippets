@@ -15,4 +15,5 @@ void str_construct() {
         std::cout << i;
     }
     std::cout << std::endl;
+    std::cout << std::hex << 0x31; // print as hex
 }

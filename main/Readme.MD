@@ -2,6 +2,8 @@ c/cpp snippets
 
 可以Google  filetype:c rc4
 https://cs.android.com/
+# C
+Notion https://spot-diagram-e4c.notion.site/da244e3ab4c1412395dae5be6c86403c?v=3edae0b3e52a455db359dd2a80fa2769
 
 # Crypto
 https://cs.android.com/android/platform/superproject/+/master:external/boringssl/src/crypto/
