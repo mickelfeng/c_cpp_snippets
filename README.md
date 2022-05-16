@@ -40,3 +40,14 @@ __putchar(x)__
 
 __printf("%s"，s)__
 s可以是字符数组名或字符串常量。输出时遇到'\0'结束。
+
+# 编译
+gcc -Os -ffunction-sections -fdata-sections -s -Wl,--gc-sections setkey.c
+gcc -Os -ffunction-sections -fdata-sections -s setkey.c
+链接参数LDFLAGS: -Wl,-Map=object.map,--cref,--gc-section
+-g 产生带调试信息的编译后目标代码，供调试器(如gdb使用)
+-m32  将int，long和指针设为32位，适用于i386
+-m64  将int设为32位，long和指针设为64位，适用于X86-64
+-mx32  将int，long和指针设为32位，适用于X86-64
+
+最后上upx
