@@ -40,6 +40,13 @@ __putchar(x)__
 
 __printf("%s"，s)__
 s可以是字符数组名或字符串常量。输出时遇到'\0'结束。
+# Articles
+[C语言实现SM4加解密算法](https://blog.csdn.net/weixin_45582916/article/details/121429713)
+[C语言实现RC4加解密算法](https://blog.csdn.net/weixin_45582916/article/details/121429688)
+[C语言实现DES加解密算法](https://blog.csdn.net/weixin_45582916/article/details/121429594)
+[C语言实现AES加解密算法](https://blog.csdn.net/weixin_45582916/article/details/121429445)
+[C语言实现TEA系列加解密算法](https://blog.csdn.net/weixin_45582916/article/details/121425780)
+[教你编写年轻人的第一个动态链接库 比HelloWorld简单](https://www.bilibili.com/video/BV1MF411w7Z9) 
 
 # 编译
 gcc -Os -ffunction-sections -fdata-sections -s -Wl,--gc-sections setkey.c
