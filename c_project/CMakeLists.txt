@@ -2,24 +2,13 @@ cmake_minimum_required(VERSION 3.19)
 project(c_project C)
 
 set(CMAKE_C_STANDARD 99)
-
-#add_executable(c_project main.c)
-#add_executable(file_02_write file_02_write.c)
-#add_executable(file_03_read file_03_read.c)
-#add_executable(file_04_writebinary file_04_writebinary.c)
-#add_executable(file_05_read_from_binary_file file_05_read_from_binary_file.c)
-#add_executable(file_06_seek file_06_seek.c)
-#add_executable(file_00_eg file_00_eg.c)
-#add_executable(02_struct_and_union 02_struct.c)
-#add_executable(02_struct_and_union_01_add_two_distance 02_struct_01_add_two_distance.c)
-#add_executable(file_s01_replace_word file_s01_replace_word.c)
-#add_executable(file_03_read2_whole_contents file_03_read2_whole_contents.c)
 #add_executable(rc4  RC4.c)
-
 # 遍历项目根目录下所有的 .c 文件
 file (GLOB files *.c **/*.c)
 foreach (file ${files})
+    # 正则替换file的字符, 保存到exe
     string(REGEX REPLACE ".+/(.+)\\..*" "\\1" exe ${file})
-    add_executable (${exe} ${file} file_07_getFileSize.c)
+    # add_executable (${exe} ${file} file_07_getFileSize.c)
+    add_executable (${exe} ${file})
     message (\ \ \ \ --\ src/${exe}.c\ will\ be\ compiled\ to\ bin/${exe})
 endforeach ()

@@ -19,5 +19,12 @@ int main(int argc, char *argv[], char **env) {
     for (i = 0; i < 5; i++) {
         printf("%lld\n", b[i]);
     }
+
+    // 0x31, 0x32, 0x33, 0x34 => 0x34333231
+    char c[] = {0x31, 0x32, 0x33, 0x34};
+    for (int j = 0; j < sizeof(c); j += 4) {
+        printf("\n%x", *(int *) (c + j));
+    };
+
     return 0;
 }
