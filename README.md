@@ -167,8 +167,35 @@ printf函数转换说明修饰符
 | #      | 对于%o添加0 对于%x添加0x 对于%X添加0X 对于浮点数添加小数。   |
 | 0      | 用0来填充字符串,对于整数如果指定了精度或者-标记  则忽略该标记 |
 
+### scanf
 
+scanf 函数转换说明
 
+| 转换说明         | 输出                      |
+| --------------- | ------------------------ |
+| %d %i           | 有符号十进制整数int      |
+| %c              | 字符char                 |
+| %s              | 字符串                   |
+| %o              | 有符号八进制整数int      |
+| %p              | 内存地址                 |
+| %u              | 无符号十进制整数unsigned |
+| %x %X           | 有符号十六进制整数       |
+| %e %f %g a(C99) | 浮点数float              |
+| %E %F %G A(C99) | 浮点数float              |
+
+scanf 函数修饰说明
+
+| 修饰符  | 输出                                                         |
+| ------- | ------------------------------------------------------------ |
+| 数字    | 最大字符宽度%2d                                              |
+| h       | 配合整数类型一起使用 %hd short、 %hu unsigned short          |
+| hh      | 配合整数类型一起使用 signed char %hhd、unsigned char %hhu    |
+| l       | 配合整数类型一起使用%ld long %lu unsigned long 配合浮点数类型一起使用%lf %le表示double类型 |
+| ll(C99) | 配合整数类型一起使用 %lld long long  %llu unsigned long long |
+| L       | 合浮点是数类型使用 %Lf long double %Le                       |
+| z(C99)  | 配合整数类型一起使用,表达 sizeof 的结果 size_t 类型 %zd      |
+| t(C99)  | 配合整数类型一起使用,表示指针值的差, ptrdiff_t类型           |
+| j       | 配合整数类型使用,表达intmax_t uintmax_t类型的值              |
 ## Visio Studio2022安装
 * √ C++ 桌面开发
 * √ 适用于最新v143生成工具的 C++ MFC
@@ -332,10 +359,16 @@ ret 8                ; 平栈 8/4=2可知2个参数
 [C语言实现TEA系列加解密算法](https://blog.csdn.net/weixin_45582916/article/details/121425780)
 [教你编写年轻人的第一个动态链接库 比HelloWorld简单](https://www.bilibili.com/video/BV1MF411w7Z9) 
 
+
+
+[[原创\]通过DLL注入魔改植物大战僵尸(2)——僵尸篇](https://bbs.pediy.com/thread-264406.htm) 
+[[原创\]通过DLL注入魔改植物大战僵尸(1)——准备工作](https://bbs.pediy.com/thread-264356.htm) 
 ## ASM汇编
 [Udemy高分付费课程（中英字幕）从零开始学习 x86 汇编语言编程 Assembly Language - 构建超过 50 个汇编程序](https://www.bilibili.com/video/BV1XS4y1p7hw)
 https://docs.microsoft.com/zh-cn/cpp/assembler/inline/defining-asm-blocks-as-c-macros?view=msvc-170
 # 编译
+gcc -m32 main.c  # 32位编译
+gcc -fpie -pie main.c # 开启pie
 gcc -Os -ffunction-sections -fdata-sections -s -Wl,--gc-sections setkey.c
 gcc -Os -ffunction-sections -fdata-sections -s setkey.c
 链接参数LDFLAGS: -Wl,-Map=object.map,--cref,--gc-section
@@ -353,10 +386,40 @@ gcc -Os -ffunction-sections -fdata-sections -s setkey.c
 ```text
 # https://cmake.org/cmake/help/latest/command/set_target_properties.html
 set_target_properties(nosymbol PROPERTIES OUTPUT_NAME "hello")
-set_target_properties(nosymbol PROPERTIES LINK_FLAGS -s)
+set_target_properties(nosymbol PROPERTIES LINK_FLAGS -s)               # strip 去符号
+
+set_target_properties(new_thing PROPERTIES PREFIX "")                  # 文件名前缀 new_thing是小工程名
+set_target_properties(new_thing PROPERTIES OUTPUT_NAME "better_name")  # 文件名
+set_target_properties(new_thing PROPERTIES SUFFIX ".so.1")             # 文件名后缀
+
 # ollvm
 set(CMAKE_CXX_FLAGS "-s -mllvm -bcf ")
 ```
+
+__exclude__
+
+```
+// https://stackoverflow.com/questions/24491129/excluding-directory-somewhere-in-file-structure-from-cmake-sourcefile-list
+
+set (EXCLUDE_DIR "/hide/")
+file (GLOB_RECURSE SOURCE_FILES "*.cpp" "*.c")
+foreach (TMP_PATH ${SOURCE_FILES})
+    string (FIND ${TMP_PATH} ${EXCLUDE_DIR} EXCLUDE_DIR_FOUND)
+    if (NOT ${EXCLUDE_DIR_FOUND} EQUAL -1)
+        list (REMOVE_ITEM SOURCE_FILES ${TMP_PATH})
+    endif ()
+endforeach(TMP_PATH)
+
+// https://cmake.org/pipermail/cmake/2007-August/015837.html
+FILE(GLOB_RECURSE files "*.c")
+FOREACH(item ${files})
+  IF(${item} MATCHES "foo/main.c")
+    LIST(REMOVE_ITEM files ${item})
+  ENDIF(${item} MATCHES "foo/main.c")
+ENDFOREACH(item)
+MESSAGE(STATUS "${files}")
+```
+
 # Windows API
 [【NTAPI】Windows未公开API介绍——可以快速的关机API](https://www.bilibili.com/video/BV1MP4y1f7Eg)
 [03:25【NTAPI】Windows未公开API介绍——可以“自动消失”的消息框API](https://www.bilibili.com/video/BV1QT41157tt)
@@ -364,6 +427,18 @@ set(CMAKE_CXX_FLAGS "-s -mllvm -bcf ")
 [06:38【NTAPI】Windows未公开API介绍——可以制造蓝屏的API](https://www.bilibili.com/video/BV1734y1Y7fN)
 
 # lnnks Lessions
+## C语言
+###  按位取反运算
+```c
+unsigned char x;
+~x + x = char最大值 // 和自己的取反数相加=最大值
+~x + x = 255
+
+// 求负算法
+sx = 255 - x + 1
+sx = ~x + x -x + 1 = ~x + 1
+原码:x  补码:~x + 1 , 汇编指令为neg
+```
 
 ## 3.7 游戏内存写入/调试 火炬之光2
 
@@ -542,6 +617,7 @@ Ctrl+G -> GetTickCount
 add eax,eax   ; 2倍速
 retn
 ```
+
 ## CE Hook_Demo
 工具 - 添加内存, 申请到了 900000 地址。
 1.在修改HP的地方 JMP 900000.  
@@ -556,6 +632,17 @@ Instruction| opCode | Asm
 0090000D | 8B4610 |mov eax, [esi+10]
 00900010 | E9A3FDB1FF| jmp Sword2Ul.exe+1FDB
 
+## 游戏安全_HOOK_CRC32检测致命弱点
+
+CRC32检测
+1.检测时会读取内存。
+2.CE检测是什么访问了这个地址。
+3.最后可能有一个比较, 干掉即可
+
+CRC检测升级：
+方法1.多套几层CRC32
+方法2.新建进程检测
+方法3.每次操作后换一块内存，擦除之前的内存
 
 # CS结构客户端过验证
 万能注入-找内存位置
@@ -582,3 +669,8 @@ F2断，运行，触发，看堆栈, 分析。
 GAMES101: 现代计算机图形学入门 https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html
 前4章 基础。MVP矩阵
 
+
+
+
+# Videos
+[从零开始游戏逆向反外挂辅助开发c++公开课天龙魔兽lxl](https://www.bilibili.com/video/BV1z14y1h7wi/)

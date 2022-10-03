@@ -39,6 +39,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson3.10.5ascii", "lesson
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "游戏安全_12_CHOOK", "游戏安全_12_CHOOK\游戏安全_12_CHOOK.vcxproj", "{92DDF507-20D3-48A6-835D-9C36D11F984C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson3.10.6scanf", "lesson3.10.6scanf\lesson3.10.6scanf.vcxproj", "{144AD74A-F102-42B3-813A-77222567D19C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson5.2按位取反运算符", "lesson5.2按位取反运算符\lesson5.2按位取反运算符.vcxproj", "{88962E73-1FAA-447E-8B32-AC43CB094DDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -191,6 +195,22 @@ Global
 		{92DDF507-20D3-48A6-835D-9C36D11F984C}.Release|x64.Build.0 = Release|x64
 		{92DDF507-20D3-48A6-835D-9C36D11F984C}.Release|x86.ActiveCfg = Release|Win32
 		{92DDF507-20D3-48A6-835D-9C36D11F984C}.Release|x86.Build.0 = Release|Win32
+		{144AD74A-F102-42B3-813A-77222567D19C}.Debug|x64.ActiveCfg = Debug|x64
+		{144AD74A-F102-42B3-813A-77222567D19C}.Debug|x64.Build.0 = Debug|x64
+		{144AD74A-F102-42B3-813A-77222567D19C}.Debug|x86.ActiveCfg = Debug|Win32
+		{144AD74A-F102-42B3-813A-77222567D19C}.Debug|x86.Build.0 = Debug|Win32
+		{144AD74A-F102-42B3-813A-77222567D19C}.Release|x64.ActiveCfg = Release|x64
+		{144AD74A-F102-42B3-813A-77222567D19C}.Release|x64.Build.0 = Release|x64
+		{144AD74A-F102-42B3-813A-77222567D19C}.Release|x86.ActiveCfg = Release|Win32
+		{144AD74A-F102-42B3-813A-77222567D19C}.Release|x86.Build.0 = Release|Win32
+		{88962E73-1FAA-447E-8B32-AC43CB094DDC}.Debug|x64.ActiveCfg = Debug|x64
+		{88962E73-1FAA-447E-8B32-AC43CB094DDC}.Debug|x64.Build.0 = Debug|x64
+		{88962E73-1FAA-447E-8B32-AC43CB094DDC}.Debug|x86.ActiveCfg = Debug|Win32
+		{88962E73-1FAA-447E-8B32-AC43CB094DDC}.Debug|x86.Build.0 = Debug|Win32
+		{88962E73-1FAA-447E-8B32-AC43CB094DDC}.Release|x64.ActiveCfg = Release|x64
+		{88962E73-1FAA-447E-8B32-AC43CB094DDC}.Release|x64.Build.0 = Release|x64
+		{88962E73-1FAA-447E-8B32-AC43CB094DDC}.Release|x86.ActiveCfg = Release|Win32
+		{88962E73-1FAA-447E-8B32-AC43CB094DDC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

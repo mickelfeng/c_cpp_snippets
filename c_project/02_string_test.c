@@ -5,15 +5,13 @@
 
 void printCharArray(const char *s1);
 
-int cmp_test(const char *s1, const char *s2);
 
 void printCharArray2();
 
 int getInt(const char *sa, const char *str2);
 
 void cmp_work1();
-
-int getInt1( char *inst1,  char *inst2);
+int cmp_work2(const char *str1, const char *str2);
 
 int main(int argc, char *argv[], char **env) {
     char s1[] = {'1', '2', '3', '\0'};
@@ -22,11 +20,10 @@ int main(int argc, char *argv[], char **env) {
 
     cmp_work1();
 
-    char inst1[] = "A";
-    char inst2[] = "A";
-    assert(strcmp(inst1, inst2) == 0);
-    printf("%d\n", getInt1(inst1, inst2));
-
+    // char *str1 = "123";
+    // char str1[] = "123";
+    char str1[] = {"123"};
+    printf("%d\n", cmp_work2(str1, "123"));
     return 0;
 }
 
@@ -41,16 +38,15 @@ void cmp_work1() {
 }
 
 void printCharArray(const char *s1) {
-    printf("%s", s1);
+    printf("%s\n", s1);
 }
 
 void printCharArray2() {
     char s[3] = {0x31, 0x32, 0x33};
     s[3] = '\0';
-    printf("%s", s);
+    printf("%s\n", s);
 }
 
-int cmp_test(const char *s1, const char *s2) {
-    return strcmp(s1, s2);
+int cmp_work2(const char *str1, const char *str2) {
+    return strcmp(str1, str2);
 }
-
