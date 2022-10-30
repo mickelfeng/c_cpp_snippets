@@ -93,3 +93,8 @@ FPU Data Register Stack 栈顶ST0-ST7
 
 
 ![](https://s2.loli.net/2022/09/18/EieMsQU6Lbp3VYf.jpg)
+
+
+## 15.2. The SSE Execution Environment
+
+![](https://s2.loli.net/2022/10/24/M3po68ZmN5CkRPQ.jpg)

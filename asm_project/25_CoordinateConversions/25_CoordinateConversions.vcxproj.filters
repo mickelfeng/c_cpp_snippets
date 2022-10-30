@@ -15,8 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="X:\cprojects\c_cpp_tutorial\lnnks_lessons\游戏安全_11变速齿轮\11_变速齿轮.cpp">
+    <ClCompile Include="CoordinateConversions.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="Converter.asm">
+      <Filter>源文件</Filter>
+    </MASM>
   </ItemGroup>
 </Project>
