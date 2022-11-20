@@ -384,12 +384,14 @@ gcc -m32 main.c  # 32位编译
 gcc -fpie -pie main.c # 开启pie
 gcc -Os -ffunction-sections -fdata-sections -s -Wl,--gc-sections setkey.c
 gcc -Os -ffunction-sections -fdata-sections -s setkey.c
+gcc main.c -lm  是连接数学库
 链接参数LDFLAGS: -Wl,-Map=object.map,--cref,--gc-section
 ```
 -g 产生带调试信息的编译后目标代码，供调试器(如gdb使用)
 -m32  将int，long和指针设为32位，适用于i386
 -m64  将int设为32位，long和指针设为64位，适用于X86-64
 -mx32  将int，long和指针设为32位，适用于X86-64
+-static  静态链接, 打包所有函数
 -s strip 去符号 https://stackoverflow.com/questions/38675403/how-to-config-cmake-for-strip-file
 # 可直接  strip main.exe 来缩小体积
 最后上upx

@@ -18,7 +18,7 @@ int T(int num, int round);
 
 void DFS(unsigned char * flag, int deep);
 
-unsigned char flags[30][24];				//ÒÑ¾­¿ØÖÆÊı¾İÔÚ30¸öÒÔÄÚ ÄãÃÇ¶àÉèµãÒ²¿ÉÒÔ
+unsigned char flags[30][24];				//å·²ç»æ§åˆ¶æ•°æ®åœ¨30ä¸ªä»¥å†… ä½ ä»¬å¤šè®¾ç‚¹ä¹Ÿå¯ä»¥
 unsigned int enc[24] = { 0x25, 0x15, 0xDF, 0xA2, 0xC0, 0x93, 0xAD, 0x14, 0x46, 0xC5, 0xF, 0x2E, 0x9A, 0xEB, 0x30, 0xF8, 0x20, 0xE9, 0xCB, 0x88, 0xC6, 0xBE, 0x8D, 0xE3 };
 int x;
 
@@ -29,9 +29,9 @@ int main(void)
 
     unsigned char flag[24];
     flag[23] = 0xE3;
-    DFS(flag, 23); //ÕÒµ½ËùÓĞ¿ÉÄÜĞÔ·Åµ½flags
+    DFS(flag, 23); //æ‰¾åˆ°æ‰€æœ‰å¯èƒ½æ€§æ”¾åˆ°flags
 
-    unsigned int * pi = (unsigned int *)flags; //ÒÑÎŞ·ûºÅÕûĞÎÀ´·ÃÎÊ ¿í¶ÈÎª24 ÓÚ4×Ö½Ú·ÃÎÊÒ»´Î ËùÒÔÎª6
+    unsigned int * pi = (unsigned int *)flags; //å·²æ— ç¬¦å·æ•´å½¢æ¥è®¿é—® å®½åº¦ä¸º24 äº4å­—èŠ‚è®¿é—®ä¸€æ¬¡ æ‰€ä»¥ä¸º6
     //	for ( i = 0; i < 30 * 6; i++ )
     //	{
     //		printf("0x%X, ", pi[i]);
@@ -41,9 +41,9 @@ int main(void)
 
     for ( c = 30; c <= 30 * 6; c += 6 )
     {
-        for ( i = 60; i < 66; i++ )	//ÌîºÃÊı¾İ
+        for ( i = 60; i < 66; i++ )	//å¡«å¥½æ•°æ®
             t[i] = pi[c + i - 60];
-        for ( i = 59, j = 9; i >= 0; i-- )	//ÀûÓÃµÈÊ½Äæ»ØÈ¥
+        for ( i = 59, j = 9; i >= 0; i-- )	//åˆ©ç”¨ç­‰å¼é€†å›å»
         {
             if ( i % 6 == 0 )
             {
@@ -56,7 +56,7 @@ int main(void)
         }
         unsigned char * p = (unsigned char *)t;
         for (i = 0; i < 24; i += 4) {
-            printf("%c%c%c%c", p[i + 3], p[i + 2], p[i + 1], p[i]);//×¢ÒâĞ¡¶ËĞò
+            printf("%c%c%c%c", p[i + 3], p[i + 2], p[i + 1], p[i]);//æ³¨æ„å°ç«¯åº
             fflush(stdout);
         }
         printf("\n");

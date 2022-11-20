@@ -17,7 +17,7 @@ endforeach ()
 file (GLOB files dll/*.c)
 foreach (file ${files})
     string(REGEX REPLACE ".+/(.+)\\..*" "\\1" exe ${file})
-    add_library(${exe} SHARED ${file})
+    add_library(${exe} SHARED ${file} ctf/moectf2022_checinsoup.c)
     set_target_properties(${exe} PROPERTIES PREFIX "")       # 去掉lib前缀
     #    add_executable (${exe} ${file} ccode/main.c)
     message (\ \ \ \ --\ src/${exe}.c\ will\ be\ compiled\ to\ bin/${exe})
