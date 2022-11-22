@@ -6,7 +6,7 @@ intArray DWORD 10000h,20000h,30000h,40000h;
 
 .code
 start	proc
-		mov edi, OFFSET intArray
+		mov edi, OFFSET intArray    ; intArrayµØÖ·¸ø edi
 		mov ecx, LENGTHOF intArray
 		mov eax, 0
 

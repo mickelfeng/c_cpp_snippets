@@ -1,4 +1,5 @@
 // 10_SignedDivMul
+```
 int IntegerMulDiv(int a, int b, int* prod, int* quo, int* rem);
 int a = 21, b = 9;
 int prod = 0, quo = 0, rem = 0;
