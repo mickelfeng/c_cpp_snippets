@@ -49,4 +49,6 @@ void printCharArray2() {
 
 int cmp_work2(const char *str1, const char *str2) {
     return strcmp(str1, str2);
+    // strncmp("f11\0", "f", 1); // true
+    // return memcmp(str1, str2);
 }

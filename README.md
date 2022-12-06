@@ -380,11 +380,15 @@ ret 8                ; 平栈 8/4=2可知2个参数
 [Udemy高分付费课程（中英字幕）从零开始学习 x86 汇编语言编程 Assembly Language - 构建超过 50 个汇编程序](https://www.bilibili.com/video/BV1XS4y1p7hw)
 https://docs.microsoft.com/zh-cn/cpp/assembler/inline/defining-asm-blocks-as-c-macros?view=msvc-170
 # 编译
-gcc -m32 main.c  # 32位编译
+```sh
+gcc -m32 main.c       # 32位编译
 gcc -fpie -pie main.c # 开启pie
+gcc -Os -o a          # 编译优化
 gcc -Os -ffunction-sections -fdata-sections -s -Wl,--gc-sections setkey.c
 gcc -Os -ffunction-sections -fdata-sections -s setkey.c
-gcc main.c -lm  是连接数学库
+gcc main.c -lm        # 连接数学库
+```
+
 链接参数LDFLAGS: -Wl,-Map=object.map,--cref,--gc-section
 ```
 -g 产生带调试信息的编译后目标代码，供调试器(如gdb使用)
