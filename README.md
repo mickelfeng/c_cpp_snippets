@@ -2,6 +2,8 @@
 [隐藏的细节：编译与链接](https://www.bilibili.com/video/BV1TN4y1375q)
 [底层】动态链接库(dll)是如何工作的？](https://www.bilibili.com/video/BV1vB4y1V7gR)
 地址引用的使用 见scripts/Crypto_tea.c
+[环境 | 【C&C++】VSCode配置使用MSVC编译链接C/C++程序](https://www.bilibili.com/video/BV11G411P7sM)
+
 ## 视频学习
 lnnks B站 + https://ke.qq.com/course/5623715
 # C学习
@@ -201,7 +203,7 @@ scanf 函数修饰说明
 | t(C99)  | 配合整数类型一起使用,表示指针值的差, ptrdiff_t类型           |
 | j       | 配合整数类型使用,表达intmax_t uintmax_t类型的值              |
 
-### xor 
+### xor
 任意数 x 异或 其类型(无符号) 最大值 x ^ 255 = ~x
 ~x ^ x = 255
  x ^ x = 0
@@ -395,7 +397,7 @@ gcc main.c -lm        # 连接数学库
 -m32  将int，long和指针设为32位，适用于i386
 -m64  将int设为32位，long和指针设为64位，适用于X86-64
 -mx32  将int，long和指针设为32位，适用于X86-64
--static  静态链接, 打包所有函数
+-static  静态链接, 打包所有函数, 在 Visualstudio中 /MT, /MTD 在 配置属性 - C/C++ - 代码生成 - 运行库 中设置
 -s strip 去符号 https://stackoverflow.com/questions/38675403/how-to-config-cmake-for-strip-file
 # 可直接  strip main.exe 来缩小体积
 最后上upx

@@ -43,7 +43,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson3.10.6scanf", "lesson
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson5.2按位取反运算符", "lesson5.2按位取反运算符\lesson5.2按位取反运算符.vcxproj", "{88962E73-1FAA-447E-8B32-AC43CB094DDC}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "year_month_days", "lesson6.0year_month_days\year_month_days.vcxproj", "{6CA15628-80A2-4426-BDD6-543FC6502657}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson6.0_year_month_days", "lesson6.0year_month_days\year_month_days.vcxproj", "{6CA15628-80A2-4426-BDD6-543FC6502657}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson7.5 彩票开奖结果的破解", "lesson7.5 彩票开奖结果的破解\lesson7.5 彩票开奖结果的破解.vcxproj", "{4A5BBEA1-E0D5-4528-A77F-F7898D6D74AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -221,6 +223,14 @@ Global
 		{6CA15628-80A2-4426-BDD6-543FC6502657}.Release|x64.Build.0 = Release|x64
 		{6CA15628-80A2-4426-BDD6-543FC6502657}.Release|x86.ActiveCfg = Release|Win32
 		{6CA15628-80A2-4426-BDD6-543FC6502657}.Release|x86.Build.0 = Release|Win32
+		{4A5BBEA1-E0D5-4528-A77F-F7898D6D74AB}.Debug|x64.ActiveCfg = Debug|x64
+		{4A5BBEA1-E0D5-4528-A77F-F7898D6D74AB}.Debug|x64.Build.0 = Debug|x64
+		{4A5BBEA1-E0D5-4528-A77F-F7898D6D74AB}.Debug|x86.ActiveCfg = Debug|Win32
+		{4A5BBEA1-E0D5-4528-A77F-F7898D6D74AB}.Debug|x86.Build.0 = Debug|Win32
+		{4A5BBEA1-E0D5-4528-A77F-F7898D6D74AB}.Release|x64.ActiveCfg = Release|x64
+		{4A5BBEA1-E0D5-4528-A77F-F7898D6D74AB}.Release|x64.Build.0 = Release|x64
+		{4A5BBEA1-E0D5-4528-A77F-F7898D6D74AB}.Release|x86.ActiveCfg = Release|Win32
+		{4A5BBEA1-E0D5-4528-A77F-F7898D6D74AB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
