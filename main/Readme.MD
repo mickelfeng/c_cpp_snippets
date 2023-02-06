@@ -9,6 +9,9 @@ https://git.cloud13.de/raphael/deltachat-android/-/tree/v0.18.2/MessengerProj/jn
 
 https://ffmpeg.org/doxygen/3.3/dir_8d855866ba5d436d839c7fc557836cd9.html
 tea https://ffmpeg.org/doxygen/3.4/tea_8c_source.html
+SM4 https://ppppz.net/2022/02/03/SM4-P-Z/
+TEA-P.Z https://ppppz.net/2022/01/31/TEA-P-Z/
+AES-P.Z https://ppppz.net/2022/01/31/AES-P-Z/
 
 ## 在调试时输出 printf
 setbuf(stdout, 0); // main头这样 https://www.zhihu.com/question/442393842

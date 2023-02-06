@@ -5,9 +5,14 @@ void foo_cast();
 
 void cast_char_int();
 
+void intptr_to_charptr();
+
+static const unsigned long FK[4] = {0xa3b1bac6, 0x56aa3350, 0x677d9197, 0xb27022dc};
+
 int main(int argc, char *argv[], char **env) {
 //    foo_cast();
     cast_char_int();
+    intptr_to_charptr();
     return 0;
 }
 
@@ -35,4 +40,10 @@ void foo_cast() {
     for (i = 0; i < 5; i++) {
         printf("%lld\n", b[i]);
     }
+}
+
+void intptr_to_charptr() {
+    int a = 0x31323334;
+    char *c5 = (char *) &a;
+    printf("%c\n", *c5);
 }
