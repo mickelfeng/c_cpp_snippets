@@ -2,6 +2,8 @@
 
 #include <time.h>
 #include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
 
 void test_timet();
 
@@ -9,12 +11,51 @@ void test_timestamp_lite();
 
 void test_timestamp_lite0();
 
+void test_timestamp(int timestamp);
+
+void test_print_current_time();
+
+int generate_timestamp(int year, int month, int day) {
+    struct tm t;
+    memset(&t, 0, sizeof(t));
+    t.tm_year = year - 1900;
+    t.tm_mon = month - 1;
+    t.tm_mday = day;
+    time_t timestamp = mktime(&t);
+    return (int) timestamp;
+}
+
+void print_date(time_t timestamp) {
+    struct tm *timeinfo;
+    timeinfo = localtime(&timestamp);
+    printf("%d-%02d-%02d\n", timeinfo->tm_year + 1900, timeinfo->tm_mon + 1, timeinfo->tm_mday);
+}
+
 int main() {
+    int timestamp = generate_timestamp(2022, 12, 31);
+    printf("The timestamp is: %d\n", timestamp);
+    test_timestamp(timestamp);
+    test_print_current_time();
+
     // test_timet();
     // test_timestamp();
     test_timestamp_lite0();
     // test_timestamp_lite();
     return 0;
+}
+
+void test_print_current_time() {
+    time_t current_time;
+    time(&current_time);
+    print_date(current_time);
+}
+
+void test_timestamp(int timestamp) {
+    time_t t1 = timestamp;
+    srand((unsigned int)t1);
+
+    int random_number = rand() % 100;
+    printf("Generated random number: %d\n", random_number);
 }
 
 void test_timestamp_lite0() {
