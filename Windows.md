@@ -76,3 +76,20 @@ int _tmain()
 | 处理Unicode字符和字符串的CUI应用程序 | _tmain (Wmain)       | wmainCRTStartup          |
 
 /SUBSYSTEM:WINDOWS 会找 `WinMain` 或 `wWinMain` 找不到会返回 "unresolved external symbol" 否则根据情况选择 `WinMainCRTStartup` 或 `wWinMainCRTStartup`
+
+
+# Windows全新开发编程实例教程
+
+## Visual Studio
+
+* 头文件包含 prgama 和 ifndef 一样, 包含一次
+#prgama once
+#ifndef
+#define
+
+
+# Aritcle
+
+[键盘消息 | [原创] 从应用层到MCU，看Windows处理键盘输入 [1.在应用层调试Notepad.exe (按键消费者)] ](https://bbs.kanxue.com/user-home-399589.htm)
+
+

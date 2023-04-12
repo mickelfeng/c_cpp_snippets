@@ -5,7 +5,9 @@
 [环境 | 【C&C++】VSCode配置使用MSVC编译链接C/C++程序](https://www.bilibili.com/video/BV11G411P7sM)
 
 ## 视频学习
-lnnks B站 + https://ke.qq.com/course/5623715
+* lnnks B站 + https://ke.qq.com/course/5623715
+* [rkvir逆向工程学院](https://space.bilibili.com/447734880/video)
+
 # C学习
 
 ## 标准
@@ -230,7 +232,7 @@ __配置选项__
 __添加依赖__ ：右击项目 - 生成依赖项 - 项目依赖项
 __导出模板__ ：菜单栏 - 项目- 导出模板
 
-
+__生成调试信息__ : 配置属性 - 链接器 - 调试
 ### 编译器与错误
 编译错误: C开头, 实际是使用cl.exe编译
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\Hostx64\x86\cl.exe
@@ -318,7 +320,9 @@ https://github.com/qinguoyi/TinyWebServer
 https://blog.csdn.net/xiebs/article/details/93466116
 单引号 -> ascii码
 双引号 -> 字符串->内存地址
-## char*与char[]区别
+
+## `char*` 与char[]区别
+
 ```c
 char ch1[] = "hello world";//字符数组, 大小不可变, 可修改 ch1[i]=1;
 
@@ -366,21 +370,6 @@ call sword2ui.41FD40 ;
 ret 8                ; 平栈 8/4=2可知2个参数
 ```
 
-# Articles
-[C语言实现SM4加解密算法](https://blog.csdn.net/weixin_45582916/article/details/121429713)
-[C语言实现RC4加解密算法](https://blog.csdn.net/weixin_45582916/article/details/121429688)
-[C语言实现DES加解密算法](https://blog.csdn.net/weixin_45582916/article/details/121429594)
-[C语言实现AES加解密算法](https://blog.csdn.net/weixin_45582916/article/details/121429445)
-[C语言实现TEA系列加解密算法](https://blog.csdn.net/weixin_45582916/article/details/121425780)
-[教你编写年轻人的第一个动态链接库 比HelloWorld简单](https://www.bilibili.com/video/BV1MF411w7Z9) 
-
-
-
-[[原创\]通过DLL注入魔改植物大战僵尸(2)——僵尸篇](https://bbs.pediy.com/thread-264406.htm) 
-[[原创\]通过DLL注入魔改植物大战僵尸(1)——准备工作](https://bbs.pediy.com/thread-264356.htm) 
-## ASM汇编
-[Udemy高分付费课程（中英字幕）从零开始学习 x86 汇编语言编程 Assembly Language - 构建超过 50 个汇编程序](https://www.bilibili.com/video/BV1XS4y1p7hw)
-https://docs.microsoft.com/zh-cn/cpp/assembler/inline/defining-asm-blocks-as-c-macros?view=msvc-170
 # 编译
 ```sh
 gcc -m32 main.c       # 32位编译
@@ -693,9 +682,31 @@ F2断，运行，触发，看堆栈, 分析。
 3D游戏坐标转换
 GAMES101: 现代计算机图形学入门 https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html
 前4章 基础。MVP矩阵
+## 游戏安全/Articles
 
-
-
+[CE OD结合运用 断点找寻游戏地址 ](https://bbs.kanxue.com/thread-177440.htm)
 
 # Videos
 [从零开始游戏逆向反外挂辅助开发c++公开课天龙魔兽lxl](https://www.bilibili.com/video/BV1z14y1h7wi/)
+
+# Articles
+[C语言实现SM4加解密算法](https://blog.csdn.net/weixin_45582916/article/details/121429713)
+[C语言实现RC4加解密算法](https://blog.csdn.net/weixin_45582916/article/details/121429688)
+[C语言实现DES加解密算法](https://blog.csdn.net/weixin_45582916/article/details/121429594)
+[C语言实现AES加解密算法](https://blog.csdn.net/weixin_45582916/article/details/121429445)
+[C语言实现TEA系列加解密算法](https://blog.csdn.net/weixin_45582916/article/details/121425780)
+[教你编写年轻人的第一个动态链接库 比HelloWorld简单](https://www.bilibili.com/video/BV1MF411w7Z9) 
+
+[Http Get请求简单实例（C++）](https://mp.weixin.qq.com/s/SMiMScCpgTAEvhBzSQ8h0g)
+
+[[原创]通过DLL注入魔改植物大战僵尸(2)——僵尸篇](https://bbs.pediy.com/thread-264406.htm) 
+[[原创]通过DLL注入魔改植物大战僵尸(1)——准备工作](https://bbs.pediy.com/thread-264356.htm) 
+## QT
+[Qt教程-公众号](https://mp.weixin.qq.com/s/PjMXKhW-7VO_w4r0tM19TQ)
+
+## ASM汇编
+[Udemy高分付费课程（中英字幕）从零开始学习 x86 汇编语言编程 Assembly Language - 构建超过 50 个汇编程序](https://www.bilibili.com/video/BV1XS4y1p7hw)
+https://docs.microsoft.com/zh-cn/cpp/assembler/inline/defining-asm-blocks-as-c-macros?view=msvc-170
+
+## 调试器
+[从零开始编写简易调试器](https://mp.weixin.qq.com/s/ah29tzVT2B_4mx5wxSNlzA)

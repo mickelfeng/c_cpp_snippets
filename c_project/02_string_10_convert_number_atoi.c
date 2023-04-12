@@ -10,14 +10,33 @@ void right_align_snprintf();
 
 void basic();
 
+void hex_to_str_manual();
+
 int main() {
     // basic();
     // left_align_sprintf();
     // left_align_itoa();
-    right_align_snprintf();
+    // right_align_snprintf();
 
+    hex_to_str_manual();
     return(0);
 
+}
+
+void hex_to_str_manual() {
+    // 712DA50903F0451B9E383FC05C1B7DA8 转为字符串
+    char TABLE[20];
+    char enc[16] = {0x71, 0x2D, 0xA5, 0x09, 0x03, 0xF0, 0x45, 0x1B, 0x9E, 0x38, 0x3F, 0xC0, 0x5C, 0x1B, 0x7D, 0xA8};
+    char out[32] = {};
+    strcpy(TABLE, "0123456789ABCDEF");
+    for (int m = 0; m < 16; ++m )                    // 转16进制字符
+    {
+        *(unsigned __int8 *)(out + 2 * m) = TABLE[(int)(unsigned __int8)enc[m] >> 4];
+        *(unsigned __int8 *)(out + 2 * m + 1) = TABLE[enc[m] & 0xF];
+    }
+
+    out[32] = '\0';
+    printf("%s", out);
 }
 
 void basic() {
@@ -44,8 +63,6 @@ void right_align_snprintf() {
     printf("i = %lu, a = %s\n", i, a);    // 输出：i = 12, a = 00000001
     i = snprintf(a, 3 + 1, "%04d", 12345);   // 第 2 种情况
     printf("i = %lu, a = %s\n", i, a);    // 输出：i = 12, a = 00000001
-
-
 }
 
 void left_align_itoa() {
