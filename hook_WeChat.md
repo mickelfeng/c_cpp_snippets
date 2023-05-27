@@ -1,3 +1,8 @@
+微信 搜索字符串
+要勾上 UTF-16
+
+# 微信
+* [Video | 学而致用，学而分享之x32 dbg Hook微信实现一些自动化开发(2022)](https://www.bilibili.com/video/BV1dB4y1b79t/) 
 * [PC微信读取微信好友列表(联系人)](https://juejin.cn/post/6844904162317041678)
 * [PC微信Hook实战记录1:找到个人信息](https://juejin.cn/post/6844904015805808647)
 * [微信Hook实战记录2:动手实现恶意dll内存插入器 ](https://juejin.cn/post/6844904016267182087)
@@ -6,6 +11,9 @@
 * [PC微信获取登录二维码](https://juejin.cn/post/6844904162321235982)
 * [PC微信机器人接口api之od找登陆二维码hook地址](https://juejin.cn/post/6976906082291548191)
 * [企业微信PC版hook源码api接口](https://juejin.cn/post/7100373217742684173)
+* [微信界面逆向分析](https://mp.weixin.qq.com/s/K59W5QiLFJW48rQy2Rio3g)
+
+
 https://github.com/liumesopw
 https://blog.csdn.net/u010256831?type=blog
 
@@ -68,8 +76,17 @@ https://blog.csdn.net/u010256831?type=blog
 * [PC微信逆向分析の强制输出微信调式信息](https://bbs.kanxue.com/thread-257116.htm)
 * [PC微信逆向分析の绕过加密来访问SQLite数据库](https://bbs.kanxue.com/thread-257028.htm)
 
+* 金酷码科技
+* [hook篇第1课 c++ pc微信hook介绍](https://www.bilibili.com/video/BV1Zo4y1w7JF/)
+* [hook篇第4课 c++ 实现微信二维码获取B](https://www.bilibili.com/video/BV1Hm4y1C79h/)
+* [hook篇第4课 c++ 实现微信二维码获取A](https://www.bilibili.com/video/BV1PL411a7VN/)
+* [hook篇第2课c++编写dll](https://www.bilibili.com/video/BV1Ms4y1X7gU/)
+* [hook篇第3课  c++ 寻找pc微信二维码](https://www.bilibili.com/video/BV14T411h7VV/)
+* [hook篇第5课 c++ 寻找登录信息](https://www.bilibili.com/video/BV1qV4y1d758/)
+* [hook篇第6课 c++ 代码读取微信信息](https://www.bilibili.com/video/BV19P41127Qi/)
+
 ---
-# 鬼手
+## 鬼手
 
 * [PC微信逆向：两种姿势教你解密数据库文件](https://guishou.blog.csdn.net/article/details/96606530#comments_26003983)
 * [VEH+硬件断点实现无痕HOOK](https://guishou.blog.csdn.net/article/details/120457798)
@@ -99,3 +116,39 @@ https://blog.csdn.net/u010256831?type=blog
 * [零基础入门Windows软件逆向分析使用IDA分析局部变量](https://www.bilibili.com/video/BV1UU4y1k7BL/)
 * [羊了个羊速刷攻略霸榜朋友圈](https://www.bilibili.com/video/BV1414y1Y7jK/)
 * [零基础编写QQ群机器人课程介绍](https://www.bilibili.com/video/BV1kW4y1n7iD/)
+
+
+## 微信取证
+[钓鱼场景下微信聊天记录回传](https://mp.weixin.qq.com/s/ROCTBw8hM8mDEuIq5Vyhsg)
+
+## Python机器人
+[PyOfficeRobot](https://github.com/CoderWanFeng/PyOfficeRobot)
+
+# QQ
+
+[【镖客熊猫江】有了ChatGPT加持，C++能否超越python、java成为主流](https://www.bilibili.com/video/BV1Ps4y1V7To/)
+[【镖客熊猫江】chatgpt是人工智障？AI怎么让工作更高效？资深程序员教你高阶技巧！！](https://www.bilibili.com/video/BV1Fc411E74m/)
+[【镖客熊猫江】揭密C++程序员一不小心就会踩坑的unsigned底层实现](https://www.bilibili.com/video/BV1yb411Z7AU/)
+[【镖客熊猫江】大部分程序员都会犯得错误解析之“类型提升”](https://www.bilibili.com/video/BV1hv4y1L7ra/)
+[【镖客熊猫江】超越360火绒的广告弹窗拦截方式](https://www.bilibili.com/video/BV1iL411d7Q5/)
+[【镖客熊猫江】CE修改百度云下载速度从方法到原理-深度剖析](https://www.bilibili.com/video/BV1jT411r7J5/)
+[【镖客熊猫江】windows激活从工具到原理深度解析](https://www.bilibili.com/video/BV1QM4y1B7ej/)
+[【镖客熊猫江】接上期激活软件行为大致分析过程，没办法做p2放在这里给大家分享一下](https://www.bilibili.com/video/BV1H24y177v4/)
+[【镖客熊猫江】教你简单快速破解wifi密码！方法+工具放评论区了！](https://www.bilibili.com/video/BV1gY4y1D73R/)
+[【镖客熊猫江】细读经典带你从不同角度理解windowsAPI，手把手教你查询使用windows api](https://www.bilibili.com/video/BV1vm4y1r73z/)
+[【镖客熊猫江】只需两步就能让ce附加原神，开启20倍奔跑速度](https://www.bilibili.com/video/BV1Tk4y1v7ij/)
+[【镖客熊猫江】科普一种冷门但新颖的攻击方式计时攻击&safeEqual](https://www.bilibili.com/video/BV17g4y1g73X/)
+[【镖客熊猫江】从破解一个vmp壳的程序到vmp原理详解](https://www.bilibili.com/video/BV1So4y1H7o4/)
+[【镖客熊猫江】接上集加了vmp等于没加的dxf科技分析过程和思路](https://www.bilibili.com/video/BV1N84y1T7ef/)
+[【镖客熊猫江】想搞外挂发大财？听我一句劝...](https://www.bilibili.com/video/BV1Fs4y1m7q9/)
+[【镖客熊猫江】逆向分析：QQ防撤回原理和工具](https://www.bilibili.com/video/BV1Nv4y1H7Zf/)
+[【镖客熊猫江】QQ防撤回详细分析过程](https://www.bilibili.com/video/BV1sj411c7eU/)
+[【镖客熊猫江】QQ防撤回之补充干掉群撤回过程](https://www.bilibili.com/video/BV1qo4y1n7Pu/)
+[【镖客熊猫江】你想“赚大钱”还是想“蹲几年”？做外挂真有那么香吗？](https://www.bilibili.com/video/BV1YL411f78d/)
+[【镖客熊猫江】超详细！基于正向开发的思路来找QQ防撤回(思路+工具）](https://www.bilibili.com/video/BV1as4y117k1/)
+[【镖壳熊猫江】新手小白如何学编程？来自老鸟的经验分享-道篇](https://www.bilibili.com/video/BV1rM4y1C7MV/)
+[【镖客熊猫江】编程学习之全面白嫖指南-术篇p1](https://www.bilibili.com/video/BV1om4y1175R/)
+[【镖客熊猫江】编程学习之全面白嫖指南-术篇p2（精华在开头）](https://www.bilibili.com/video/BV1k24y1F74u/)
+[【镖客熊猫江】vx微信防撤回详细分析过程+工具](https://www.bilibili.com/video/BV1bM411L7ze/)
+[详细分析vx微信多开原理+工具](https://www.bilibili.com/video/BV1Mv4y1E7Qy/)
+[QQ的TIM版，防撤回原理分析+工具](https://www.bilibili.com/video/BV18T411n7pn/)

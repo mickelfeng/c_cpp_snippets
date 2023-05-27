@@ -41,11 +41,11 @@ C开始追求的是自由、信任，相信程序员可以写好代码。
 | ---------------------- | -------- | ---------------------------- | -------------------- |
 | unsigned char          | 1 Byte   | 0-255                        | 0-0xFF               |
 | unsigned short         | 2 Byte   | 0-65535                      | 0-0xFFFF             |
-| unsigned int           | 4 Byte   | 0-4294967295                 | 0-0xFFFFFFF          |
+| unsigned int           | 4 Byte   | 0-4294967295                 | 0-0xFFFFFFFF         |
 | unsigned               | 4 byte   | 0-4294967295                 | 0-0xFFFFFFFF         |
-| unsigned long          | 4 Byte   | 8-4294967295                 | 0-0xFFFFFF           |
+| unsigned long          | 4 Byte   | 8-4294967295                 | 0-0xFFFFFFFF         |
 | unsigned long long     | 8 Byte   | 0-18,446,744,073,709,551,615 | 0-0xFFFFFFFFFFFFFFFF |
-| unsigned long long int | 8 Byte   | 0-18,446,744,073,709,551.615 | 0-0xFFFFFFF          |
+| unsigned long long int | 8 Byte   | 0-18,446,744,073,709,551.615 | 0-0xFFFFFFFFFFFFFFFF |
 
 有符号数据类型表
 ```
@@ -371,6 +371,8 @@ ret 8                ; 平栈 8/4=2可知2个参数
 ```
 
 # 编译
+[C++编译优化之—so动态库依赖](https://mp.weixin.qq.com/s/m7oVgk_lbtAAgwmH9zfvdA)
+
 ```sh
 gcc -m32 main.c       # 32位编译
 gcc -fpie -pie main.c # 开启pie
@@ -378,6 +380,7 @@ gcc -Os -o a          # 编译优化
 gcc -Os -ffunction-sections -fdata-sections -s -Wl,--gc-sections setkey.c
 gcc -Os -ffunction-sections -fdata-sections -s setkey.c
 gcc main.c -lm        # 连接数学库
+gcc -o tcptunnel tcptunnel.o -lws2_32 # 链接 Winsock2 库。
 ```
 
 链接参数LDFLAGS: -Wl,-Map=object.map,--cref,--gc-section
@@ -701,6 +704,9 @@ GAMES101: 现代计算机图形学入门 https://sites.cs.ucsb.edu/~lingqi/teach
 
 [[原创]通过DLL注入魔改植物大战僵尸(2)——僵尸篇](https://bbs.pediy.com/thread-264406.htm) 
 [[原创]通过DLL注入魔改植物大战僵尸(1)——准备工作](https://bbs.pediy.com/thread-264356.htm) 
+
+## 免杀
+[shellcode loader的编写](https://mp.weixin.qq.com/s/sfxmWf9nCQeAc7PRRG5eaQ)
 ## QT
 [Qt教程-公众号](https://mp.weixin.qq.com/s/PjMXKhW-7VO_w4r0tM19TQ)
 
