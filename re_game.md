@@ -14,6 +14,8 @@
 [游戏逆向/脚本如何入门如何学习](https://www.bilibili.com/video/BV1Hi4y1S7B4/)
 [2022年最全游戏逆向/脚本专题-零基础易语言教程](https://www.bilibili.com/video/BV1iS4y1P7QK/)
 
+[逆向植物大战僵尸](https://www.bilibili.com/video/BV1uk4y1x7RA/)
+
 
 # 飞郁
 

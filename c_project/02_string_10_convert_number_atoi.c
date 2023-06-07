@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
+#include <assert.h>
 
 void left_align_sprintf();
 
@@ -76,4 +77,21 @@ void left_align_sprintf() {
     char str[6];
     sprintf(str, "%d", 3); // 3 转为了 [3, 0, 0,0,0,0]
     printf("%s\n", str);
+}
+
+void number_to_string_compare() {
+    char arr[] = "8eef";
+    int x = 0x8eef;
+    char result[5];
+
+    sprintf(result, "%x", x); // 将 x 转换为十六进制字符串并保存到 result 中
+    assert(strcmp(result, arr) == 0); // 断言 result 和 arr 相等
+
+
+    char str1[] = "\x8a\xc1\x0a\xe0\x3c\x87\xe9\x9f";
+    char enc1[17] = {0};
+    for (int i = 0; i < 8; ++i) {
+        sprintf(enc1 + i * 2, "%02x",(unsigned char ) str1[i]);
+    }
+    assert(strcmp(enc1, "8ac10ae03c87e99f") == 0);
 }

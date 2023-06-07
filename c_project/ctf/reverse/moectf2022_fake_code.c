@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#include <Windows.h>
+#include <windows.h>
 //#include <exception>
 
 int key = 0x19;

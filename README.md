@@ -11,7 +11,8 @@
 - [rkvir 逆向工程学院](https://space.bilibili.com/447734880/video)
 - [KKB 新职课 C++开发工程师 V4 ](https://www.ruike1.com/thread-59675-1-1.html)
 - [C++ Linux 服务器开发高级架构师课程](https://www.ruike1.com/thread-52601-1-1.html)
-
+- [火哥Windows内核课程（上+下)](https://www.ruike1.com/thread-54920-1-1.html)
+- 
 # C 学习
 
 ## 标准
@@ -396,6 +397,11 @@ gcc -Os -ffunction-sections -fdata-sections -s -Wl,--gc-sections setkey.c
 gcc -Os -ffunction-sections -fdata-sections -s setkey.c
 gcc main.c -lm        # 连接数学库
 gcc -o tcptunnel tcptunnel.o -lws2_32 # 链接 Winsock2 库。
+
+gcc -o test test.c // 默认情况下，不开启Canary保护
+gcc -fno-stack-protector -o test test.c //禁用栈保护
+gcc -fstack-protector -o test test.c //启用堆栈保护，不过只为局部变量中含有 char 数组的函数插入保护代码
+gcc -fstack-protector-all -o test test.c //启用堆栈保护，为所有函数插入保护代码
 ```
 
 链接参数 LDFLAGS: -Wl,-Map=object.map,--cref,--gc-section
@@ -724,6 +730,7 @@ GAMES101: 现代计算机图形学入门 https://sites.cs.ucsb.edu/~lingqi/teach
 [[原创]通过 DLL 注入魔改植物大战僵尸(2)——僵尸篇](https://bbs.pediy.com/thread-264406.htm)
 [[原创]通过 DLL 注入魔改植物大战僵尸(1)——准备工作](https://bbs.pediy.com/thread-264356.htm)
 
+[C++多线程开发之互斥锁](https://mp.weixin.qq.com/s/ldDPha366xUCXfn_SUshWg)
 ## 免杀
 [shellcode loader的编写](https://mp.weixin.qq.com/s/sfxmWf9nCQeAc7PRRG5eaQ)
 
