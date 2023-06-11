@@ -11,8 +11,9 @@
 - [rkvir 逆向工程学院](https://space.bilibili.com/447734880/video)
 - [KKB 新职课 C++开发工程师 V4 ](https://www.ruike1.com/thread-59675-1-1.html)
 - [C++ Linux 服务器开发高级架构师课程](https://www.ruike1.com/thread-52601-1-1.html)
-- [火哥Windows内核课程（上+下)](https://www.ruike1.com/thread-54920-1-1.html)
-- 
+- [火哥 Windows 内核课程（上+下)](https://www.ruike1.com/thread-54920-1-1.html)
+-
+
 # C 学习
 
 ## 标准
@@ -44,13 +45,13 @@ C 开始追求的是自由、信任，相信程序员可以写好代码。
 自然数数据类型表
 | 类型名称 | 内存占用 | 取值范围(十进制) | 取值范围(十六进制) |
 | ---------------------- | -------- | ---------------------------- | -------------------- |
-| unsigned char          | 1 Byte   | 0-255                        | 0-0xFF               |
-| unsigned short         | 2 Byte   | 0-65535                      | 0-0xFFFF             |
-| unsigned int           | 4 Byte   | 0-4294967295                 | 0-0xFFFFFFFF         |
-| unsigned               | 4 byte   | 0-4294967295                 | 0-0xFFFFFFFF         |
-| unsigned long          | 4 Byte   | 8-4294967295                 | 0-0xFFFFFFFF         |
-| unsigned long long     | 8 Byte   | 0-18,446,744,073,709,551,615 | 0-0xFFFFFFFFFFFFFFFF |
-| unsigned long long int | 8 Byte   | 0-18,446,744,073,709,551.615 | 0-0xFFFFFFFFFFFFFFFF |
+| unsigned char | 1 Byte | 0-255 | 0-0xFF |
+| unsigned short | 2 Byte | 0-65535 | 0-0xFFFF |
+| unsigned int | 4 Byte | 0-4294967295 | 0-0xFFFFFFFF |
+| unsigned | 4 byte | 0-4294967295 | 0-0xFFFFFFFF |
+| unsigned long | 4 Byte | 8-4294967295 | 0-0xFFFFFFFF |
+| unsigned long long | 8 Byte | 0-18,446,744,073,709,551,615 | 0-0xFFFFFFFFFFFFFFFF |
+| unsigned long long int | 8 Byte | 0-18,446,744,073,709,551.615 | 0-0xFFFFFFFFFFFFFFFF |
 
 有符号数据类型表
 
@@ -387,7 +388,8 @@ ret 8                ; 平栈 8/4=2可知2个参数
 ```
 
 # 编译/Link
-[C++编译优化之—so动态库依赖](https://mp.weixin.qq.com/s/m7oVgk_lbtAAgwmH9zfvdA)
+
+[C++编译优化之—so 动态库依赖](https://mp.weixin.qq.com/s/m7oVgk_lbtAAgwmH9zfvdA)
 
 ```sh
 gcc -m32 main.c       # 32位编译
@@ -406,17 +408,46 @@ gcc -fstack-protector-all -o test test.c //启用堆栈保护，为所有函数�
 
 链接参数 LDFLAGS: -Wl,-Map=object.map,--cref,--gc-section
 
-| Params  | Desc                                                                                                |
-| ------- | --------------------------------------------------------------------------------------------------- |
-| -g      | 添加调试信息                                                                                        |
-| -m32    | 32 位编译                                                                                           |
-| -m64    | 64 位编译                                                                                           |
-| -mx32   | 将 int，long 和指针设为 32 位，适用于 X86-64                                                        |
-| -static | 静态链接, 打包所有函数, 在 Visualstudio 中 /MT, /MTD 在 配置属性 - C/C++ - 代码生成 - 运行库 中设置 |
-| -s      | strip 去符号 https://stackoverflow.com/questions/38675403/how-to-config-cmake-for-strip-file        |
-|         | 或直接 strip main.exe 来缩小体积                                                                    |
+| Params                 | Desc                                                                                                |
+| ---------------------- | --------------------------------------------------------------------------------------------------- |
+| -g                     | 添加调试信息                                                                                        |
+| -m32                   | 32 位编译                                                                                           |
+| -m64                   | 64 位编译                                                                                           |
+| -mx32                  | 将 int，long 和指针设为 32 位，适用于 X86-64                                                        |
+| -static                | 静态链接, 打包所有函数, 在 Visualstudio 中 /MT, /MTD 在 配置属性 - C/C++ - 代码生成 - 运行库 中设置 |
+| -s                     | strip 去符号 https://stackoverflow.com/questions/38675403/how-to-config-cmake-for-strip-file        |
+|                        | 或直接 strip main.exe 来缩小体积                                                                    |
+| ---- PWN ---           |
+| ---- PWN_NX(DEP) ---   |                                                                                                     |
+| -z execstack           | 禁用 NX 保护                                                                                        |
+| -z noexecstack         | 开启 NX 保护(默认) 堆栈禁止执行                                                                     |
+| -                      |
+| ---- PWN_RELRO ---     | GOT 写保护                                                                                          |
+| -z norelro             | 关闭                                                                                                |
+| -z lazy                | 部分开启, 默认                                                                                      |
+| -z now                 | 全部开启                                                                                            |
+| ---- PWN_PIE(ASLR) --- |                                                                                                     |
+| -no-pie                | 关闭 PIE, 地址不随机                                                                                |
+| -fpie -pie             | 开启 PIE，此时强度为 1                                                                              |
+| -fPIE -pie             | 开启 PIE，此时为最高强度 2 代码段、数据段地址随机化                                                 |
+| ---- PWN_CANARY ---    |                                                                                                     |
+| -fno-stack-protector   | 禁用                                                                                                |
+| -fstack-protector      | 开启                                                                                                |
+| -fstack-protector-all  | 完全开启 堆栈溢出哨兵                                                                               |
+| ---- PWN_FORTIFY ---   |                                                                                                     |
+| -D_FORTIFY_SOURCE=1    | 较弱的检查                                                                                          |
+| -D_FORTIFY_SOURCE=2    | 较强的检查 常用函数加强检查                                                                         |
 
 最后上 upx 减小体积
+
+pwn 参数总结
+
+| PWN    | flag                                                            | Desc                       |
+| ------ | --------------------------------------------------------------- | -------------------------- |
+| NX     | -z execstack / -z noexecstack                                   | 关闭 / 开启                |
+| Canary | -fno-stack-protector /-fstack-protector / -fstack-protector-all | 关闭 / 开启 / 全开启       |
+| PIE    | -no-pie / -pie                                                  | 关闭 / 开启                |
+| RELRO  | -z norelro / -z lazy / -z now                                   | 关闭 / 部分开启 / 完全开启 |
 
 ## CMake
 
@@ -731,8 +762,10 @@ GAMES101: 现代计算机图形学入门 https://sites.cs.ucsb.edu/~lingqi/teach
 [[原创]通过 DLL 注入魔改植物大战僵尸(1)——准备工作](https://bbs.pediy.com/thread-264356.htm)
 
 [C++多线程开发之互斥锁](https://mp.weixin.qq.com/s/ldDPha366xUCXfn_SUshWg)
+
 ## 免杀
-[shellcode loader的编写](https://mp.weixin.qq.com/s/sfxmWf9nCQeAc7PRRG5eaQ)
+
+[shellcode loader 的编写](https://mp.weixin.qq.com/s/sfxmWf9nCQeAc7PRRG5eaQ)
 
 ## QT
 

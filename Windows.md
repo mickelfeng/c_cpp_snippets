@@ -91,5 +91,6 @@ int _tmain()
 # Aritcle
 
 [键盘消息 | [原创] 从应用层到MCU，看Windows处理键盘输入 [1.在应用层调试Notepad.exe (按键消费者)] ](https://bbs.kanxue.com/user-home-399589.htm)
+[国外油管大神C++游戏编程实战教程，新手6小时入门，并快速达到游戏开发能力（中英字](https://www.bilibili.com/video/BV16h4y1d766/) 
 
 
