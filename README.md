@@ -12,7 +12,7 @@
 - [KKB 新职课 C++开发工程师 V4 ](https://www.ruike1.com/thread-59675-1-1.html)
 - [C++ Linux 服务器开发高级架构师课程](https://www.ruike1.com/thread-52601-1-1.html)
 - [火哥 Windows 内核课程（上+下)](https://www.ruike1.com/thread-54920-1-1.html)
--
+- [rkvir逆向工程学院](https://space.bilibili.com/447734880)
 
 # C 学习
 
