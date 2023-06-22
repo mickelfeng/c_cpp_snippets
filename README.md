@@ -12,7 +12,7 @@
 - [KKB 新职课 C++开发工程师 V4 ](https://www.ruike1.com/thread-59675-1-1.html)
 - [C++ Linux 服务器开发高级架构师课程](https://www.ruike1.com/thread-52601-1-1.html)
 - [火哥 Windows 内核课程（上+下)](https://www.ruike1.com/thread-54920-1-1.html)
-- [rkvir逆向工程学院](https://space.bilibili.com/447734880)
+- [rkvir 逆向工程学院](https://space.bilibili.com/447734880)
 
 # C 学习
 
@@ -762,10 +762,12 @@ GAMES101: 现代计算机图形学入门 https://sites.cs.ucsb.edu/~lingqi/teach
 [[原创]通过 DLL 注入魔改植物大战僵尸(1)——准备工作](https://bbs.pediy.com/thread-264356.htm)
 
 [C++多线程开发之互斥锁](https://mp.weixin.qq.com/s/ldDPha366xUCXfn_SUshWg)
+[C/C++内存泄漏-原因、避免以及定位](https://mp.weixin.qq.com/s/hXRdYtOncTgtSm8C4EICJg)
 
 ## 免杀
 
 [shellcode loader 的编写](https://mp.weixin.qq.com/s/sfxmWf9nCQeAc7PRRG5eaQ)
+[在 ShellCode 里面使用异常处理(Win64 位平台)](https://mp.weixin.qq.com/s/I2lw1j63QsDmjtKyJalveg)
 
 ## QT
 
