@@ -781,3 +781,8 @@ https://docs.microsoft.com/zh-cn/cpp/assembler/inline/defining-asm-blocks-as-c-m
 ## 调试器
 
 [从零开始编写简易调试器](https://mp.weixin.qq.com/s/ah29tzVT2B_4mx5wxSNlzA)
+
+## Book
+
+深度探索C++对象模型
+STL源码剖析
