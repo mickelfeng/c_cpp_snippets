@@ -763,7 +763,13 @@ GAMES101: 现代计算机图形学入门 https://sites.cs.ucsb.edu/~lingqi/teach
 
 [C++多线程开发之互斥锁](https://mp.weixin.qq.com/s/ldDPha366xUCXfn_SUshWg)
 [C/C++内存泄漏-原因、避免以及定位](https://mp.weixin.qq.com/s/hXRdYtOncTgtSm8C4EICJg)
-
+[每天学点C++之共享数据](https://mp.weixin.qq.com/s/mvzcFMkvgNmpkRQZI8GWWQ)
+[C++第三方开发库 libcurl](https://mp.weixin.qq.com/s/u7HMfXUifR76Aiw5rJNb7g)
+[Linux下C/C++ 多线程SSH扫描与暴力攻击](https://mp.weixin.qq.com/s/QjKzIVs1FL0Iidwj0xW_PA)
+## 基础
+[C++ 提高篇 : struct和class区别](https://mp.weixin.qq.com/s/LCAyOc0V22pXY0T0xK6JqQ)
+[C++提高篇：深拷贝与浅拷贝](https://mp.weixin.qq.com/s/MNuBdltrhdxgFasD990ksQ)
+[跟我学c++中级篇——省略号的巧妙应用](https://mp.weixin.qq.com/s/8x5NRfq6F5yIaHfAf0lGVQ)
 ## 免杀
 
 [shellcode loader 的编写](https://mp.weixin.qq.com/s/sfxmWf9nCQeAc7PRRG5eaQ)
