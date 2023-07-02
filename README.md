@@ -763,13 +763,17 @@ GAMES101: 现代计算机图形学入门 https://sites.cs.ucsb.edu/~lingqi/teach
 
 [C++多线程开发之互斥锁](https://mp.weixin.qq.com/s/ldDPha366xUCXfn_SUshWg)
 [C/C++内存泄漏-原因、避免以及定位](https://mp.weixin.qq.com/s/hXRdYtOncTgtSm8C4EICJg)
-[每天学点C++之共享数据](https://mp.weixin.qq.com/s/mvzcFMkvgNmpkRQZI8GWWQ)
+[每天学点 C++之共享数据](https://mp.weixin.qq.com/s/mvzcFMkvgNmpkRQZI8GWWQ)
 [C++第三方开发库 libcurl](https://mp.weixin.qq.com/s/u7HMfXUifR76Aiw5rJNb7g)
-[Linux下C/C++ 多线程SSH扫描与暴力攻击](https://mp.weixin.qq.com/s/QjKzIVs1FL0Iidwj0xW_PA)
+[Linux 下 C/C++ 多线程 SSH 扫描与暴力攻击](https://mp.weixin.qq.com/s/QjKzIVs1FL0Iidwj0xW_PA)
+
 ## 基础
-[C++ 提高篇 : struct和class区别](https://mp.weixin.qq.com/s/LCAyOc0V22pXY0T0xK6JqQ)
+
+[C++ 提高篇 : struct 和 class 区别](https://mp.weixin.qq.com/s/LCAyOc0V22pXY0T0xK6JqQ)
 [C++提高篇：深拷贝与浅拷贝](https://mp.weixin.qq.com/s/MNuBdltrhdxgFasD990ksQ)
-[跟我学c++中级篇——省略号的巧妙应用](https://mp.weixin.qq.com/s/8x5NRfq6F5yIaHfAf0lGVQ)
+[跟我学 c++中级篇——省略号的巧妙应用](https://mp.weixin.qq.com/s/8x5NRfq6F5yIaHfAf0lGVQ)
+[每天学点 C++之条件竞争](https://mp.weixin.qq.com/s/HYBMfsei965gzMKmxsXtuQ)
+
 ## 免杀
 
 [shellcode loader 的编写](https://mp.weixin.qq.com/s/sfxmWf9nCQeAc7PRRG5eaQ)
@@ -790,5 +794,5 @@ https://docs.microsoft.com/zh-cn/cpp/assembler/inline/defining-asm-blocks-as-c-m
 
 ## Book
 
-深度探索C++对象模型
-STL源码剖析
+深度探索 C++对象模型
+STL 源码剖析
