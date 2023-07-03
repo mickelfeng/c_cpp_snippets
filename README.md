@@ -773,6 +773,7 @@ GAMES101: 现代计算机图形学入门 https://sites.cs.ucsb.edu/~lingqi/teach
 [C++提高篇：深拷贝与浅拷贝](https://mp.weixin.qq.com/s/MNuBdltrhdxgFasD990ksQ)
 [跟我学 c++中级篇——省略号的巧妙应用](https://mp.weixin.qq.com/s/8x5NRfq6F5yIaHfAf0lGVQ)
 [每天学点 C++之条件竞争](https://mp.weixin.qq.com/s/HYBMfsei965gzMKmxsXtuQ)
+[每天学点 C++之限时等待](https://mp.weixin.qq.com/s/toPz6SI4A_RHtmise7bzOQ)
 
 ## 免杀
 
