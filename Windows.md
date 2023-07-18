@@ -105,6 +105,7 @@ int _tmain()
 [键盘消息 | [原创] 从应用层到 MCU，看 Windows 处理键盘输入 [1.在应用层调试 Notepad.exe (按键消费者)] ](https://bbs.kanxue.com/user-home-399589.htm)
 [国外油管大神 C++游戏编程实战教程，新手 6 小时入门，并快速达到游戏开发能力（中英字](https://www.bilibili.com/video/BV16h4y1d766/)
 [Windows远端线程执行任意API的设计与实现](https://mp.weixin.qq.com/s/bqLiDI-kt6dDIWyl-C3K0Q)
+[windows-api-function-cheatsheets](https://github.com/snowcra5h/windows-api-function-cheatsheets)
 
 ## MFC
 [极安御信网络安全系列课程-Windows逆向基础-MFC源码分析(MFC窗口创建机制)](https://www.bilibili.com/video/BV1Ym4y1q7FD/) 
