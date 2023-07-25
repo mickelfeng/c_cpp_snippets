@@ -798,3 +798,10 @@ https://docs.microsoft.com/zh-cn/cpp/assembler/inline/defining-asm-blocks-as-c-m
 
 深度探索 C++对象模型
 STL 源码剖析
+
+## 操作系统
+
+* 内存管理机制
+* 文件管理机制
+* 设备管理机制
+* 进程线程管理机制
