@@ -2,6 +2,8 @@
 [飞郁](https://space.bilibili.com/476729843/video)
 [任鸟飞逆向安全](https://space.bilibili.com/413483715)
 
+[植物大战僵尸修改器制作--从入门到入土](https://mp.weixin.qq.com/s/y3IK6h5ZdgOuXNMBx7Siag)
+
 [【直播回放】3月31日-变态功能与自动寻路call定位分析](https://www.bilibili.com/video/BV1Zs4y177f3/)
 [2023年最新！引擎逆向专题-虚幻引擎通杀逆向分析与实战](https://www.bilibili.com/video/BV1Vv4y1p73s/)
 [【直播回放】3月24日-IDA逆向还原天龙怀旧人物二叉树正向代码](https://www.bilibili.com/video/BV14x4y1A7YP/)
