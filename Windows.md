@@ -99,6 +99,8 @@ int _tmain()
 [PE 简单解析器](https://secondbc.github.io/SecondBC/2022/11/12/PE简单解析器/)
 [一周学会 Windbg 调试器使用第 8 篇 - 何时使用 Windbg 进行动态调试](https://www.bilibili.com/video/BV1DX4y1b7bq/)
 [极安御信网络安全系列课程-C++ shellcode加载器原理](https://www.bilibili.com/video/BV19P411v7rX/) 
+[DLL显式调用及隐式调用](https://www.bilibili.com/video/BV1M44y1F79S/)
+[dll延迟加载技术](https://mp.weixin.qq.com/s/wxNQ7yn1W1s85hR8CZGeRQ)
 
 # Aritcle
 
