@@ -92,6 +92,7 @@ int _tmain()
   #define
 
 ## 安全编程
+- CTF\binary\Reverse\index.md
 
 [Windows_Shellcode_内联汇编](https://secondbc.github.io/SecondBC/2023/06/19/Windows_Shellcode/)
 [Windows 编程](https://secondbc.github.io/SecondBC/2022/12/04/Windows编程/)
