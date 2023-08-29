@@ -102,6 +102,9 @@ int _tmain()
 [极安御信网络安全系列课程-C++ shellcode加载器原理](https://www.bilibili.com/video/BV19P411v7rX/) 
 [DLL显式调用及隐式调用](https://www.bilibili.com/video/BV1M44y1F79S/)
 [dll延迟加载技术](https://mp.weixin.qq.com/s/wxNQ7yn1W1s85hR8CZGeRQ)
+[免杀基础之DLL远程线程注入](https://mp.weixin.qq.com/s/oaVq98wxbA6OOxoMcStBIw)
+## 寻址
+[动态寻找函数地址](https://mp.weixin.qq.com/s/zVJvggesZTtvvK__aR4jtw)
 
 # Aritcle
 
