@@ -1,6 +1,8 @@
 Google 搜索 Visual Studio tutorials | C++
 https://learn.microsoft.com/en-us/cpp/get-started/?view=msvc-170
 
+[C++课程资源.md](https://github.com/ritianpig/-/blob/main/C++%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%BA%90.md)
+
 # 1 错误处理
 
 常见函数返回值的数据类型
