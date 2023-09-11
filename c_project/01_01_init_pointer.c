@@ -9,6 +9,8 @@ void createPointer();
 
 void functionPointer3Immediately();
 
+void char2_passptr();
+
 int Add(int x, int y) { return x + y; }
 
 void test(char *str) {};
@@ -32,6 +34,7 @@ void functionPointer4call(int n, void (*fn)()) {
 int main() {
     createPointer();
     char1();
+    char2_passptr();
     char src[] = "Hello World!";
     // char src[] = "Hello World!"; // 1
     // char *src = "Hello World!";     // 2
@@ -45,6 +48,15 @@ int main() {
     void ( *fn)() = &test2;
     functionPointer4call(4, fn);
     return (0);
+}
+
+void bf(char *c) {
+    printf("%c", *c);
+}
+
+void char2_passptr() {
+    char a = 'a';
+    bf(&a);
 }
 
 void functionPointer3Immediately() {

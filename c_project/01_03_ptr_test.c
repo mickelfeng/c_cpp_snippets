@@ -2,7 +2,7 @@
 #include <assert.h>
 #include <string.h>
 #include <malloc.h>
-
+#include "stdio.h"
 void char_test();
 
 void ptrPlus1(char *ptr_s1);
@@ -16,11 +16,21 @@ void charPtrInit2() {
     assert(strcmp(input, "888888") == 0);
 
 }
+void ptrConvert(){
+    char a[] = {0x12, 0x34, 0x56, 0x78};
+    int *two_bytes = &a[2];
+    printf("address is %x\n", two_bytes);
+    printf("value is %x\n", *two_bytes);
+    strcpy(two_bytes, "1234444");
+    printf("value is %s", *two_bytes);
+    // TODO: 输出了多余的字符. 要修复一下.
+}
 
 int main(void) {
     charPtrInit();
     charPtrInit2();
     char_test();
+    ptrConvert();
     return 0;
 }
 

@@ -754,6 +754,8 @@ GAMES101: 现代计算机图形学入门 https://sites.cs.ucsb.edu/~lingqi/teach
 [C 语言实现 DES 加解密算法](https://blog.csdn.net/weixin_45582916/article/details/121429594)
 [C 语言实现 AES 加解密算法](https://blog.csdn.net/weixin_45582916/article/details/121429445)
 [C 语言实现 TEA 系列加解密算法](https://blog.csdn.net/weixin_45582916/article/details/121425780)
+[Snippets](https://github.com/woodruffw/snippets/blob/4fcc1e0/mersenne/mersenne.c)
+
 [教你编写年轻人的第一个动态链接库 比 HelloWorld 简单](https://www.bilibili.com/video/BV1MF411w7Z9)
 
 [Http Get 请求简单实例（C++）](https://mp.weixin.qq.com/s/SMiMScCpgTAEvhBzSQ8h0g)
@@ -801,7 +803,7 @@ STL 源码剖析
 
 ## 操作系统
 
-* 内存管理机制
-* 文件管理机制
-* 设备管理机制
-* 进程线程管理机制
+- 内存管理机制
+- 文件管理机制
+- 设备管理机制
+- 进程线程管理机制
