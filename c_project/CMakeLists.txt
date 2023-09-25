@@ -23,3 +23,4 @@ foreach (file ${files})
     message (\ \ \ \ --\ src/${exe}.c\ will\ be\ compiled\ to\ bin/${exe})
 endforeach ()
 
+add_executable(md5 algorithm/md5/main.c algorithm/md5/md5.c)
