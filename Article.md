@@ -7,6 +7,7 @@
 [跟我学c++中级篇——c++11时间库实现定时器和延时](https://mp.weixin.qq.com/s/zRDc6Vgg34U43yy_FrnwkA)
 [用C++语言写一个可读的回调函数](https://mp.weixin.qq.com/s/pLhNLmx9BrLaIerfabL8yA)
 [深入探究：为什么C++有了int还需要int32_t ？](https://mp.weixin.qq.com/s/xj461SWBISrYY_ZEWEAwRA)
+[C++循环优化：提升性能的关键技巧](https://mp.weixin.qq.com/s/DiIGtUw8XmSmb4euY9HyhQ)
 
 ## 多线程
 [C++ 多线程](https://mp.weixin.qq.com/s/4P_8YNZx5I0mEp4uPMtc3g)
@@ -20,3 +21,4 @@
 
 # CMake
 [Visual Studio 功能增强：CMake 目标视图](https://mp.weixin.qq.com/s/iNMX4vqwE3F_gVWZnKgLbA)
+[CMake 中库文件的管理](https://mp.weixin.qq.com/s/n_rPdaqPeckW9iO_KyQ5rg)
