@@ -122,6 +122,9 @@ int _tmain()
 ## MFC
 [极安御信网络安全系列课程-Windows逆向基础-MFC源码分析(MFC窗口创建机制)](https://www.bilibili.com/video/BV1Ym4y1q7FD/) 
 
+## 内核编程
+[Windows内核编程》1.环境搭建以及第一个内核程序](https://www.bilibili.com/video/BV1Uw41127Vd/)
+
 ## Tools
 
 [Dependency Ms](https://learn.microsoft.com/zh-cn/cpp/windows/understanding-the-dependencies-of-a-visual-cpp-application?view=msvc-170) [Win8 前](https://www.dependencywalker.com/) [Win8 后](https://github.com/lucasg/Dependencies)
