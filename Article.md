@@ -1,6 +1,4 @@
 [跟我学c++中级篇——c++中的Abominable Function Types](https://mp.weixin.qq.com/s/_x_ZeLgzHYQmwr5fsmRD2g)
-[c++23中的新功能之十四输入输出指针](https://mp.weixin.qq.com/s/1Pz4ZO3XbaW_sJHEfKwuDg)
-[c++23中的新功能之十五类tuple类型的完全支持](https://mp.weixin.qq.com/s/e3ogdOWEu9y6vW9n-ZEWWA)
 [玩转C++小项目之短链接Demo](https://mp.weixin.qq.com/s/CWs6At3QjccU2tt4SWpVsg)
 [C++ Web 编程](https://mp.weixin.qq.com/s/S8G_6t3cYRHPO7cXqKPQyQ)
 [跟我学c++中级篇——c++11时间库实现定时器和延时](https://mp.weixin.qq.com/s/zRDc6Vgg34U43yy_FrnwkA)
@@ -11,15 +9,31 @@
 [struct | C++之结构体高级用法](https://mp.weixin.qq.com/s/UmkjrJITMmuIMEDdswrcig)
 [struct | C+ 结构体 +使用union+struct实现bit协议的处理封装](https://mp.weixin.qq.com/s/2J_aZzs23O9PYdzeFlbWZw)
 [file | C++ 操作文本文件](https://mp.weixin.qq.com/s/VZN2njLARlIiM5ddZKHP7g)
-[C++23中的新功能之十四expected和optional](https://mp.weixin.qq.com/s/X6ISOR3wD6HmcgWKJhzceg)
 [C++函数式编程Ⅰ](https://mp.weixin.qq.com/s/AUGVjkbZn32zPM3utBeV0w)
 [C++中定义宏的时候行末尾的反斜杠是什么意思？](https://mp.weixin.qq.com/s/-eK2QXFeC-InfQrx4gR8zg)
 [C++类型转换](https://mp.weixin.qq.com/s/QXpsX1XmWy1Yglt7yE56yA)
-[链表和C++ std::list详解](https://mp.weixin.qq.com/s/aE3wvZ6UAWKlvehWzuyn9A)
-[C++ 多线程详解之 lock](https://mp.weixin.qq.com/s/j-LQC7d8nLkUYldr-m6YSA)
 [轻描淡写C++运算符重载](https://mp.weixin.qq.com/s/_CMuDS6NMC2QPrpBdmi40Q)
 [C++复制构造函数与析构函数](https://mp.weixin.qq.com/s/-YmmosFwsoYZWL9v-mX7Ag
 [C++ 的 `make_from_tuple` 和 apply](https://mp.weixin.qq.com/s/fBh9nR89zWEoQiOBVahnBQ)
+[C++ 智能指针](https://mp.weixin.qq.com/s/JHyvDPngjjL2QRZ_nkRirA)
+
+[c++23中的新功能之一介绍](http://mp.weixin.qq.com/s?__biz=MzU0OTkzNjU2OA==&mid=2247485094&idx=1&sn=aefed4b6b72bd59f2bdce8de47c7d22c)
+[c++23中的新功能之二语法中的Deducing This](http://mp.weixin.qq.com/s?__biz=MzU0OTkzNjU2OA==&mid=2247485102&idx=1&sn=47384ac68b20f75fc11af476d74ae766)
+[c++23中的新功能之三zip的应用](http://mp.weixin.qq.com/s?__biz=MzU0OTkzNjU2OA==&mid=2247485106&idx=1&sn=0c585896a6195555dd1b6a173f9c6d2e)
+[c++23中的新功能之四generator](http://mp.weixin.qq.com/s?__biz=MzU0OTkzNjU2OA==&mid=2247485114&idx=1&sn=0501fda5ed0eea528399cbc7b359fb31)
+[c++23中的新功能之五堆栈信息库](http://mp.weixin.qq.com/s?__biz=MzU0OTkzNjU2OA==&mid=2247485177&idx=1&sn=b1a55b42e7cfccd9fa7a455e37923784)
+[c++23中的新功能之六更简单的隐性Move](http://mp.weixin.qq.com/s?__biz=MzU0OTkzNjU2OA==&mid=2247485181&idx=1&sn=e5f7b6d1189b4ee78dc72e3c327f8e0d)
+[c++23中的新功能之七三个新的扩展](http://mp.weixin.qq.com/s?__biz=MzU0OTkzNjU2OA==&mid=2247485185&idx=1&sn=18834556a8d6cbfe8c1db0a09adf6650)
+[c++23中的新功能之八隔离编译期与运行期](https://mp.weixin.qq.com/s/RlPio8c2VYfOSmlqE11F8w)
+[c++23中的新功能之九确定性定义顺序](https://mp.weixin.qq.com/s/WzOA4QZTAGABgbOggAgOEw)
+[c++23中的新功能之十平坦容器](http://mp.weixin.qq.com/s?__biz=MzU0OTkzNjU2OA==&mid=2247485217&idx=1&sn=2ec1f9de3f738770feb0df1f5f042c4c)
+[c++23中的新功能之十一Ranges中的Fold](http://mp.weixin.qq.com/s?__biz=MzU0OTkzNjU2OA==&mid=2247485242&idx=1&sn=ecdf8426cb87b8651d94db9ff934e223)
+[c++23中的新功能之十二格式化输出](https://mp.weixin.qq.com/s/jRwGxAslchCwWJzD-74laA)
+[c++23中的新功能之十三Ranges的as系列](http://mp.weixin.qq.com/s?__biz=MzU0OTkzNjU2OA==&mid=2247485324&idx=1&sn=f762b3a3cbac57c40fb9de188cca8608)
+[c++23中的新功能之十四输入输出指针](https://mp.weixin.qq.com/s/1Pz4ZO3XbaW_sJHEfKwuDg)
+[C++23中的新功能之十四expected和optional](https://mp.weixin.qq.com/s/X6ISOR3wD6HmcgWKJhzceg)
+[c++23中的新功能之十五类tuple类型的完全支持](https://mp.weixin.qq.com/s/e3ogdOWEu9y6vW9n-ZEWWA)
+[c++23中的新功能之十六std::forward_like](https://mp.weixin.qq.com/s/Pb7pjEKvSXMTvUjlFxWuag)
 
 [const | const修饰指针的理解](https://mp.weixin.qq.com/s/JF_EwyA9hKakj1yDLJ3_ew)
 [const | C++中const、constexpr和consteval的同与不同](https://mp.weixin.qq.com/s/C-Rl1BvlrYZRQh0EU4Kz9A)
@@ -30,6 +44,8 @@
 [模板 | C/C++开发基础——可变参数与可变参数模板](https://mp.weixin.qq.com/s/LeRby8HFneZm4Te_K7NlaA)
 [模板 | 现代C++（8）：typename优化，模板参数优化，模板实参推导，CTAD](https://mp.weixin.qq.com/s/4Ok6BOuHDYu_u8CV6G2Tog)
 [模板 | 跟我学c++高级篇——模板的ADL](https://mp.weixin.qq.com/s/d-denCz2O2ypNB_JFbo68Q)
+[std | 链表和C++ std::list详解](https://mp.weixin.qq.com/s/aE3wvZ6UAWKlvehWzuyn9A)
+[std | 【一分钟笔记】C++ std::thread可以绑定哪些线程任务函数](https://mp.weixin.qq.com/s/ut7kuTRcW5nlE3ap8Ce3Bw)
 [std | 深入解析现代C++中的原子（std::atomic）](https://mp.weixin.qq.com/s/VVFZlcXqjvFlxt_T8mAS6w
 
 [C++ invoke与function的区别](https://mp.weixin.qq.com/s/qgQUBshw1g-VsUDdpc1QYg
@@ -37,16 +53,18 @@
 
 ## 多线程
 [C++ 多线程](https://mp.weixin.qq.com/s/4P_8YNZx5I0mEp4uPMtc3g)
-[C++多线程 | 一个基础的多线程案例](https://mp.weixin.qq.com/s/b8LIo9LhutMKXDfzXNK9Vw)
+[C++ 多线程 | 一个基础的多线程案例](https://mp.weixin.qq.com/s/b8LIo9LhutMKXDfzXNK9Vw)
 [C++ 多线程详解之 std::call_once](https://mp.weixin.qq.com/s/M9eLb0tvfTMr3p63Iujl3g)
 [C++ 多线程详解之互斥锁 mutex](https://mp.weixin.qq.com/s/E3efgIowdpEJPSpV9TyAQQ)(9月28日)
 [C++ 多线程详解之原子变量 atomic](https://mp.weixin.qq.com/s/eHlIB9rzJvkf3orDSLR4yw)(9月28日)
 [C++ 多线程详解之互斥锁 mutex](https://mp.weixin.qq.com/s/E3efgIowdpEJPSpV9TyAQQ)(9月28日)
 [C++ 多线程详解之异步编程 std::packaged_task](https://mp.weixin.qq.com/s/NV_BUok_O_ATxasL8pnHZg)(9月28日)
 [C++ 多线程详解之条件变量](https://mp.weixin.qq.com/s/wpyza9qkq1-BwpBcrPE2BA)(9月28日)
+[C++ 多线程详解之 lock](https://mp.weixin.qq.com/s/j-LQC7d8nLkUYldr-m6YSA)
 
 ## 协程
 [性能炸裂c++20协程+iocp/epoll，C++20无栈协程超轻量高性能异步库开发实战](https://mp.weixin.qq.com/s/ypxJkt7NLapQCuPhjZodZQ)
+[掌握C/C++协程编程，轻松驾驭并发编程世界](https://mp.weixin.qq.com/s/xsgrzYh4w0r9_4uzTAVw_w)
 
 ## Package
 [C++ 好用的 Json 解析库--JsonCpp](https://mp.weixin.qq.com/s/ghBTjt50CugNefXm5cd8qQ)
