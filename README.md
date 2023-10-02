@@ -387,7 +387,7 @@ call sword2ui.41FD40 ;
 ret 8                ; 平栈 8/4=2可知2个参数
 ```
 
-# 编译/Link
+# 编译/Link/gcc/
 
 [C++编译优化之—so 动态库依赖](https://mp.weixin.qq.com/s/m7oVgk_lbtAAgwmH9zfvdA)
 
@@ -417,6 +417,7 @@ gcc -fstack-protector-all -o test test.c //启用堆栈保护，为所有函数�
 | -static                | 静态链接, 打包所有函数, 在 Visualstudio 中 /MT, /MTD 在 配置属性 - C/C++ - 代码生成 - 运行库 中设置 |
 | -s                     | strip 去符号 https://stackoverflow.com/questions/38675403/how-to-config-cmake-for-strip-file        |
 |                        | 或直接 strip main.exe 来缩小体积                                                                    |
+| -c                     | 编译对象(无 main)<br> gcc es3.c -c <br>gcc es3.o main.c -o es3 (编译 main 时包含 es3 对象)          |
 | ---- PWN ---           |
 | ---- PWN_NX(DEP) ---   |                                                                                                     |
 | -z execstack           | 禁用 NX 保护                                                                                        |
