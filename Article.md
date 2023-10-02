@@ -6,9 +6,6 @@
 [深入探究：为什么C++有了int还需要int32_t ？](https://mp.weixin.qq.com/s/xj461SWBISrYY_ZEWEAwRA)
 [C++循环优化：提升性能的关键技巧](https://mp.weixin.qq.com/s/DiIGtUw8XmSmb4euY9HyhQ)
 [C++与依赖注入](https://mp.weixin.qq.com/s/dNXp7Y7fL8b9t-YMJAVUGQ)
-[struct | C++之结构体高级用法](https://mp.weixin.qq.com/s/UmkjrJITMmuIMEDdswrcig)
-[struct | C+ 结构体 +使用union+struct实现bit协议的处理封装](https://mp.weixin.qq.com/s/2J_aZzs23O9PYdzeFlbWZw)
-[file | C++ 操作文本文件](https://mp.weixin.qq.com/s/VZN2njLARlIiM5ddZKHP7g)
 [C++函数式编程Ⅰ](https://mp.weixin.qq.com/s/AUGVjkbZn32zPM3utBeV0w)
 [C++中定义宏的时候行末尾的反斜杠是什么意思？](https://mp.weixin.qq.com/s/-eK2QXFeC-InfQrx4gR8zg)
 [C++类型转换](https://mp.weixin.qq.com/s/QXpsX1XmWy1Yglt7yE56yA)
@@ -16,6 +13,8 @@
 [C++复制构造函数与析构函数](https://mp.weixin.qq.com/s/-YmmosFwsoYZWL9v-mX7Ag
 [C++ 的 `make_from_tuple` 和 apply](https://mp.weixin.qq.com/s/fBh9nR89zWEoQiOBVahnBQ)
 [C++ 智能指针](https://mp.weixin.qq.com/s/JHyvDPngjjL2QRZ_nkRirA)
+[C++ 的双冒号是做什么](https://mp.weixin.qq.com/s/lHnWHeyGz6N9cskTr6pZ3Q)
+[跟我学c++中级篇——完美转发的异常情况](https://mp.weixin.qq.com/s/uOmFyN2WhCitpkgTHiBWCQ)
 
 [c++23中的新功能之一介绍](http://mp.weixin.qq.com/s?__biz=MzU0OTkzNjU2OA==&mid=2247485094&idx=1&sn=aefed4b6b72bd59f2bdce8de47c7d22c)
 [c++23中的新功能之二语法中的Deducing This](http://mp.weixin.qq.com/s?__biz=MzU0OTkzNjU2OA==&mid=2247485102&idx=1&sn=47384ac68b20f75fc11af476d74ae766)
@@ -47,6 +46,9 @@
 [std | 链表和C++ std::list详解](https://mp.weixin.qq.com/s/aE3wvZ6UAWKlvehWzuyn9A)
 [std | 【一分钟笔记】C++ std::thread可以绑定哪些线程任务函数](https://mp.weixin.qq.com/s/ut7kuTRcW5nlE3ap8Ce3Bw)
 [std | 深入解析现代C++中的原子（std::atomic）](https://mp.weixin.qq.com/s/VVFZlcXqjvFlxt_T8mAS6w
+[struct | C++之结构体高级用法](https://mp.weixin.qq.com/s/UmkjrJITMmuIMEDdswrcig)
+[struct | C+ 结构体 +使用union+struct实现bit协议的处理封装](https://mp.weixin.qq.com/s/2J_aZzs23O9PYdzeFlbWZw)
+[file | C++ 操作文本文件](https://mp.weixin.qq.com/s/VZN2njLARlIiM5ddZKHP7g)
 
 [C++ invoke与function的区别](https://mp.weixin.qq.com/s/qgQUBshw1g-VsUDdpc1QYg
 [异常 | 深度剖析C++ 异常机制](https://mp.weixin.qq.com/s/wO7S4_opnJySQMG0o5ApEw)
@@ -65,6 +67,9 @@
 ## 协程
 [性能炸裂c++20协程+iocp/epoll，C++20无栈协程超轻量高性能异步库开发实战](https://mp.weixin.qq.com/s/ypxJkt7NLapQCuPhjZodZQ)
 [掌握C/C++协程编程，轻松驾驭并发编程世界](https://mp.weixin.qq.com/s/xsgrzYh4w0r9_4uzTAVw_w)
+
+## 通信
+[Linux进程间通信的六种常见方式及代码实现](https://mp.weixin.qq.com/s/qz5bJ_y2NGWuWdC3U3u0lQ)
 
 ## Package
 [C++ 好用的 Json 解析库--JsonCpp](https://mp.weixin.qq.com/s/ghBTjt50CugNefXm5cd8qQ)
@@ -96,6 +101,7 @@
 
 # VSCode
 [VSCode配置C++环境](https://mp.weixin.qq.com/s/JIW8h_HDPf2BdrTnOqTPFQ)
+[VSCode同时编译多个C文件](https://mp.weixin.qq.com/s/qY-ZuwVP3BCvh4_ZxETN7Q)
 
 # C
 [C语言的一些“骚操作”及其深层理解](https://mp.weixin.qq.com/s/6ISBoxQCsZuDU3031_AulA)

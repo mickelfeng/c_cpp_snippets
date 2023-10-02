@@ -5,6 +5,8 @@ void int_to_char();
 void char_to_int();
 
 int main() {
+    char buf[30] = "\0" "1234"; // 首字符为 \0
+
     int_to_char();
     char_to_int();
     return (0);
