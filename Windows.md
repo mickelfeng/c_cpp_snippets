@@ -106,6 +106,8 @@ int _tmain()
 [DLL显式调用及隐式调用](https://www.bilibili.com/video/BV1M44y1F79S/)
 [dll延迟加载技术](https://mp.weixin.qq.com/s/wxNQ7yn1W1s85hR8CZGeRQ)
 [免杀基础之DLL远程线程注入](https://mp.weixin.qq.com/s/oaVq98wxbA6OOxoMcStBIw)
+[【逆向学习】Windows平台下的DLL注入](https://www.xunflash.top/archives/DLLInject.html) 
+
 ## 寻址
 [动态寻找函数地址](https://mp.weixin.qq.com/s/zVJvggesZTtvvK__aR4jtw)
 

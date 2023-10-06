@@ -15,6 +15,9 @@
 [C++ 智能指针](https://mp.weixin.qq.com/s/JHyvDPngjjL2QRZ_nkRirA)
 [C++ 的双冒号是做什么](https://mp.weixin.qq.com/s/lHnWHeyGz6N9cskTr6pZ3Q)
 [跟我学c++中级篇——完美转发的异常情况](https://mp.weixin.qq.com/s/uOmFyN2WhCitpkgTHiBWCQ)
+[在C++中从函数返回多个值的技巧与策略](https://mp.weixin.qq.com/s/H7EnDIOzA8JnXZqqApWMfw)
+[C++ extern的用法详细解析](https://mp.weixin.qq.com/s/22AEmGFcyvirWrZeCJumow)
+[掌握 Effective C++ : 条款29](https://mp.weixin.qq.com/s/dYBP0URrw0TIHefKJ23gqg)
 
 [c++23中的新功能之一介绍](http://mp.weixin.qq.com/s?__biz=MzU0OTkzNjU2OA==&mid=2247485094&idx=1&sn=aefed4b6b72bd59f2bdce8de47c7d22c)
 [c++23中的新功能之二语法中的Deducing This](http://mp.weixin.qq.com/s?__biz=MzU0OTkzNjU2OA==&mid=2247485102&idx=1&sn=47384ac68b20f75fc11af476d74ae766)
@@ -63,6 +66,7 @@
 [C++ 多线程详解之异步编程 std::packaged_task](https://mp.weixin.qq.com/s/NV_BUok_O_ATxasL8pnHZg)(9月28日)
 [C++ 多线程详解之条件变量](https://mp.weixin.qq.com/s/wpyza9qkq1-BwpBcrPE2BA)(9月28日)
 [C++ 多线程详解之 lock](https://mp.weixin.qq.com/s/j-LQC7d8nLkUYldr-m6YSA)
+[C++ 多线程详解之 std::thread](https://mp.weixin.qq.com/s/KDz8FyRcfqCIBCZjmkxvRA)
 
 ## 协程
 [性能炸裂c++20协程+iocp/epoll，C++20无栈协程超轻量高性能异步库开发实战](https://mp.weixin.qq.com/s/ypxJkt7NLapQCuPhjZodZQ)
@@ -80,6 +84,8 @@
 [C++使用protobuf实现序列化与反序列化](https://mp.weixin.qq.com/s/1Csoe8J9-sdnWbKVkh9wvg)
 [C++ 集成 Lua](https://mp.weixin.qq.com/s/vAWcWfbH3OX0TsecD2RcAQ)
 [C++ 好用的 xml 库--pugixml](https://mp.weixin.qq.com/s/fw4n7_pAEYtRfd5n1bSBdQ
+[网络和底层I/O编程 | C++ Boost.Asio库](https://mp.weixin.qq.com/s/36-v9HKaTNtSt1V1wlNpmw)
+[C++ 好用的异常捕获库--qBreakpad](https://mp.weixin.qq.com/s/Hz2ZUO9zeC2Trytq0PgXIg)
 
 # CMake
 [Visual Studio 功能增强：CMake 目标视图](https://mp.weixin.qq.com/s/iNMX4vqwE3F_gVWZnKgLbA)
