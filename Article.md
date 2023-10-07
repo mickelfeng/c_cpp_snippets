@@ -17,7 +17,11 @@
 [跟我学c++中级篇——完美转发的异常情况](https://mp.weixin.qq.com/s/uOmFyN2WhCitpkgTHiBWCQ)
 [在C++中从函数返回多个值的技巧与策略](https://mp.weixin.qq.com/s/H7EnDIOzA8JnXZqqApWMfw)
 [C++ extern的用法详细解析](https://mp.weixin.qq.com/s/22AEmGFcyvirWrZeCJumow)
+[深入理解 C++ 中的 extern 关键字](https://mp.weixin.qq.com/s/wy7MQI42u0BlM9-3fzJ2Yw)
 [掌握 Effective C++ : 条款29](https://mp.weixin.qq.com/s/dYBP0URrw0TIHefKJ23gqg)
+[C++ 黑魔法：非侵入式访问对象私有成员  ](https://mp.weixin.qq.com/s/bx9f5H1g7bRSOLG2JGg-pA)
+[`struct_pack` 支持C++17了，并且支持了所有类型的序列化/反序列化](https://mp.weixin.qq.com/s/wt0lSSAgvLAb_vNjlV5N5w)
+[C++自动序列化和反序列化在实际软件开发中的应用(二)](https://mp.weixin.qq.com/s/4YNj0iSkS4vgspk3WSXUTw)
 
 [c++23中的新功能之一介绍](http://mp.weixin.qq.com/s?__biz=MzU0OTkzNjU2OA==&mid=2247485094&idx=1&sn=aefed4b6b72bd59f2bdce8de47c7d22c)
 [c++23中的新功能之二语法中的Deducing This](http://mp.weixin.qq.com/s?__biz=MzU0OTkzNjU2OA==&mid=2247485102&idx=1&sn=47384ac68b20f75fc11af476d74ae766)
