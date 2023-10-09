@@ -1,3 +1,4 @@
+[C++基础|重命名数据类型](https://mp.weixin.qq.com/s/nVL6iQd6a76O7t8HJ_5kCQ)
 [跟我学c++中级篇——c++中的Abominable Function Types](https://mp.weixin.qq.com/s/_x_ZeLgzHYQmwr5fsmRD2g)
 [玩转C++小项目之短链接Demo](https://mp.weixin.qq.com/s/CWs6At3QjccU2tt4SWpVsg)
 [C++ Web 编程](https://mp.weixin.qq.com/s/S8G_6t3cYRHPO7cXqKPQyQ)
@@ -22,6 +23,9 @@
 [C++ 黑魔法：非侵入式访问对象私有成员  ](https://mp.weixin.qq.com/s/bx9f5H1g7bRSOLG2JGg-pA)
 [`struct_pack` 支持C++17了，并且支持了所有类型的序列化/反序列化](https://mp.weixin.qq.com/s/wt0lSSAgvLAb_vNjlV5N5w)
 [C++自动序列化和反序列化在实际软件开发中的应用(二)](https://mp.weixin.qq.com/s/4YNj0iSkS4vgspk3WSXUTw)
+[C++ 信号处理](https://mp.weixin.qq.com/s/tSaAIqQmOmZsGMLnQe3EyQ)
+[在C++中多使用const的理由](https://mp.weixin.qq.com/s/eRxP4M8gxW56rFWdiGaK2A)
+[C++ | map插入是拷贝还是引用](https://mp.weixin.qq.com/s/E-gK28lao0_Bx3AOaVk3zg)
 
 [c++23中的新功能之一介绍](http://mp.weixin.qq.com/s?__biz=MzU0OTkzNjU2OA==&mid=2247485094&idx=1&sn=aefed4b6b72bd59f2bdce8de47c7d22c)
 [c++23中的新功能之二语法中的Deducing This](http://mp.weixin.qq.com/s?__biz=MzU0OTkzNjU2OA==&mid=2247485102&idx=1&sn=47384ac68b20f75fc11af476d74ae766)
@@ -71,6 +75,7 @@
 [C++ 多线程详解之条件变量](https://mp.weixin.qq.com/s/wpyza9qkq1-BwpBcrPE2BA)(9月28日)
 [C++ 多线程详解之 lock](https://mp.weixin.qq.com/s/j-LQC7d8nLkUYldr-m6YSA)
 [C++ 多线程详解之 std::thread](https://mp.weixin.qq.com/s/KDz8FyRcfqCIBCZjmkxvRA)
+[C++ 多线程详解之异步编程 std::promise](https://mp.weixin.qq.com/s/Nr_uEfjU8zQhMnYuplDirg)
 
 ## 协程
 [性能炸裂c++20协程+iocp/epoll，C++20无栈协程超轻量高性能异步库开发实战](https://mp.weixin.qq.com/s/ypxJkt7NLapQCuPhjZodZQ)
@@ -90,6 +95,7 @@
 [C++ 好用的 xml 库--pugixml](https://mp.weixin.qq.com/s/fw4n7_pAEYtRfd5n1bSBdQ
 [网络和底层I/O编程 | C++ Boost.Asio库](https://mp.weixin.qq.com/s/36-v9HKaTNtSt1V1wlNpmw)
 [C++ 好用的异常捕获库--qBreakpad](https://mp.weixin.qq.com/s/Hz2ZUO9zeC2Trytq0PgXIg)
+[C++ 好用的格式化库--fmt](https://mp.weixin.qq.com/s/T55UzIo9spIcljd5hXeUzA)
 
 # CMake
 [Visual Studio 功能增强：CMake 目标视图](https://mp.weixin.qq.com/s/iNMX4vqwE3F_gVWZnKgLbA)
