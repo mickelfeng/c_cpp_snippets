@@ -1,4 +1,5 @@
 [C++基础|重命名数据类型](https://mp.weixin.qq.com/s/nVL6iQd6a76O7t8HJ_5kCQ)
+[C++中的自动返回类型推导](https://mp.weixin.qq.com/s/X4y1qhFaI3uwtbs-u4ztrQ)
 [跟我学c++中级篇——c++中的Abominable Function Types](https://mp.weixin.qq.com/s/_x_ZeLgzHYQmwr5fsmRD2g)
 [玩转C++小项目之短链接Demo](https://mp.weixin.qq.com/s/CWs6At3QjccU2tt4SWpVsg)
 [C++ Web 编程](https://mp.weixin.qq.com/s/S8G_6t3cYRHPO7cXqKPQyQ)
@@ -26,6 +27,10 @@
 [C++ 信号处理](https://mp.weixin.qq.com/s/tSaAIqQmOmZsGMLnQe3EyQ)
 [在C++中多使用const的理由](https://mp.weixin.qq.com/s/eRxP4M8gxW56rFWdiGaK2A)
 [C++ | map插入是拷贝还是引用](https://mp.weixin.qq.com/s/E-gK28lao0_Bx3AOaVk3zg)
+[C++ | 程序暂停功能](https://mp.weixin.qq.com/s/sUhJR22QlAPogdUtpXhYQw)
+[C++中的通用延迟计算](https://mp.weixin.qq.com/s/2GzAi9WHQFhjl1NjKy1iyg)
+
+[C++ 动态内存](https://mp.weixin.qq.com/s/BmEG7OLOxyG3WbDKUvpG0A)
 
 [c++23中的新功能之一介绍](http://mp.weixin.qq.com/s?__biz=MzU0OTkzNjU2OA==&mid=2247485094&idx=1&sn=aefed4b6b72bd59f2bdce8de47c7d22c)
 [c++23中的新功能之二语法中的Deducing This](http://mp.weixin.qq.com/s?__biz=MzU0OTkzNjU2OA==&mid=2247485102&idx=1&sn=47384ac68b20f75fc11af476d74ae766)
@@ -76,11 +81,13 @@
 [C++ 多线程详解之 lock](https://mp.weixin.qq.com/s/j-LQC7d8nLkUYldr-m6YSA)
 [C++ 多线程详解之 std::thread](https://mp.weixin.qq.com/s/KDz8FyRcfqCIBCZjmkxvRA)
 [C++ 多线程详解之异步编程 std::promise](https://mp.weixin.qq.com/s/Nr_uEfjU8zQhMnYuplDirg)
+[C++ 多线程详解之异步编程 future](https://mp.weixin.qq.com/s/_TFG0jQr2JzhP0qSArhCmw)
 
 ## 协程
 [性能炸裂c++20协程+iocp/epoll，C++20无栈协程超轻量高性能异步库开发实战](https://mp.weixin.qq.com/s/ypxJkt7NLapQCuPhjZodZQ)
 [掌握C/C++协程编程，轻松驾驭并发编程世界](https://mp.weixin.qq.com/s/xsgrzYh4w0r9_4uzTAVw_w)
 [C++ 20 协程总结](https://mp.weixin.qq.com/s/r-KpExzWBEVQwDnO8FxtBA)
+[解密异步IO：使用C++进行高效的网络编程](https://mp.weixin.qq.com/s/TdYfv9CESPHtmjhYUu3lkw)
 
 ## 通信
 [Linux进程间通信的六种常见方式及代码实现](https://mp.weixin.qq.com/s/qz5bJ_y2NGWuWdC3U3u0lQ)
@@ -96,6 +103,7 @@
 [网络和底层I/O编程 | C++ Boost.Asio库](https://mp.weixin.qq.com/s/36-v9HKaTNtSt1V1wlNpmw)
 [C++ 好用的异常捕获库--qBreakpad](https://mp.weixin.qq.com/s/Hz2ZUO9zeC2Trytq0PgXIg)
 [C++ 好用的格式化库--fmt](https://mp.weixin.qq.com/s/T55UzIo9spIcljd5hXeUzA)
+[C++ 好用的开源库集合--Boost](https://mp.weixin.qq.com/s/nmjd_9DQAfVXWXAhcb6dow)
 
 # CMake
 [Visual Studio 功能增强：CMake 目标视图](https://mp.weixin.qq.com/s/iNMX4vqwE3F_gVWZnKgLbA)
@@ -114,7 +122,8 @@
 [CMake 指定程序构建类型](https://mp.weixin.qq.com/s/JOi6WA_uclvmdeTF2qjVXg)(9月28日)
 [CMake 中流程控制与函数](https://mp.weixin.qq.com/s/T-mt9Mrh9BKny5wBeC3Htg)
 [小白也可以玩转CMake之常用必备](https://mp.weixin.qq.com/s/pWbiS_fvbhrrJxSBXD6Mfw)
-
+[CMake:检测外部库---使用pkg-config](https://mp.weixin.qq.com/s/sUCrI7P3tvHDYoAnPEXzLg)
+[CMake:检测外部库---自定义find模块](https://mp.weixin.qq.com/s/37XSY6BwIblf4HFVkGcVQA)
 
 # VSCode
 [VSCode配置C++环境](https://mp.weixin.qq.com/s/JIW8h_HDPf2BdrTnOqTPFQ)
@@ -132,3 +141,8 @@
 [C语言宏和指针](https://mp.weixin.qq.com/s/taTXHq4hp40coVghnjsuUA)
 [探索C语言中的__weak函数](https://mp.weixin.qq.com/s/b01JhGrSYLWY7dWZ1Ggn3A)
 [C_通用型队列-存放的值为void*指针](https://mp.weixin.qq.com/s/deel5hIY--0RRdrnmpW8Mw)
+[C语言：调试-----08. 调试标记（宏定义的使用）](https://mp.weixin.qq.com/s/F0bgUGhE2mBa7OmD08Prrw)
+[C语言：调试-----06. assert断言函数](https://mp.weixin.qq.com/s/kIXn4htLEQYhvIGthPvOQQ)
+[C语言基础：计算Struct成员偏移量的"骚操作"](https://mp.weixin.qq.com/s/8AWoL1X3XulSyP-8B5Xo4A)
+[C语言函数指针与回调函数](https://mp.weixin.qq.com/s/eEmejpEGKAXSwz6PfHpAzg)
+[C语言操作寄存器和函数指针](https://mp.weixin.qq.com/s/rDgicesnpq4zLEUKWMyhKQ)
