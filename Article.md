@@ -1,3 +1,4 @@
+[c++函数式编程：提高代码表达力和可维护性](https://mp.weixin.qq.com/s/HFyZ-Dp33i00uWllcns7Ig)
 [C++基础|重命名数据类型](https://mp.weixin.qq.com/s/nVL6iQd6a76O7t8HJ_5kCQ)
 [C++中的自动返回类型推导](https://mp.weixin.qq.com/s/X4y1qhFaI3uwtbs-u4ztrQ)
 [跟我学c++中级篇——c++中的Abominable Function Types](https://mp.weixin.qq.com/s/_x_ZeLgzHYQmwr5fsmRD2g)
@@ -29,6 +30,7 @@
 [C++ | map插入是拷贝还是引用](https://mp.weixin.qq.com/s/E-gK28lao0_Bx3AOaVk3zg)
 [C++ | 程序暂停功能](https://mp.weixin.qq.com/s/sUhJR22QlAPogdUtpXhYQw)
 [C++中的通用延迟计算](https://mp.weixin.qq.com/s/2GzAi9WHQFhjl1NjKy1iyg)
+[C++11中auto关键字的使用详解](https://mp.weixin.qq.com/s/Ou9eVf8CRDNiBeRyQeIw8A)
 
 [C++ 动态内存](https://mp.weixin.qq.com/s/BmEG7OLOxyG3WbDKUvpG0A)
 
@@ -69,6 +71,9 @@
 [C++ invoke与function的区别](https://mp.weixin.qq.com/s/qgQUBshw1g-VsUDdpc1QYg
 [异常 | 深度剖析C++ 异常机制](https://mp.weixin.qq.com/s/wO7S4_opnJySQMG0o5ApEw)
 
+性能优化
+[Linux C++性能优化：从编译器到代码，探究高性能C++程序的实现之道](https://mp.weixin.qq.com/s/0paAxMx-DgRl1rHpaRNRWw)
+
 ## 多线程
 [C++ 多线程](https://mp.weixin.qq.com/s/4P_8YNZx5I0mEp4uPMtc3g)
 [C++ 多线程 | 一个基础的多线程案例](https://mp.weixin.qq.com/s/b8LIo9LhutMKXDfzXNK9Vw)
@@ -88,6 +93,9 @@
 [掌握C/C++协程编程，轻松驾驭并发编程世界](https://mp.weixin.qq.com/s/xsgrzYh4w0r9_4uzTAVw_w)
 [C++ 20 协程总结](https://mp.weixin.qq.com/s/r-KpExzWBEVQwDnO8FxtBA)
 [解密异步IO：使用C++进行高效的网络编程](https://mp.weixin.qq.com/s/TdYfv9CESPHtmjhYUu3lkw)
+
+## 安全
+[CC++05.shellcode本地&远程分离](https://www.bilibili.com/video/BV1qN4y1y75A/)
 
 ## 通信
 [Linux进程间通信的六种常见方式及代码实现](https://mp.weixin.qq.com/s/qz5bJ_y2NGWuWdC3U3u0lQ)
@@ -124,6 +132,7 @@
 [小白也可以玩转CMake之常用必备](https://mp.weixin.qq.com/s/pWbiS_fvbhrrJxSBXD6Mfw)
 [CMake:检测外部库---使用pkg-config](https://mp.weixin.qq.com/s/sUCrI7P3tvHDYoAnPEXzLg)
 [CMake:检测外部库---自定义find模块](https://mp.weixin.qq.com/s/37XSY6BwIblf4HFVkGcVQA)
+[CMake 中构建和使用库文件](https://mp.weixin.qq.com/s/vFZERkhNeEILogoFE-FN5w)
 
 # VSCode
 [VSCode配置C++环境](https://mp.weixin.qq.com/s/JIW8h_HDPf2BdrTnOqTPFQ)
@@ -146,3 +155,5 @@
 [C语言基础：计算Struct成员偏移量的"骚操作"](https://mp.weixin.qq.com/s/8AWoL1X3XulSyP-8B5Xo4A)
 [C语言函数指针与回调函数](https://mp.weixin.qq.com/s/eEmejpEGKAXSwz6PfHpAzg)
 [C语言操作寄存器和函数指针](https://mp.weixin.qq.com/s/rDgicesnpq4zLEUKWMyhKQ)
+[C语言网络编程：非阻塞IO编程](https://mp.weixin.qq.com/s/Rtg1eflB-QjdMpAj0GB2Zg)
+[C++ 的时间库之一：C 语言传统（修订）](https://mp.weixin.qq.com/s/Byw5lUICjFLOUSx-mdN_Ng)
