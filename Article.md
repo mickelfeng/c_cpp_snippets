@@ -65,7 +65,8 @@
 [模板 | C/C++开发基础——可变参数与可变参数模板](https://mp.weixin.qq.com/s/LeRby8HFneZm4Te_K7NlaA)
 [模板 | 现代C++（8）：typename优化，模板参数优化，模板实参推导，CTAD](https://mp.weixin.qq.com/s/4Ok6BOuHDYu_u8CV6G2Tog)
 [模板 | 跟我学c++高级篇——模板的ADL](https://mp.weixin.qq.com/s/d-denCz2O2ypNB_JFbo68Q)
-[学习STL：list 容器详解](https://mp.weixin.qq.com/s/ei4bNiUWG0pNmiWmRxudqg)
+[stl | 学习STL：list 容器详解](https://mp.weixin.qq.com/s/ei4bNiUWG0pNmiWmRxudqg)
+[stl | C++ stl标准库中的 deque 是什么](https://mp.weixin.qq.com/s/JJmlIgDLveJPGDYc3dglvw)
 [std | 链表和C++ std::list详解](https://mp.weixin.qq.com/s/aE3wvZ6UAWKlvehWzuyn9A)
 [std | 【一分钟笔记】C++ std::thread可以绑定哪些线程任务函数](https://mp.weixin.qq.com/s/ut7kuTRcW5nlE3ap8Ce3Bw)
 [std | 深入解析现代C++中的原子（std::atomic）](https://mp.weixin.qq.com/s/VVFZlcXqjvFlxt_T8mAS6w
