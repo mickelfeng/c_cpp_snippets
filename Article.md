@@ -1,4 +1,5 @@
 [c++函数式编程：提高代码表达力和可维护性](https://mp.weixin.qq.com/s/HFyZ-Dp33i00uWllcns7Ig)
+[基于范围的 for 循环：现代 C++ 循环控制的新思维](https://mp.weixin.qq.com/s/KX9pRIVCdeH-yQOskRdhnQ)
 [C++基础|重命名数据类型](https://mp.weixin.qq.com/s/nVL6iQd6a76O7t8HJ_5kCQ)
 [C++中的自动返回类型推导](https://mp.weixin.qq.com/s/X4y1qhFaI3uwtbs-u4ztrQ)
 [跟我学c++中级篇——c++中的Abominable Function Types](https://mp.weixin.qq.com/s/_x_ZeLgzHYQmwr5fsmRD2g)
@@ -31,9 +32,12 @@
 [C++ | 程序暂停功能](https://mp.weixin.qq.com/s/sUhJR22QlAPogdUtpXhYQw)
 [C++中的通用延迟计算](https://mp.weixin.qq.com/s/2GzAi9WHQFhjl1NjKy1iyg)
 [C++11中auto关键字的使用详解](https://mp.weixin.qq.com/s/Ou9eVf8CRDNiBeRyQeIw8A)
+[C++ 11 的随机数之伪随机数库](https://mp.weixin.qq.com/s/dCrZ3KV9-gxLMeKX5SivDw)
+[C++ 11 的随机数之 rand 函数陷阱与真随机数](https://mp.weixin.qq.com/s/0X5X_VaYg3k0aRSc25b0jg)
 
 [C++ 动态内存](https://mp.weixin.qq.com/s/BmEG7OLOxyG3WbDKUvpG0A)
 
+[C++20 中​constinit](https://mp.weixin.qq.com/s/cAN4WUpI7x6xw0H2sTacug)
 [c++23中的新功能之一介绍](http://mp.weixin.qq.com/s?__biz=MzU0OTkzNjU2OA==&mid=2247485094&idx=1&sn=aefed4b6b72bd59f2bdce8de47c7d22c)
 [c++23中的新功能之二语法中的Deducing This](http://mp.weixin.qq.com/s?__biz=MzU0OTkzNjU2OA==&mid=2247485102&idx=1&sn=47384ac68b20f75fc11af476d74ae766)
 [c++23中的新功能之三zip的应用](http://mp.weixin.qq.com/s?__biz=MzU0OTkzNjU2OA==&mid=2247485106&idx=1&sn=0c585896a6195555dd1b6a173f9c6d2e)
@@ -61,6 +65,7 @@
 [模板 | C/C++开发基础——可变参数与可变参数模板](https://mp.weixin.qq.com/s/LeRby8HFneZm4Te_K7NlaA)
 [模板 | 现代C++（8）：typename优化，模板参数优化，模板实参推导，CTAD](https://mp.weixin.qq.com/s/4Ok6BOuHDYu_u8CV6G2Tog)
 [模板 | 跟我学c++高级篇——模板的ADL](https://mp.weixin.qq.com/s/d-denCz2O2ypNB_JFbo68Q)
+[学习STL：list 容器详解](https://mp.weixin.qq.com/s/ei4bNiUWG0pNmiWmRxudqg)
 [std | 链表和C++ std::list详解](https://mp.weixin.qq.com/s/aE3wvZ6UAWKlvehWzuyn9A)
 [std | 【一分钟笔记】C++ std::thread可以绑定哪些线程任务函数](https://mp.weixin.qq.com/s/ut7kuTRcW5nlE3ap8Ce3Bw)
 [std | 深入解析现代C++中的原子（std::atomic）](https://mp.weixin.qq.com/s/VVFZlcXqjvFlxt_T8mAS6w
@@ -87,7 +92,9 @@
 [C++ 多线程详解之 std::thread](https://mp.weixin.qq.com/s/KDz8FyRcfqCIBCZjmkxvRA)
 [C++ 多线程详解之异步编程 std::promise](https://mp.weixin.qq.com/s/Nr_uEfjU8zQhMnYuplDirg)
 [C++ 多线程详解之异步编程 future](https://mp.weixin.qq.com/s/_TFG0jQr2JzhP0qSArhCmw)
-
+### 并发
+[C++并发编程：实现线程安全的栈](https://mp.weixin.qq.com/s/AeNBWAbu4t4-qKR8IKrZIw)
+[C++并发编程：构建线程安全队列（第一部分：粗粒度锁）](https://mp.weixin.qq.com/s/xzL13a54zkG_XpIuSw4CqA)
 ## 协程
 [性能炸裂c++20协程+iocp/epoll，C++20无栈协程超轻量高性能异步库开发实战](https://mp.weixin.qq.com/s/ypxJkt7NLapQCuPhjZodZQ)
 [掌握C/C++协程编程，轻松驾驭并发编程世界](https://mp.weixin.qq.com/s/xsgrzYh4w0r9_4uzTAVw_w)
@@ -152,8 +159,10 @@
 [C_通用型队列-存放的值为void*指针](https://mp.weixin.qq.com/s/deel5hIY--0RRdrnmpW8Mw)
 [C语言：调试-----08. 调试标记（宏定义的使用）](https://mp.weixin.qq.com/s/F0bgUGhE2mBa7OmD08Prrw)
 [C语言：调试-----06. assert断言函数](https://mp.weixin.qq.com/s/kIXn4htLEQYhvIGthPvOQQ)
+[C语言：调试-----07.调试信息的输出](https://mp.weixin.qq.com/s/w6Ao5qGfXCqtPQDRq61jKQ)
 [C语言基础：计算Struct成员偏移量的"骚操作"](https://mp.weixin.qq.com/s/8AWoL1X3XulSyP-8B5Xo4A)
 [C语言函数指针与回调函数](https://mp.weixin.qq.com/s/eEmejpEGKAXSwz6PfHpAzg)
 [C语言操作寄存器和函数指针](https://mp.weixin.qq.com/s/rDgicesnpq4zLEUKWMyhKQ)
 [C语言网络编程：非阻塞IO编程](https://mp.weixin.qq.com/s/Rtg1eflB-QjdMpAj0GB2Zg)
 [C++ 的时间库之一：C 语言传统（修订）](https://mp.weixin.qq.com/s/Byw5lUICjFLOUSx-mdN_Ng)
+[C语言网络编程：使用epoll管理套接字](https://mp.weixin.qq.com/s/9Lfe3BcI68yhxb6TTmWR-w)
