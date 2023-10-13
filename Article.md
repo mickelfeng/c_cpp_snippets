@@ -1,7 +1,9 @@
 [c++函数式编程：提高代码表达力和可维护性](https://mp.weixin.qq.com/s/HFyZ-Dp33i00uWllcns7Ig)
 [基于范围的 for 循环：现代 C++ 循环控制的新思维](https://mp.weixin.qq.com/s/KX9pRIVCdeH-yQOskRdhnQ)
+[C++中typedef详解及应用示例](https://mp.weixin.qq.com/s/CrfSu_6BxPiPr-pRa-_fnQ)
 [C++基础|重命名数据类型](https://mp.weixin.qq.com/s/nVL6iQd6a76O7t8HJ_5kCQ)
 [C++中的自动返回类型推导](https://mp.weixin.qq.com/s/X4y1qhFaI3uwtbs-u4ztrQ)
+[掌握 Effective C++ : 条款28](https://mp.weixin.qq.com/s/baZgDgwrhWMLjOuYJrtCiw)
 [跟我学c++中级篇——c++中的Abominable Function Types](https://mp.weixin.qq.com/s/_x_ZeLgzHYQmwr5fsmRD2g)
 [玩转C++小项目之短链接Demo](https://mp.weixin.qq.com/s/CWs6At3QjccU2tt4SWpVsg)
 [C++ Web 编程](https://mp.weixin.qq.com/s/S8G_6t3cYRHPO7cXqKPQyQ)
@@ -34,6 +36,8 @@
 [C++11中auto关键字的使用详解](https://mp.weixin.qq.com/s/Ou9eVf8CRDNiBeRyQeIw8A)
 [C++ 11 的随机数之伪随机数库](https://mp.weixin.qq.com/s/dCrZ3KV9-gxLMeKX5SivDw)
 [C++ 11 的随机数之 rand 函数陷阱与真随机数](https://mp.weixin.qq.com/s/0X5X_VaYg3k0aRSc25b0jg)
+
+
 
 [C++ 动态内存](https://mp.weixin.qq.com/s/BmEG7OLOxyG3WbDKUvpG0A)
 
@@ -79,6 +83,9 @@
 
 性能优化
 [Linux C++性能优化：从编译器到代码，探究高性能C++程序的实现之道](https://mp.weixin.qq.com/s/0paAxMx-DgRl1rHpaRNRWw)
+## Video
+[cherno | 【C++教程】国外大佬C++技术教程，油管百万级收藏，学C++看这个就够了！（中文字幕）](https://www.bilibili.com/video/BV1oD4y1h7S3/)
+[cherno | 用 C++ 制作漂亮的桌面应用程序](https://www.bilibili.com/video/BV1xh4y167T7/)
 
 ## 多线程
 [C++ 多线程](https://mp.weixin.qq.com/s/4P_8YNZx5I0mEp4uPMtc3g)
@@ -104,6 +111,7 @@
 
 ## 安全
 [CC++05.shellcode本地&远程分离](https://www.bilibili.com/video/BV1qN4y1y75A/)
+[将shellcode注入Linux中正在运行的进程（C/C++代码实现）](https://mp.weixin.qq.com/s/WrN2ErTGFfFTY3Q6qrbqvg)
 
 ## 通信
 [Linux进程间通信的六种常见方式及代码实现](https://mp.weixin.qq.com/s/qz5bJ_y2NGWuWdC3U3u0lQ)
@@ -167,3 +175,4 @@
 [C语言网络编程：非阻塞IO编程](https://mp.weixin.qq.com/s/Rtg1eflB-QjdMpAj0GB2Zg)
 [C++ 的时间库之一：C 语言传统（修订）](https://mp.weixin.qq.com/s/Byw5lUICjFLOUSx-mdN_Ng)
 [C语言网络编程：使用epoll管理套接字](https://mp.weixin.qq.com/s/9Lfe3BcI68yhxb6TTmWR-w)
+[网络 | TCP Socket性能优化秘籍：掌握read、recv、readv、write、send、sendv的最佳实践](https://mp.weixin.qq.com/s/jc1J4Hf7q0UmfDCGRUduJg)
