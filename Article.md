@@ -8,6 +8,8 @@
 [玩转C++小项目之短链接Demo](https://mp.weixin.qq.com/s/CWs6At3QjccU2tt4SWpVsg)
 [C++ Web 编程](https://mp.weixin.qq.com/s/S8G_6t3cYRHPO7cXqKPQyQ)
 [跟我学c++中级篇——c++11时间库实现定时器和延时](https://mp.weixin.qq.com/s/zRDc6Vgg34U43yy_FrnwkA)
+[掌握C++定时器：构建自己的定时器的分步指南](https://mp.weixin.qq.com/s/jx3J1I37m1oB7zzDOFR9NA)
+[跟我学c++中级篇——Pimpl](https://mp.weixin.qq.com/s/tvlAOT7dzcaWrpcvQTKwTA)
 [用C++语言写一个可读的回调函数](https://mp.weixin.qq.com/s/pLhNLmx9BrLaIerfabL8yA)
 [深入探究：为什么C++有了int还需要int32_t ？](https://mp.weixin.qq.com/s/xj461SWBISrYY_ZEWEAwRA)
 [C++循环优化：提升性能的关键技巧](https://mp.weixin.qq.com/s/DiIGtUw8XmSmb4euY9HyhQ)
@@ -34,9 +36,12 @@
 [C++ | 程序暂停功能](https://mp.weixin.qq.com/s/sUhJR22QlAPogdUtpXhYQw)
 [C++中的通用延迟计算](https://mp.weixin.qq.com/s/2GzAi9WHQFhjl1NjKy1iyg)
 [C++11中auto关键字的使用详解](https://mp.weixin.qq.com/s/Ou9eVf8CRDNiBeRyQeIw8A)
+[C++ 预处理器](https://mp.weixin.qq.com/s/H6oKMu8qYisvEp3hTBe9Uw)
+
+[一个简单实用的线程池及线程池组的实现！](https://mp.weixin.qq.com/s/n0bFI2xGnjTEcvS1k7Ao_A)
+
 [C++ 11 的随机数之伪随机数库](https://mp.weixin.qq.com/s/dCrZ3KV9-gxLMeKX5SivDw)
 [C++ 11 的随机数之 rand 函数陷阱与真随机数](https://mp.weixin.qq.com/s/0X5X_VaYg3k0aRSc25b0jg)
-
 
 
 [C++ 动态内存](https://mp.weixin.qq.com/s/BmEG7OLOxyG3WbDKUvpG0A)
@@ -69,11 +74,15 @@
 [模板 | C/C++开发基础——可变参数与可变参数模板](https://mp.weixin.qq.com/s/LeRby8HFneZm4Te_K7NlaA)
 [模板 | 现代C++（8）：typename优化，模板参数优化，模板实参推导，CTAD](https://mp.weixin.qq.com/s/4Ok6BOuHDYu_u8CV6G2Tog)
 [模板 | 跟我学c++高级篇——模板的ADL](https://mp.weixin.qq.com/s/d-denCz2O2ypNB_JFbo68Q)
+[模板 | 跟我学c++高级篇——多重模板的扩展](https://mp.weixin.qq.com/s/RovFs5S5AHI-2STl_xOsRg)
 [stl | 学习STL：list 容器详解](https://mp.weixin.qq.com/s/ei4bNiUWG0pNmiWmRxudqg)
 [stl | C++ stl标准库中的 deque 是什么](https://mp.weixin.qq.com/s/JJmlIgDLveJPGDYc3dglvw)
+[stl | 学习STL：深nitor](https://mp.weixin.qq.com/s/NFWpQTtt7wNUeKldSSL0cQ)
+[stl | 学习STL：set 容器，实现快速查找和去重](https://mp.weixin.qq.com/s/6UQJGDyNyY5pl-LPXiQqdA)
 [std | 链表和C++ std::list详解](https://mp.weixin.qq.com/s/aE3wvZ6UAWKlvehWzuyn9A)
 [std | 【一分钟笔记】C++ std::thread可以绑定哪些线程任务函数](https://mp.weixin.qq.com/s/ut7kuTRcW5nlE3ap8Ce3Bw)
 [std | 深入解析现代C++中的原子（std::atomic）](https://mp.weixin.qq.com/s/VVFZlcXqjvFlxt_T8mAS6w
+[std::invoke与自己实现模板比较](https://mp.weixin.qq.com/s/YI4ebhvGHGpWoT3ayxUHqg)
 [struct | C++之结构体高级用法](https://mp.weixin.qq.com/s/UmkjrJITMmuIMEDdswrcig)
 [struct | C+ 结构体 +使用union+struct实现bit协议的处理封装](https://mp.weixin.qq.com/s/2J_aZzs23O9PYdzeFlbWZw)
 [file | C++ 操作文本文件](https://mp.weixin.qq.com/s/VZN2njLARlIiM5ddZKHP7g)
@@ -81,10 +90,12 @@
 [C++ invoke与function的区别](https://mp.weixin.qq.com/s/qgQUBshw1g-VsUDdpc1QYg
 [异常 | 深度剖析C++ 异常机制](https://mp.weixin.qq.com/s/wO7S4_opnJySQMG0o5ApEw)
 
+
+
 性能优化
 [Linux C++性能优化：从编译器到代码，探究高性能C++程序的实现之道](https://mp.weixin.qq.com/s/0paAxMx-DgRl1rHpaRNRWw)
 ## Video
-[cherno | 【C++教程】国外大佬C++技术教程，油管百万级收藏，学C++看这个就够了！（中文字幕）](https://www.bilibili.com/video/BV1oD4y1h7S3/)
+[cherno | 【C++教程】国外大佬C++技术教程](https://www.bilibili.com/video/BV1oD4y1h7S3/)
 [cherno | 用 C++ 制作漂亮的桌面应用程序](https://www.bilibili.com/video/BV1xh4y167T7/)
 
 ## 多线程
@@ -149,6 +160,8 @@
 [CMake:检测外部库---使用pkg-config](https://mp.weixin.qq.com/s/sUCrI7P3tvHDYoAnPEXzLg)
 [CMake:检测外部库---自定义find模块](https://mp.weixin.qq.com/s/37XSY6BwIblf4HFVkGcVQA)
 [CMake 中构建和使用库文件](https://mp.weixin.qq.com/s/vFZERkhNeEILogoFE-FN5w)
+[CMake:测试的其他补充（重要）](https://mp.weixin.qq.com/s/Zf3LpI5ZDqpNewhA3lVMpw)
+[CMake: 检测Python模块和包](https://mp.weixin.qq.com/s/0gOYGsXx_ZGtisUK5eyvng)
 
 # VSCode
 [VSCode配置C++环境](https://mp.weixin.qq.com/s/JIW8h_HDPf2BdrTnOqTPFQ)
@@ -157,22 +170,29 @@
 # C
 [C语言的一些“骚操作”及其深层理解](https://mp.weixin.qq.com/s/6ISBoxQCsZuDU3031_AulA)
 [C语言知识补充atoi用法](https://mp.weixin.qq.com/s/K8AXlypNQhNf4HlNMEOyng)
-[一文搞懂怎么用C语言实现桥接模式](https://mp.weixin.qq.com/s/zqIEkSuNnPf5un6SwjqNTQ)
 [C技巧--结构体初始赋值](https://mp.weixin.qq.com/s/C04daBO8PZ9dVff4bmzEuw)(9月28日)
 [C语言中的常量指针和指针常量：高级用法解析](https://mp.weixin.qq.com/s/R0mSIi6BU03qGGSrgHC0AA)(9月28日)
-[CMake:测试的其他补充（重要）](https://mp.weixin.qq.com/s/Zf3LpI5ZDqpNewhA3lVMpw)
 [C语言基础-typedef的用法](https://mp.weixin.qq.com/s/Kt1Vl-2IUrN1Bw76hilvJA)
-[C语言网络编程：彻底搞懂select的使用及原理](https://mp.weixin.qq.com/s/VSIRbQr93xVtdAKNOAFLnQ)
+[C语言基础：计算Struct成员偏移量的"骚操作"](https://mp.weixin.qq.com/s/8AWoL1X3XulSyP-8B5Xo4A)
+[C语言实现泛型编程](https://mp.weixin.qq.com/s/l22eR1toR3uK1A98ROLNeg)
+[C语言——可变长度数组（VLA）](https://mp.weixin.qq.com/s/jFmgWdoKrGUv0dwMDh9zyA)
+[一文搞懂怎么用C语言实现桥接模式](https://mp.weixin.qq.com/s/zqIEkSuNnPf5un6SwjqNTQ)
+[C 语言免拷贝版本循环 buffer 比拷贝版本快了近 10 倍！](https://mp.weixin.qq.com/s/J5gzeTHaLYtGPPxa9S0ONg)
 [C语言宏和指针](https://mp.weixin.qq.com/s/taTXHq4hp40coVghnjsuUA)
 [探索C语言中的__weak函数](https://mp.weixin.qq.com/s/b01JhGrSYLWY7dWZ1Ggn3A)
 [C_通用型队列-存放的值为void*指针](https://mp.weixin.qq.com/s/deel5hIY--0RRdrnmpW8Mw)
 [C语言：调试-----08. 调试标记（宏定义的使用）](https://mp.weixin.qq.com/s/F0bgUGhE2mBa7OmD08Prrw)
 [C语言：调试-----06. assert断言函数](https://mp.weixin.qq.com/s/kIXn4htLEQYhvIGthPvOQQ)
 [C语言：调试-----07.调试信息的输出](https://mp.weixin.qq.com/s/w6Ao5qGfXCqtPQDRq61jKQ)
-[C语言基础：计算Struct成员偏移量的"骚操作"](https://mp.weixin.qq.com/s/8AWoL1X3XulSyP-8B5Xo4A)
 [C语言函数指针与回调函数](https://mp.weixin.qq.com/s/eEmejpEGKAXSwz6PfHpAzg)
 [C语言操作寄存器和函数指针](https://mp.weixin.qq.com/s/rDgicesnpq4zLEUKWMyhKQ)
-[C语言网络编程：非阻塞IO编程](https://mp.weixin.qq.com/s/Rtg1eflB-QjdMpAj0GB2Zg)
 [C++ 的时间库之一：C 语言传统（修订）](https://mp.weixin.qq.com/s/Byw5lUICjFLOUSx-mdN_Ng)
-[C语言网络编程：使用epoll管理套接字](https://mp.weixin.qq.com/s/9Lfe3BcI68yhxb6TTmWR-w)
+[网络 | C语言网络编程：非阻塞IO编程](https://mp.weixin.qq.com/s/Rtg1eflB-QjdMpAj0GB2Zg)
+[网络 | C语言网络编程：使用epoll管理套接字](https://mp.weixin.qq.com/s/9Lfe3BcI68yhxb6TTmWR-w)
+[网络 | C语言网络编程：彻底搞懂select的使用及原理](https://mp.weixin.qq.com/s/VSIRbQr93xVtdAKNOAFLnQ)
 [网络 | TCP Socket性能优化秘籍：掌握read、recv、readv、write、send、sendv的最佳实践](https://mp.weixin.qq.com/s/jc1J4Hf7q0UmfDCGRUduJg)
+[Linux 平台下 C 语言协程，封装原生接口便于使用！](https://mp.weixin.qq.com/s/E--iDhuTShE4Dvf2nzRZ_Q)
+[多进程编程通信——消息队列](https://mp.weixin.qq.com/s/1GaE70vtnAUZwDAQWc2kCQ)
+[共享内存进阶指南：深入学习mmap和shm*的用法与技巧](https://mp.weixin.qq.com/s/XT9qogt7m7Frg9KyDUIBkw)
+[你不一定知道的七种进程间通信方式](https://mp.weixin.qq.com/s/aOXY4P2kBze0SjLgJpah5A)
+[C结构体与 JSON 快速互转库!来看看吧~~](https://mp.weixin.qq.com/s/ybgV3qMtI_7JvFjcSSD-ww)
