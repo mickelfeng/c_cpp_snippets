@@ -119,6 +119,7 @@
 [掌握C/C++协程编程，轻松驾驭并发编程世界](https://mp.weixin.qq.com/s/xsgrzYh4w0r9_4uzTAVw_w)
 [C++ 20 协程总结](https://mp.weixin.qq.com/s/r-KpExzWBEVQwDnO8FxtBA)
 [解密异步IO：使用C++进行高效的网络编程](https://mp.weixin.qq.com/s/TdYfv9CESPHtmjhYUu3lkw)
+[C++ 20 协程总结](https://mp.weixin.qq.com/s/3sx82NxCmNKpGcuDL1gXFA)
 
 ## 安全
 [CC++05.shellcode本地&远程分离](https://www.bilibili.com/video/BV1qN4y1y75A/)
