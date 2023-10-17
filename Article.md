@@ -22,7 +22,6 @@
 [C++ 的 `make_from_tuple` 和 apply](https://mp.weixin.qq.com/s/fBh9nR89zWEoQiOBVahnBQ)
 [C++ 智能指针](https://mp.weixin.qq.com/s/JHyvDPngjjL2QRZ_nkRirA)
 [C++ 的双冒号是做什么](https://mp.weixin.qq.com/s/lHnWHeyGz6N9cskTr6pZ3Q)
-[跟我学c++中级篇——完美转发的异常情况](https://mp.weixin.qq.com/s/uOmFyN2WhCitpkgTHiBWCQ)
 [在C++中从函数返回多个值的技巧与策略](https://mp.weixin.qq.com/s/H7EnDIOzA8JnXZqqApWMfw)
 [C++ extern的用法详细解析](https://mp.weixin.qq.com/s/22AEmGFcyvirWrZeCJumow)
 [深入理解 C++ 中的 extern 关键字](https://mp.weixin.qq.com/s/wy7MQI42u0BlM9-3fzJ2Yw)
@@ -37,6 +36,7 @@
 [C++中的通用延迟计算](https://mp.weixin.qq.com/s/2GzAi9WHQFhjl1NjKy1iyg)
 [C++11中auto关键字的使用详解](https://mp.weixin.qq.com/s/Ou9eVf8CRDNiBeRyQeIw8A)
 [C++ 预处理器](https://mp.weixin.qq.com/s/H6oKMu8qYisvEp3hTBe9Uw)
+[C++中的外部链接性和内部链接性：探究其区别与应用](https://mp.weixin.qq.com/s/ggjWiERYdc-3gzVl8xQKWg)
 
 [一个简单实用的线程池及线程池组的实现！](https://mp.weixin.qq.com/s/n0bFI2xGnjTEcvS1k7Ao_A)
 
@@ -94,7 +94,9 @@
 
 性能优化
 [Linux C++性能优化：从编译器到代码，探究高性能C++程序的实现之道](https://mp.weixin.qq.com/s/0paAxMx-DgRl1rHpaRNRWw)
+
 ## Video
+
 [cherno | 【C++教程】国外大佬C++技术教程](https://www.bilibili.com/video/BV1oD4y1h7S3/)
 [cherno | 用 C++ 制作漂亮的桌面应用程序](https://www.bilibili.com/video/BV1xh4y167T7/)
 
@@ -111,15 +113,25 @@
 [C++ 多线程详解之 std::thread](https://mp.weixin.qq.com/s/KDz8FyRcfqCIBCZjmkxvRA)
 [C++ 多线程详解之异步编程 std::promise](https://mp.weixin.qq.com/s/Nr_uEfjU8zQhMnYuplDirg)
 [C++ 多线程详解之异步编程 future](https://mp.weixin.qq.com/s/_TFG0jQr2JzhP0qSArhCmw)
+[C++ 多线程详解之异步编程 std::async](https://mp.weixin.qq.com/s/gKlt9Ua7x8Jbn6jDPdjm-g)
+
 ### 并发
+
 [C++并发编程：实现线程安全的栈](https://mp.weixin.qq.com/s/AeNBWAbu4t4-qKR8IKrZIw)
 [C++并发编程：构建线程安全队列（第一部分：粗粒度锁）](https://mp.weixin.qq.com/s/xzL13a54zkG_XpIuSw4CqA)
+
 ## 协程
+
 [性能炸裂c++20协程+iocp/epoll，C++20无栈协程超轻量高性能异步库开发实战](https://mp.weixin.qq.com/s/ypxJkt7NLapQCuPhjZodZQ)
 [掌握C/C++协程编程，轻松驾驭并发编程世界](https://mp.weixin.qq.com/s/xsgrzYh4w0r9_4uzTAVw_w)
 [C++ 20 协程总结](https://mp.weixin.qq.com/s/r-KpExzWBEVQwDnO8FxtBA)
 [解密异步IO：使用C++进行高效的网络编程](https://mp.weixin.qq.com/s/TdYfv9CESPHtmjhYUu3lkw)
 [C++ 20 协程总结](https://mp.weixin.qq.com/s/3sx82NxCmNKpGcuDL1gXFA)
+
+## 异常
+
+[异常 | 【C++】异常处理（一）](https://mp.weixin.qq.com/s/IB7i-LD1AydVnQQXDhhLpw)
+[异常 | 跟我学c++中级篇——完美转发的异常情况](https://mp.weixin.qq.com/s/uOmFyN2WhCitpkgTHiBWCQ)
 
 ## 安全
 [CC++05.shellcode本地&远程分离](https://www.bilibili.com/video/BV1qN4y1y75A/)
@@ -142,6 +154,7 @@
 [C++ 好用的开源库集合--Boost](https://mp.weixin.qq.com/s/nmjd_9DQAfVXWXAhcb6dow)
 
 # CMake
+[使用CMake编译程序](https://mp.weixin.qq.com/s/rhFscfiSPq5SkSV-aEiT2g)
 [Visual Studio 功能增强：CMake 目标视图](https://mp.weixin.qq.com/s/iNMX4vqwE3F_gVWZnKgLbA)
 [CMake 中库文件的管理](https://mp.weixin.qq.com/s/n_rPdaqPeckW9iO_KyQ5rg)
 [CMake:检测环境](https://mp.weixin.qq.com/s/OMSe7xkCgPEtm09Db8_YwQ)
