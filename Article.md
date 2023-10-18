@@ -10,6 +10,7 @@
 [跟我学c++中级篇——c++11时间库实现定时器和延时](https://mp.weixin.qq.com/s/zRDc6Vgg34U43yy_FrnwkA)
 [掌握C++定时器：构建自己的定时器的分步指南](https://mp.weixin.qq.com/s/jx3J1I37m1oB7zzDOFR9NA)
 [跟我学c++中级篇——Pimpl](https://mp.weixin.qq.com/s/tvlAOT7dzcaWrpcvQTKwTA)
+[跟我学c++中级篇——模板的模板参数匹配](https://mp.weixin.qq.com/s/zFGoQTECVZc0R01EcevDBg)
 [用C++语言写一个可读的回调函数](https://mp.weixin.qq.com/s/pLhNLmx9BrLaIerfabL8yA)
 [深入探究：为什么C++有了int还需要int32_t ？](https://mp.weixin.qq.com/s/xj461SWBISrYY_ZEWEAwRA)
 [C++循环优化：提升性能的关键技巧](https://mp.weixin.qq.com/s/DiIGtUw8XmSmb4euY9HyhQ)
@@ -152,6 +153,7 @@
 [C++ 好用的异常捕获库--qBreakpad](https://mp.weixin.qq.com/s/Hz2ZUO9zeC2Trytq0PgXIg)
 [C++ 好用的格式化库--fmt](https://mp.weixin.qq.com/s/T55UzIo9spIcljd5hXeUzA)
 [C++ 好用的开源库集合--Boost](https://mp.weixin.qq.com/s/nmjd_9DQAfVXWXAhcb6dow)
+[适用于嵌入式设备的 Json 库](https://mp.weixin.qq.com/s/46P7rNqRMXwqZZ1DwXRhfw)
 
 # CMake
 [使用CMake编译程序](https://mp.weixin.qq.com/s/rhFscfiSPq5SkSV-aEiT2g)
@@ -180,6 +182,9 @@
 # VSCode
 [VSCode配置C++环境](https://mp.weixin.qq.com/s/JIW8h_HDPf2BdrTnOqTPFQ)
 [VSCode同时编译多个C文件](https://mp.weixin.qq.com/s/qY-ZuwVP3BCvh4_ZxETN7Q)
+
+# Lua
+[C++ 与 Lua 交互内存分配](https://mp.weixin.qq.com/s/emSlERkhKhM6XfUZ6YSivg)
 
 # C
 [C语言的一些“骚操作”及其深层理解](https://mp.weixin.qq.com/s/6ISBoxQCsZuDU3031_AulA)
@@ -210,3 +215,7 @@
 [共享内存进阶指南：深入学习mmap和shm*的用法与技巧](https://mp.weixin.qq.com/s/XT9qogt7m7Frg9KyDUIBkw)
 [你不一定知道的七种进程间通信方式](https://mp.weixin.qq.com/s/aOXY4P2kBze0SjLgJpah5A)
 [C结构体与 JSON 快速互转库!来看看吧~~](https://mp.weixin.qq.com/s/ybgV3qMtI_7JvFjcSSD-ww)
+[C语言网络编程：实现一个自己的读写Buffer  ](https://mp.weixin.qq.com/s/bHl3zXJD-jeYTCpWg2dZdw)
+[linux | 安全 | linux下的一个简单hook实现](https://mp.weixin.qq.com/s/xddfTAVAlahRbIovZ3sKjA)
+[linux | 安全 | ELF二进制文件通用劫持技术探索](https://mp.weixin.qq.com/s/qKviPQSkutMUU7mMovlvqA)
+[C语言轻松拿捏注册表](https://mp.weixin.qq.com/s/lp_OlfO5kXYWry6wnMd9Sg)
