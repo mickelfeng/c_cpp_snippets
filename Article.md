@@ -38,6 +38,9 @@
 [C++11中auto关键字的使用详解](https://mp.weixin.qq.com/s/Ou9eVf8CRDNiBeRyQeIw8A)
 [C++ 预处理器](https://mp.weixin.qq.com/s/H6oKMu8qYisvEp3hTBe9Uw)
 [C++中的外部链接性和内部链接性：探究其区别与应用](https://mp.weixin.qq.com/s/ggjWiERYdc-3gzVl8xQKWg)
+[【C++】memset用法浅析（一）](https://mp.weixin.qq.com/s/pLPqSOE8I9WbADdGdAsSVA)
+[【C++】fmt库的用法（一）](https://mp.weixin.qq.com/s/pQKTSInKlHeTMLIqslTAwA)
+
 
 [一个简单实用的线程池及线程池组的实现！](https://mp.weixin.qq.com/s/n0bFI2xGnjTEcvS1k7Ao_A)
 
@@ -178,6 +181,7 @@
 [CMake 中构建和使用库文件](https://mp.weixin.qq.com/s/vFZERkhNeEILogoFE-FN5w)
 [CMake:测试的其他补充（重要）](https://mp.weixin.qq.com/s/Zf3LpI5ZDqpNewhA3lVMpw)
 [CMake: 检测Python模块和包](https://mp.weixin.qq.com/s/0gOYGsXx_ZGtisUK5eyvng)
+[CMake:配置时运行自定义命令](https://mp.weixin.qq.com/s/PjqU8q9tkWYSgYu-Aglpfg)
 
 # VSCode
 [VSCode配置C++环境](https://mp.weixin.qq.com/s/JIW8h_HDPf2BdrTnOqTPFQ)
@@ -185,6 +189,8 @@
 
 # Lua
 [C++ 与 Lua 交互内存分配](https://mp.weixin.qq.com/s/emSlERkhKhM6XfUZ6YSivg)
+[Lua 编译执行和错r](https://mp.weixin.qq.com/s/irBden08lPEz91P1H_xdQw)
+[Lua 模式匹配](https://mp.weixin.qq.com/s/rZ_DnFzJg3d277iBmul2Gw)
 
 # C
 [C语言的一些“骚操作”及其深层理解](https://mp.weixin.qq.com/s/6ISBoxQCsZuDU3031_AulA)
@@ -218,4 +224,5 @@
 [C语言网络编程：实现一个自己的读写Buffer  ](https://mp.weixin.qq.com/s/bHl3zXJD-jeYTCpWg2dZdw)
 [linux | 安全 | linux下的一个简单hook实现](https://mp.weixin.qq.com/s/xddfTAVAlahRbIovZ3sKjA)
 [linux | 安全 | ELF二进制文件通用劫持技术探索](https://mp.weixin.qq.com/s/qKviPQSkutMUU7mMovlvqA)
+[windows | dll劫持（二）](https://mp.weixin.qq.com/s/AfTMxGzdkpcmNQ0ZvGhKaA)
 [C语言轻松拿捏注册表](https://mp.weixin.qq.com/s/lp_OlfO5kXYWry6wnMd9Sg)
