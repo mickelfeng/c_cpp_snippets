@@ -191,6 +191,7 @@
 [C++ 与 Lua 交互内存分配](https://mp.weixin.qq.com/s/emSlERkhKhM6XfUZ6YSivg)
 [Lua 编译执行和错r](https://mp.weixin.qq.com/s/irBden08lPEz91P1H_xdQw)
 [Lua 模式匹配](https://mp.weixin.qq.com/s/rZ_DnFzJg3d277iBmul2Gw)
+[C++ 好用的脚本扩展库 Lua](https://mp.weixin.qq.com/s/78DlMQVJ7Vp-M_1I1We4pQ)
 
 # C
 [C语言的一些“骚操作”及其深层理解](https://mp.weixin.qq.com/s/6ISBoxQCsZuDU3031_AulA)
@@ -216,6 +217,7 @@
 [网络 | C语言网络编程：使用epoll管理套接字](https://mp.weixin.qq.com/s/9Lfe3BcI68yhxb6TTmWR-w)
 [网络 | C语言网络编程：彻底搞懂select的使用及原理](https://mp.weixin.qq.com/s/VSIRbQr93xVtdAKNOAFLnQ)
 [网络 | TCP Socket性能优化秘籍：掌握read、recv、readv、write、send、sendv的最佳实践](https://mp.weixin.qq.com/s/jc1J4Hf7q0UmfDCGRUduJg)
+[网络 | 多进程编程通信5——Socket](https://mp.weixin.qq.com/s/r2NeY0pt_53_MT9UrZPpcw)
 [Linux 平台下 C 语言协程，封装原生接口便于使用！](https://mp.weixin.qq.com/s/E--iDhuTShE4Dvf2nzRZ_Q)
 [多进程编程通信——消息队列](https://mp.weixin.qq.com/s/1GaE70vtnAUZwDAQWc2kCQ)
 [共享内存进阶指南：深入学习mmap和shm*的用法与技巧](https://mp.weixin.qq.com/s/XT9qogt7m7Frg9KyDUIBkw)
@@ -224,5 +226,4 @@
 [C语言网络编程：实现一个自己的读写Buffer  ](https://mp.weixin.qq.com/s/bHl3zXJD-jeYTCpWg2dZdw)
 [linux | 安全 | linux下的一个简单hook实现](https://mp.weixin.qq.com/s/xddfTAVAlahRbIovZ3sKjA)
 [linux | 安全 | ELF二进制文件通用劫持技术探索](https://mp.weixin.qq.com/s/qKviPQSkutMUU7mMovlvqA)
-[windows | dll劫持（二）](https://mp.weixin.qq.com/s/AfTMxGzdkpcmNQ0ZvGhKaA)
 [C语言轻松拿捏注册表](https://mp.weixin.qq.com/s/lp_OlfO5kXYWry6wnMd9Sg)
