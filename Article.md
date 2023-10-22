@@ -42,6 +42,7 @@
 [【C++】fmt库的用法（一）](https://mp.weixin.qq.com/s/pQKTSInKlHeTMLIqslTAwA)
 [如何用C++开发一个自己的log库](https://mp.weixin.qq.com/s/JkqhMT7J5LPq6PXuL9UfwQ)
 [跟我学C++中级篇——c++内存分配的管理](https://mp.weixin.qq.com/s/8I_LelXHQmE9n9lQwhTImA)
+[C++ | Ctrl-C不能暂停程序？](https://mp.weixin.qq.com/s/VLKQZ8z4iS9OqAFc-l3L-w)
 
 [一个简单实用的线程池及线程池组的实现！](https://mp.weixin.qq.com/s/n0bFI2xGnjTEcvS1k7Ao_A)
 
@@ -69,6 +70,7 @@
 [C++23中的新功能之十四expected和optional](https://mp.weixin.qq.com/s/X6ISOR3wD6HmcgWKJhzceg)
 [c++23中的新功能之十五类tuple类型的完全支持](https://mp.weixin.qq.com/s/e3ogdOWEu9y6vW9n-ZEWWA)
 [c++23中的新功能之十六std::forward_like](https://mp.weixin.qq.com/s/Pb7pjEKvSXMTvUjlFxWuag)
+[c++23中的新功能之十七显示this的应用](https://mp.weixin.qq.com/s/p_mtMllkt_EK_dCrK0fGqg)
 
 [const | const修饰指针的理解](https://mp.weixin.qq.com/s/JF_EwyA9hKakj1yDLJ3_ew)
 [const | C++中const、constexpr和consteval的同与不同](https://mp.weixin.qq.com/s/C-Rl1BvlrYZRQh0EU4Kz9A)

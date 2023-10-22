@@ -11,7 +11,10 @@ void printCharArray2();
 int getInt(const char *sa, const char *str2);
 
 void cmp_work1();
+
 int cmp_work2(const char *str1, const char *str2);
+
+void test_strchr();
 
 int main(int argc, char *argv[], char **env) {
     char s1[] = {'1', '2', '3', '\0'};
@@ -24,7 +27,19 @@ int main(int argc, char *argv[], char **env) {
     // char str1[] = "123";
     char str1[] = {"123"};
     printf("%d\n", cmp_work2(str1, "123"));
+
+    test_strchr();
     return 0;
+}
+
+void test_strchr() {
+    char string[17];
+    char *ptr;
+    strcpy(string, "Thisisastring");
+    ptr = strchr(string, 'r');
+    //str所指向的字符串中搜索第一次出现字符c（一个无符号字符）的位置。
+    //返回指针 或 NULL(失败时)
+    assert(strcmp(ptr, "ring") == 0);
 }
 
 int getInt1(char *inst1, char *inst2) {
