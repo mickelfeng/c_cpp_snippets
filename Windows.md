@@ -117,6 +117,7 @@ int _tmain()
 [国外油管大神 C++游戏编程实战教程，新手 6 小时入门，并快速达到游戏开发能力（中英字](https://www.bilibili.com/video/BV16h4y1d766/)
 [Windows远端线程执行任意API的设计与实现](https://mp.weixin.qq.com/s/bqLiDI-kt6dDIWyl-C3K0Q)
 [windows-api-function-cheatsheets](https://github.com/snowcra5h/windows-api-function-cheatsheets)
+[《Windows恶意软件常见API一览》发布](https://mp.weixin.qq.com/s/GCNK3eLXYLWMGF6BW3Yy-A)
 [极安御信网络安全系列课程Windows编程基础-Windows窗口API详解](https://www.bilibili.com/video/BV1cV4y1e7pq/)
 ## network
 [socket 网络编程的 5 大隐患](https://mp.weixin.qq.com/s/KDF0lTR7PiA4K2JQjsZxEg)

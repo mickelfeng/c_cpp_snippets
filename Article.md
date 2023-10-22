@@ -40,7 +40,8 @@
 [C++中的外部链接性和内部链接性：探究其区别与应用](https://mp.weixin.qq.com/s/ggjWiERYdc-3gzVl8xQKWg)
 [【C++】memset用法浅析（一）](https://mp.weixin.qq.com/s/pLPqSOE8I9WbADdGdAsSVA)
 [【C++】fmt库的用法（一）](https://mp.weixin.qq.com/s/pQKTSInKlHeTMLIqslTAwA)
-
+[如何用C++开发一个自己的log库](https://mp.weixin.qq.com/s/JkqhMT7J5LPq6PXuL9UfwQ)
+[跟我学C++中级篇——c++内存分配的管理](https://mp.weixin.qq.com/s/8I_LelXHQmE9n9lQwhTImA)
 
 [一个简单实用的线程池及线程池组的实现！](https://mp.weixin.qq.com/s/n0bFI2xGnjTEcvS1k7Ao_A)
 
@@ -88,6 +89,7 @@
 [std | 深入解析现代C++中的原子（std::atomic）](https://mp.weixin.qq.com/s/VVFZlcXqjvFlxt_T8mAS6w
 [std::invoke与自己实现模板比较](https://mp.weixin.qq.com/s/YI4ebhvGHGpWoT3ayxUHqg)
 [struct | C++之结构体高级用法](https://mp.weixin.qq.com/s/UmkjrJITMmuIMEDdswrcig)
+[std::any和枚举类转换](https://mp.weixin.qq.com/s/X4Sa50MwamvboB7IzvQDBA)
 [struct | C+ 结构体 +使用union+struct实现bit协议的处理封装](https://mp.weixin.qq.com/s/2J_aZzs23O9PYdzeFlbWZw)
 [file | C++ 操作文本文件](https://mp.weixin.qq.com/s/VZN2njLARlIiM5ddZKHP7g)
 
@@ -192,8 +194,14 @@
 [Lua 编译执行和错r](https://mp.weixin.qq.com/s/irBden08lPEz91P1H_xdQw)
 [Lua 模式匹配](https://mp.weixin.qq.com/s/rZ_DnFzJg3d277iBmul2Gw)
 [C++ 好用的脚本扩展库 Lua](https://mp.weixin.qq.com/s/78DlMQVJ7Vp-M_1I1We4pQ)
-
+[Lua 使用 —— IO 操作](https://mp.weixin.qq.com/s/XOfZOzbbkwn9fProLk3TaA)
+[Lua 数据结构](https://mp.weixin.qq.com/s/gHhyEWS8lXKe5BWvfKnO-g)
+[Lua 调试库（ debug ）](https://mp.weixin.qq.com/s/thkq3aRHAoqFsUkproqpqg)
+[Lua 协程](https://mp.weixin.qq.com/s/N0E9lrUnWeAhUrb0WkA07A)
+[Lua 数据类型 —— 函数](https://mp.weixin.qq.com/s/lBDuHWryOOW1ryndtDblhA)
+[Lua 数据文件和序列化](https://mp.weixin.qq.com/s/m5HdNpFy5cvZY_yd7SVBDw)
 # C
+[C语言指针详解——必备7大知识点](https://mp.weixin.qq.com/s/2GweKacSb-LRUOmXXjeLwA)
 [C语言的一些“骚操作”及其深层理解](https://mp.weixin.qq.com/s/6ISBoxQCsZuDU3031_AulA)
 [C语言知识补充atoi用法](https://mp.weixin.qq.com/s/K8AXlypNQhNf4HlNMEOyng)
 [C技巧--结构体初始赋值](https://mp.weixin.qq.com/s/C04daBO8PZ9dVff4bmzEuw)(9月28日)
@@ -227,3 +235,6 @@
 [linux | 安全 | linux下的一个简单hook实现](https://mp.weixin.qq.com/s/xddfTAVAlahRbIovZ3sKjA)
 [linux | 安全 | ELF二进制文件通用劫持技术探索](https://mp.weixin.qq.com/s/qKviPQSkutMUU7mMovlvqA)
 [C语言轻松拿捏注册表](https://mp.weixin.qq.com/s/lp_OlfO5kXYWry6wnMd9Sg)
+
+# Project
+[Re0: 从零实现一个解除文件占用的小工具](https://mp.weixin.qq.com/s/WC9kTKfl7qAH9--lt6gyqw)
