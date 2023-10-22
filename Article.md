@@ -200,6 +200,9 @@
 [Lua 协程](https://mp.weixin.qq.com/s/N0E9lrUnWeAhUrb0WkA07A)
 [Lua 数据类型 —— 函数](https://mp.weixin.qq.com/s/lBDuHWryOOW1ryndtDblhA)
 [Lua 数据文件和序列化](https://mp.weixin.qq.com/s/m5HdNpFy5cvZY_yd7SVBDw)
+[Lua 日期和时间](https://mp.weixin.qq.com/s/LMpbGG_QiMbUagOquXWYyw)
+[Lua 垃圾回收机制](https://mp.weixin.qq.com/s/9dWmXkYXA4WX8XpODPhUow)
+
 # C
 [C语言指针详解——必备7大知识点](https://mp.weixin.qq.com/s/2GweKacSb-LRUOmXXjeLwA)
 [C语言的一些“骚操作”及其深层理解](https://mp.weixin.qq.com/s/6ISBoxQCsZuDU3031_AulA)
