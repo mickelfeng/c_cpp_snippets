@@ -7,7 +7,8 @@
 [跟我学c++中级篇——c++中的Abominable Function Types](https://mp.weixin.qq.com/s/_x_ZeLgzHYQmwr5fsmRD2g)
 [玩转C++小项目之短链接Demo](https://mp.weixin.qq.com/s/CWs6At3QjccU2tt4SWpVsg)
 [C++ Web 编程](https://mp.weixin.qq.com/s/S8G_6t3cYRHPO7cXqKPQyQ)
-[跟我学c++中级篇——c++11时间库实现定时器和延时](https://mp.weixin.qq.com/s/zRDc6Vgg34U43yy_FrnwkA)
+[时间 | 跟我学c++中级篇——c++11时间库实现定时器和延时](https://mp.weixin.qq.com/s/zRDc6Vgg34U43yy_FrnwkA)
+[时间 | 再也不被时间束缚：C++ std::chrono时间库全面解析](https://mp.weixin.qq.com/s/cMyZx7t77OMthMVuSpAurg)
 [掌握C++定时器：构建自己的定时器的分步指南](https://mp.weixin.qq.com/s/jx3J1I37m1oB7zzDOFR9NA)
 [跟我学c++中级篇——Pimpl](https://mp.weixin.qq.com/s/tvlAOT7dzcaWrpcvQTKwTA)
 [跟我学c++中级篇——模板的模板参数匹配](https://mp.weixin.qq.com/s/zFGoQTECVZc0R01EcevDBg)
@@ -89,9 +90,10 @@
 [std | 链表和C++ std::list详解](https://mp.weixin.qq.com/s/aE3wvZ6UAWKlvehWzuyn9A)
 [std | 【一分钟笔记】C++ std::thread可以绑定哪些线程任务函数](https://mp.weixin.qq.com/s/ut7kuTRcW5nlE3ap8Ce3Bw)
 [std | 深入解析现代C++中的原子（std::atomic）](https://mp.weixin.qq.com/s/VVFZlcXqjvFlxt_T8mAS6w
-[std::invoke与自己实现模板比较](https://mp.weixin.qq.com/s/YI4ebhvGHGpWoT3ayxUHqg)
+[std | std::invoke与自己实现模板比较](https://mp.weixin.qq.com/s/YI4ebhvGHGpWoT3ayxUHqg)
+[std | std::any和枚举类转换](https://mp.weixin.qq.com/s/X4Sa50MwamvboB7IzvQDBA)
+[std | C++23：多维视图（std::mdspan）](https://mp.weixin.qq.com/s/_gNs3L8dM0ucjJ9lJ1dXHA)
 [struct | C++之结构体高级用法](https://mp.weixin.qq.com/s/UmkjrJITMmuIMEDdswrcig)
-[std::any和枚举类转换](https://mp.weixin.qq.com/s/X4Sa50MwamvboB7IzvQDBA)
 [struct | C+ 结构体 +使用union+struct实现bit协议的处理封装](https://mp.weixin.qq.com/s/2J_aZzs23O9PYdzeFlbWZw)
 [file | C++ 操作文本文件](https://mp.weixin.qq.com/s/VZN2njLARlIiM5ddZKHP7g)
 
@@ -149,6 +151,7 @@
 [Linux进程间通信的六种常见方式及代码实现](https://mp.weixin.qq.com/s/qz5bJ_y2NGWuWdC3U3u0lQ)
 
 ## Package
+[C++ 好用的网络库 libcurl](https://mp.weixin.qq.com/s/WWIPKyPFvU8BQc1TEN-ogw)
 [C++ 好用的 Json 解析库--JsonCpp](https://mp.weixin.qq.com/s/ghBTjt50CugNefXm5cd8qQ)
 [探索C++世界：最流行的开源框架大全](https://mp.weixin.qq.com/s/cWcEVt7ujhiZzI3VIt_Zjw)
 [C++ 好用的 Excel 读写库--QXlsx](https://mp.weixin.qq.com/s/qIAYeaAIls7pUsc310YjXA)
