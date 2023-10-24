@@ -93,6 +93,7 @@
 [std | std::invoke与自己实现模板比较](https://mp.weixin.qq.com/s/YI4ebhvGHGpWoT3ayxUHqg)
 [std | std::any和枚举类转换](https://mp.weixin.qq.com/s/X4Sa50MwamvboB7IzvQDBA)
 [std | C++23：多维视图（std::mdspan）](https://mp.weixin.qq.com/s/_gNs3L8dM0ucjJ9lJ1dXHA)
+[std::invoke的原理及用法](https://mp.weixin.qq.com/s/EV1vTeHwD-pXMz6XJSKEkA)
 [struct | C++之结构体高级用法](https://mp.weixin.qq.com/s/UmkjrJITMmuIMEDdswrcig)
 [struct | C+ 结构体 +使用union+struct实现bit协议的处理封装](https://mp.weixin.qq.com/s/2J_aZzs23O9PYdzeFlbWZw)
 [file | C++ 操作文本文件](https://mp.weixin.qq.com/s/VZN2njLARlIiM5ddZKHP7g)
@@ -113,6 +114,7 @@
 ## 多线程
 [C++ 多线程](https://mp.weixin.qq.com/s/4P_8YNZx5I0mEp4uPMtc3g)
 [C++ 多线程 | 一个基础的多线程案例](https://mp.weixin.qq.com/s/b8LIo9LhutMKXDfzXNK9Vw)
+[C++ 中的多线程编程：一种高效的并发处理方式](https://mp.weixin.qq.com/s/g2XjqbbouiXlVXfLlvK76w)
 [C++ 多线程详解之 std::call_once](https://mp.weixin.qq.com/s/M9eLb0tvfTMr3p63Iujl3g)
 [C++ 多线程详解之互斥锁 mutex](https://mp.weixin.qq.com/s/E3efgIowdpEJPSpV9TyAQQ)(9月28日)
 [C++ 多线程详解之原子变量 atomic](https://mp.weixin.qq.com/s/eHlIB9rzJvkf3orDSLR4yw)(9月28日)
@@ -207,6 +209,7 @@
 [Lua 数据文件和序列化](https://mp.weixin.qq.com/s/m5HdNpFy5cvZY_yd7SVBDw)
 [Lua 日期和时间](https://mp.weixin.qq.com/s/LMpbGG_QiMbUagOquXWYyw)
 [Lua 垃圾回收机制](https://mp.weixin.qq.com/s/9dWmXkYXA4WX8XpODPhUow)
+[C++ 与 Lua 交互异常处理](https://mp.weixin.qq.com/s/LRNh7RXGbJULjgfS-UgS_g)
 
 # C
 [C语言指针详解——必备7大知识点](https://mp.weixin.qq.com/s/2GweKacSb-LRUOmXXjeLwA)
