@@ -44,6 +44,7 @@
 [如何用C++开发一个自己的log库](https://mp.weixin.qq.com/s/JkqhMT7J5LPq6PXuL9UfwQ)
 [跟我学C++中级篇——c++内存分配的管理](https://mp.weixin.qq.com/s/8I_LelXHQmE9n9lQwhTImA)
 [C++ | Ctrl-C不能暂停程序？](https://mp.weixin.qq.com/s/VLKQZ8z4iS9OqAFc-l3L-w)
+[C++ 的 move() 和返回值优化](https://mp.weixin.qq.com/s/3QTxrq0ZlxJr9bWh2CvQFg)
 
 [一个简单实用的线程池及线程池组的实现！](https://mp.weixin.qq.com/s/n0bFI2xGnjTEcvS1k7Ao_A)
 
