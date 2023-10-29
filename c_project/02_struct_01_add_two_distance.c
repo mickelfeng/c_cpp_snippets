@@ -1,4 +1,4 @@
-// Program to add two distances (feet-inch)
+// Program to auto_add two distances (feet-inch)
 #include <stdio.h>
 struct Distance
 {

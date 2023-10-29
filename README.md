@@ -145,7 +145,7 @@ printf 函数转换说明
 | %u       | 无符号十进制整数 unsigned                                               |
 | %0       | 无符号八进制整数 unsigned                                               |
 | %x       | 无符号十六进制数 ff (小写) unsigned                                     |
-| %×       | 无符号十六进制数 FF (大写) unsigned                                     |
+| %X       | 无符号十六进制数 FF (大写) unsigned                                     |
 | %f       | 浮点数,十进制计数法 double                                              |
 | 8        | 浮点数,科学计数法 le5 double                                            |
 | %E       | 浮点数,科学计数法 1E5 double                                            |

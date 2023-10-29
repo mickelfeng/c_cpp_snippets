@@ -60,7 +60,7 @@ int isAsciiDigit2(int x) {
     int upperBound = ~(sign | 0x39);   /*if > 0x39 is added, result goes negative*/
     int lowerBound = ~0x30;            /*when < 0x30 is added, result is negative*/
 
-    /*now add x and check the sign bit for each*/
+    /*now auto_add x and check the sign bit for each*/
     upperBound = sign & (upperBound + x) >> 31;
     lowerBound = sign & (lowerBound + 1 + x) >> 31;
     /*if either result is negative, it is not in desired range*/

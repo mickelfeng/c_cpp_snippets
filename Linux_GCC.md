@@ -7,3 +7,12 @@ FAQ
 编译共享库 -shared时失败 `gcc -shared -o "libalg.so"  ./sort.o`
 1. relocation `R_X86_64_PC32 against undefined symbol`
 Q. -fPIC
+
+## no such instruction: 'endbr64'
+
+```
+sudo apt-get remove binutils
+sudo apt-get remove --auto-remove binutils
+sudo apt install build-essential
+```
+

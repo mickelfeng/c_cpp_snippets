@@ -36,7 +36,6 @@
 [C++ | map插入是拷贝还是引用](https://mp.weixin.qq.com/s/E-gK28lao0_Bx3AOaVk3zg)
 [C++ | 程序暂停功能](https://mp.weixin.qq.com/s/sUhJR22QlAPogdUtpXhYQw)
 [C++中的通用延迟计算](https://mp.weixin.qq.com/s/2GzAi9WHQFhjl1NjKy1iyg)
-[C++11中auto关键字的使用详解](https://mp.weixin.qq.com/s/Ou9eVf8CRDNiBeRyQeIw8A)
 [C++ 预处理器](https://mp.weixin.qq.com/s/H6oKMu8qYisvEp3hTBe9Uw)
 [C++中的外部链接性和内部链接性：探究其区别与应用](https://mp.weixin.qq.com/s/ggjWiERYdc-3gzVl8xQKWg)
 [【C++】memset用法浅析（一）](https://mp.weixin.qq.com/s/pLPqSOE8I9WbADdGdAsSVA)
@@ -45,6 +44,8 @@
 [跟我学C++中级篇——c++内存分配的管理](https://mp.weixin.qq.com/s/8I_LelXHQmE9n9lQwhTImA)
 [C++ | Ctrl-C不能暂停程序？](https://mp.weixin.qq.com/s/VLKQZ8z4iS9OqAFc-l3L-w)
 [C++ 的 move() 和返回值优化](https://mp.weixin.qq.com/s/3QTxrq0ZlxJr9bWh2CvQFg)
+[C++中低级内存操作](https://mp.weixin.qq.com/s/vBR1eWwsIjBHLZkR8zEBuQ)
+[跟我学C++中级篇——右值引用和万能引用](https://mp.weixin.qq.com/s/CrbcK_PstOPyzJryT_P2BQ)
 
 [一个简单实用的线程池及线程池组的实现！](https://mp.weixin.qq.com/s/n0bFI2xGnjTEcvS1k7Ao_A)
 
@@ -90,6 +91,7 @@
 [stl | 学习STL：set 容器，实现快速查找和去重](https://mp.weixin.qq.com/s/6UQJGDyNyY5pl-LPXiQqdA)
 [std | 链表和C++ std::list详解](https://mp.weixin.qq.com/s/aE3wvZ6UAWKlvehWzuyn9A)
 [std | 【一分钟笔记】C++ std::thread可以绑定哪些线程任务函数](https://mp.weixin.qq.com/s/ut7kuTRcW5nlE3ap8Ce3Bw)
+[std | C++ std::thread线程详解](https://mp.weixin.qq.com/s/VvXLfQzbxn9ffz7esi7eew)
 [std | 深入解析现代C++中的原子（std::atomic）](https://mp.weixin.qq.com/s/VVFZlcXqjvFlxt_T8mAS6w
 [std | std::invoke与自己实现模板比较](https://mp.weixin.qq.com/s/YI4ebhvGHGpWoT3ayxUHqg)
 [std | std::any和枚举类转换](https://mp.weixin.qq.com/s/X4Sa50MwamvboB7IzvQDBA)
