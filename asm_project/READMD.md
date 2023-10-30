@@ -98,3 +98,10 @@ FPU Data Register Stack 栈顶ST0-ST7
 ## 15.2. The SSE Execution Environment
 
 ![](https://s2.loli.net/2022/10/24/M3po68ZmN5CkRPQ.jpg)
+
+
+# FAQ
+
+## constant expected  E:\masm32\include\winextra.inc	11052	
+
+https://blog.csdn.net/weixin_50836014/article/details/124873981
