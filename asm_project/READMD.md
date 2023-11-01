@@ -105,3 +105,8 @@ FPU Data Register Stack 栈顶ST0-ST7
 ## constant expected  E:\masm32\include\winextra.inc	11052	
 
 https://blog.csdn.net/weixin_50836014/article/details/124873981
+
+
+## LNK2017	没有 /LARGEADDRESSAWARE:NO，"ADDR32"到"enc"的重定位无效
+
+链接器 -> 系统 -> 启用大地址 -> 选择否(/LARGEADDRESSAWARE:NO)

@@ -194,12 +194,14 @@
 [CMake:测试的其他补充（重要）](https://mp.weixin.qq.com/s/Zf3LpI5ZDqpNewhA3lVMpw)
 [CMake: 检测Python模块和包](https://mp.weixin.qq.com/s/0gOYGsXx_ZGtisUK5eyvng)
 [CMake:配置时运行自定义命令](https://mp.weixin.qq.com/s/PjqU8q9tkWYSgYu-Aglpfg)
+[CMake：构建时为特定目标运行自定义命令](https://mp.weixin.qq.com/s/8YgyARRUYAy3K9A426HJhg)
 
 # VSCode
 [VSCode配置C++环境](https://mp.weixin.qq.com/s/JIW8h_HDPf2BdrTnOqTPFQ)
 [VSCode同时编译多个C文件](https://mp.weixin.qq.com/s/qY-ZuwVP3BCvh4_ZxETN7Q)
 
 # Lua
+[C++ 调用 Lua 函数](https://mp.weixin.qq.com/s/hCdtx_64Cf2LIcWVMNlgEg)
 [C++ 与 Lua 交互内存分配](https://mp.weixin.qq.com/s/emSlERkhKhM6XfUZ6YSivg)
 [Lua 编译执行和错r](https://mp.weixin.qq.com/s/irBden08lPEz91P1H_xdQw)
 [Lua 模式匹配](https://mp.weixin.qq.com/s/rZ_DnFzJg3d277iBmul2Gw)
