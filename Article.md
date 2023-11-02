@@ -251,6 +251,7 @@
 [linux | 安全 | linux下的一个简单hook实现](https://mp.weixin.qq.com/s/xddfTAVAlahRbIovZ3sKjA)
 [linux | 安全 | ELF二进制文件通用劫持技术探索](https://mp.weixin.qq.com/s/qKviPQSkutMUU7mMovlvqA)
 [C语言轻松拿捏注册表](https://mp.weixin.qq.com/s/lp_OlfO5kXYWry6wnMd9Sg)
+[为什么嵌入式底层经常用typedef？](https://mp.weixin.qq.com/s/kotYWdLd8MoJCw1UjR8d8w)
 
 # Project
 [Re0: 从零实现一个解除文件占用的小工具](https://mp.weixin.qq.com/s/WC9kTKfl7qAH9--lt6gyqw)
