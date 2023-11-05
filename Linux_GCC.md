@@ -11,12 +11,6 @@ sudo apt -y install gcc-multilib # 32位支持
 gcc -S main.c # 会生成 main.s
 gcc -c ./main.s -o main.o
 ```
-### objcopy 替换段，转换32位为64位
-https://blog.csdn.net/qq_21438461/article/details/126300209
-
-下面是一个使用objcopy命令的示例，将一个ELF格式可执行文件中的某些内容复制到另一个ELF格式可执行文件中：
-objcopy --input-format=elf32-i386 --output-format=elf32-i386 --binary-architecture=i386 --only-section=.text input.elf output.elf 
-将input.elf中的.text节（即可执行代码）复制到另一个ELF格式可执行文件output.elf中。
 
 ## 编译/Link/gcc/
 
