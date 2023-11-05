@@ -74,6 +74,7 @@
 [c++23中的新功能之十五类tuple类型的完全支持](https://mp.weixin.qq.com/s/e3ogdOWEu9y6vW9n-ZEWWA)
 [c++23中的新功能之十六std::forward_like](https://mp.weixin.qq.com/s/Pb7pjEKvSXMTvUjlFxWuag)
 [c++23中的新功能之十七显示this的应用](https://mp.weixin.qq.com/s/p_mtMllkt_EK_dCrK0fGqg)
+[c++23中的新功能之十八新增的属性](https://mp.weixin.qq.com/s/XKdJYLWul70x60M2Vmy0QQ)
 
 [const | const修饰指针的理解](https://mp.weixin.qq.com/s/JF_EwyA9hKakj1yDLJ3_ew)
 [const | C++中const、constexpr和consteval的同与不同](https://mp.weixin.qq.com/s/C-Rl1BvlrYZRQh0EU4Kz9A)
@@ -234,6 +235,8 @@
 [C语言：调试-----08. 调试标记（宏定义的使用）](https://mp.weixin.qq.com/s/F0bgUGhE2mBa7OmD08Prrw)
 [C语言：调试-----06. assert断言函数](https://mp.weixin.qq.com/s/kIXn4htLEQYhvIGthPvOQQ)
 [C语言：调试-----07.调试信息的输出](https://mp.weixin.qq.com/s/w6Ao5qGfXCqtPQDRq61jKQ)
+[Linux多线程调试没那么难，可别再用printf了](https://mp.weixin.qq.com/s/qJTnEDT3xO9T7koDk5kVdQ)
+
 [C语言函数指针与回调函数](https://mp.weixin.qq.com/s/eEmejpEGKAXSwz6PfHpAzg)
 [C语言操作寄存器和函数指针](https://mp.weixin.qq.com/s/rDgicesnpq4zLEUKWMyhKQ)
 [C++ 的时间库之一：C 语言传统（修订）](https://mp.weixin.qq.com/s/Byw5lUICjFLOUSx-mdN_Ng)
@@ -255,3 +258,11 @@
 
 # Project
 [Re0: 从零实现一个解除文件占用的小工具](https://mp.weixin.qq.com/s/WC9kTKfl7qAH9--lt6gyqw)
+
+# Algorithm 算法
+[C++代码：用 C++ 实现线性拟合](https://mp.weixin.qq.com/s/gpRM8epsNuxmk7a_C-AAxQ)
+
+# 16位程序
+Dev-C++可以编译16位程序，比如Dev-C++ 4.9.9.2。https://sourceforge.net/projects/dev-cpp/files/Binaries/  https://sourceforge.net/projects/devcpp/
+DOSBox虚拟机运行16位程序。 https://www.dosbox.com/download.php?main=1
+
