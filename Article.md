@@ -46,6 +46,7 @@
 [C++ 的 move() 和返回值优化](https://mp.weixin.qq.com/s/3QTxrq0ZlxJr9bWh2CvQFg)
 [C++中低级内存操作](https://mp.weixin.qq.com/s/vBR1eWwsIjBHLZkR8zEBuQ)
 [跟我学C++中级篇——右值引用和万能引用](https://mp.weixin.qq.com/s/CrbcK_PstOPyzJryT_P2BQ)
+[C++中的局部static](https://mp.weixin.qq.com/s/VDEL-uOlQf39JKNhgJsVJg)
 
 [一个简单实用的线程池及线程池组的实现！](https://mp.weixin.qq.com/s/n0bFI2xGnjTEcvS1k7Ao_A)
 
@@ -196,6 +197,7 @@
 [CMake: 检测Python模块和包](https://mp.weixin.qq.com/s/0gOYGsXx_ZGtisUK5eyvng)
 [CMake:配置时运行自定义命令](https://mp.weixin.qq.com/s/PjqU8q9tkWYSgYu-Aglpfg)
 [CMake：构建时为特定目标运行自定义命令](https://mp.weixin.qq.com/s/8YgyARRUYAy3K9A426HJhg)
+[一些通用的Makefile文件模板](https://mp.weixin.qq.com/s/jKoGezTJKFbIw7Efiea2ww)
 
 # VSCode
 [VSCode配置C++环境](https://mp.weixin.qq.com/s/JIW8h_HDPf2BdrTnOqTPFQ)

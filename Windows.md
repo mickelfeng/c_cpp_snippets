@@ -99,15 +99,18 @@ int _tmain()
 
 [Windows*Shellcode*内联汇编](https://secondbc.github.io/SecondBC/2023/06/19/Windows_Shellcode/)
 [Windows 编程](https://secondbc.github.io/SecondBC/2022/12/04/Windows编程/)
-[DLL 注入与 HOOK](https://secondbc.github.io/SecondBC/2022/12/12/DLL注入与HOOK/)
 [远程线程注入-极安御信网络安全系列课程-病毒分析](https://www.bilibili.com/video/BV1ww411U71g/)
 [PE 简单解析器](https://secondbc.github.io/SecondBC/2022/11/12/PE简单解析器/)
 [一周学会 Windbg 调试器使用第 8 篇 - 何时使用 Windbg 进行动态调试](https://www.bilibili.com/video/BV1DX4y1b7bq/)
 [极安御信网络安全系列课程-C++ shellcode 加载器原理](https://www.bilibili.com/video/BV19P411v7rX/)
+
+### dll注入
+[DLL 注入与 HOOK](https://secondbc.github.io/SecondBC/2022/12/12/DLL注入与HOOK/)
 [DLL 显式调用及隐式调用](https://www.bilibili.com/video/BV1M44y1F79S/)
 [dll 延迟加载技术](https://mp.weixin.qq.com/s/wxNQ7yn1W1s85hR8CZGeRQ)
 [免杀基础之 DLL 远程线程注入](https://mp.weixin.qq.com/s/oaVq98wxbA6OOxoMcStBIw)
 [【逆向学习】Windows 平台下的 DLL 注入](https://www.xunflash.top/archives/DLLInject.html)
+[DLL注入之APC注入](https://www.bilibili.com/video/BV1PB4y1f7eW/)
 
 ## 寻址
 

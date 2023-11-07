@@ -76,6 +76,8 @@ pwn 参数总结
 | PIE    | -no-pie / -pie                                                  | 关闭 / 开启                |
 | RELRO  | -z norelro / -z lazy / -z now                                   | 关闭 / 部分开启 / 完全开启 |
 
+# Debug
+[Linux程序调试工具指南](https://mp.weixin.qq.com/s/-0hddM9dynSPo8QmhZJDEQ)
 
 # FAQ
 
