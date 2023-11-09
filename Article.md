@@ -47,6 +47,7 @@
 [C++中低级内存操作](https://mp.weixin.qq.com/s/vBR1eWwsIjBHLZkR8zEBuQ)
 [跟我学C++中级篇——右值引用和万能引用](https://mp.weixin.qq.com/s/CrbcK_PstOPyzJryT_P2BQ)
 [C++中的局部static](https://mp.weixin.qq.com/s/VDEL-uOlQf39JKNhgJsVJg)
+[C++函数返回指针和引用的坑](https://mp.weixin.qq.com/s/aGIdPrE2vOZC2BkfJoOPJw)
 
 [一个简单实用的线程池及线程池组的实现！](https://mp.weixin.qq.com/s/n0bFI2xGnjTEcvS1k7Ao_A)
 
