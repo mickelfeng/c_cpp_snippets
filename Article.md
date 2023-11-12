@@ -48,6 +48,8 @@
 [跟我学C++中级篇——右值引用和万能引用](https://mp.weixin.qq.com/s/CrbcK_PstOPyzJryT_P2BQ)
 [C++中的局部static](https://mp.weixin.qq.com/s/VDEL-uOlQf39JKNhgJsVJg)
 [C++函数返回指针和引用的坑](https://mp.weixin.qq.com/s/aGIdPrE2vOZC2BkfJoOPJw)
+[跟我学c++中级篇——再论全局和静态智能指针](https://mp.weixin.qq.com/s/5rrsMayIYzldV9qiVl-N4A)
+[C++ 中的返回值优化](https://mp.weixin.qq.com/s/UI56112_jitpN3g-ULJ-1w)
 
 [一个简单实用的线程池及线程池组的实现！](https://mp.weixin.qq.com/s/n0bFI2xGnjTEcvS1k7Ao_A)
 
@@ -132,7 +134,7 @@
 [C++ 多线程详解之异步编程 std::promise](https://mp.weixin.qq.com/s/Nr_uEfjU8zQhMnYuplDirg)
 [C++ 多线程详解之异步编程 future](https://mp.weixin.qq.com/s/_TFG0jQr2JzhP0qSArhCmw)
 [C++ 多线程详解之异步编程 std::async](https://mp.weixin.qq.com/s/gKlt9Ua7x8Jbn6jDPdjm-g)
-
+[现代 c++ 异步 binder - (2/2)](https://mp.weixin.qq.com/s/-lvlvcqmSTIuI3xulq4AzA)
 ### 并发
 
 [C++并发编程：实现线程安全的栈](https://mp.weixin.qq.com/s/AeNBWAbu4t4-qKR8IKrZIw)

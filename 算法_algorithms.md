@@ -2,3 +2,4 @@
 
 https://github.com/youngyangyang04/leetcode-master
 
+[Python 手搓状态机结果被标准库吊打！](https://www.bilibili.com/video/BV1Bw411s7wj/)
