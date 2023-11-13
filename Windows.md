@@ -104,13 +104,14 @@ int _tmain()
 [一周学会 Windbg 调试器使用第 8 篇 - 何时使用 Windbg 进行动态调试](https://www.bilibili.com/video/BV1DX4y1b7bq/)
 [极安御信网络安全系列课程-C++ shellcode 加载器原理](https://www.bilibili.com/video/BV19P411v7rX/)
 
-### dll注入
+### dll 注入
+
 [DLL 注入与 HOOK](https://secondbc.github.io/SecondBC/2022/12/12/DLL注入与HOOK/)
 [DLL 显式调用及隐式调用](https://www.bilibili.com/video/BV1M44y1F79S/)
 [dll 延迟加载技术](https://mp.weixin.qq.com/s/wxNQ7yn1W1s85hR8CZGeRQ)
 [免杀基础之 DLL 远程线程注入](https://mp.weixin.qq.com/s/oaVq98wxbA6OOxoMcStBIw)
 [【逆向学习】Windows 平台下的 DLL 注入](https://www.xunflash.top/archives/DLLInject.html)
-[DLL注入之APC注入](https://www.bilibili.com/video/BV1PB4y1f7eW/)
+[DLL 注入之 APC 注入](https://www.bilibili.com/video/BV1PB4y1f7eW/)
 
 ## 寻址
 
@@ -133,7 +134,15 @@ int _tmain()
 
 [极安御信网络安全系列课程-Windows 逆向基础-MFC 源码分析(MFC 窗口创建机制)](https://www.bilibili.com/video/BV1Ym4y1q7FD/)
 
-
 ## Tools
 
 [Dependency Ms](https://learn.microsoft.com/zh-cn/cpp/windows/understanding-the-dependencies-of-a-visual-cpp-application?view=msvc-170) [Win8 前](https://www.dependencywalker.com/) [Win8 后](https://github.com/lucasg/Dependencies)
+
+# FAQ
+
+# 查看 lib 文件
+
+```sh
+dumpbin -exports kernel32.lib
+dumpbin -exports DLLTutorial.dll
+```

@@ -174,6 +174,7 @@
 [C++ 好用的格式化库--fmt](https://mp.weixin.qq.com/s/T55UzIo9spIcljd5hXeUzA)
 [C++ 好用的开源库集合--Boost](https://mp.weixin.qq.com/s/nmjd_9DQAfVXWXAhcb6dow)
 [适用于嵌入式设备的 Json 库](https://mp.weixin.qq.com/s/46P7rNqRMXwqZZ1DwXRhfw)
+[ZXing QRCode二维码](https://mp.weixin.qq.com/s/o0BiAtyMPERgCqb4r05ADw)
 
 # CMake
 [使用CMake编译程序](https://mp.weixin.qq.com/s/rhFscfiSPq5SkSV-aEiT2g)
@@ -260,6 +261,7 @@
 [linux | 安全 | ELF二进制文件通用劫持技术探索](https://mp.weixin.qq.com/s/qKviPQSkutMUU7mMovlvqA)
 [C语言轻松拿捏注册表](https://mp.weixin.qq.com/s/lp_OlfO5kXYWry6wnMd9Sg)
 [为什么嵌入式底层经常用typedef？](https://mp.weixin.qq.com/s/kotYWdLd8MoJCw1UjR8d8w)
+[C语言——extern外部变量以及函数声明和定义](https://mp.weixin.qq.com/s/De3muOjr1oAqWInvo2IYTA)
 
 # Project
 [Re0: 从零实现一个解除文件占用的小工具](https://mp.weixin.qq.com/s/WC9kTKfl7qAH9--lt6gyqw)

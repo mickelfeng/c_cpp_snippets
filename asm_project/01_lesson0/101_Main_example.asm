@@ -14,6 +14,7 @@ seg001 ENDS
   num2    dword    10101010h
   enc     db a0h,34h,56h,78h
   input db 20 dup ('0')  ; 重复指令初始化
+  bytesWritten DWORD ?
 
 .code
 start  PROC
