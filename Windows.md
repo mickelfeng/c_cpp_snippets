@@ -104,7 +104,7 @@ int _tmain()
 [一周学会 Windbg 调试器使用第 8 篇 - 何时使用 Windbg 进行动态调试](https://www.bilibili.com/video/BV1DX4y1b7bq/)
 [极安御信网络安全系列课程-C++ shellcode 加载器原理](https://www.bilibili.com/video/BV19P411v7rX/)
 
-### dll 注入
+### dll 注入/Hook
 
 [DLL 注入与 HOOK](https://secondbc.github.io/SecondBC/2022/12/12/DLL注入与HOOK/)
 [DLL 显式调用及隐式调用](https://www.bilibili.com/video/BV1M44y1F79S/)
@@ -112,7 +112,8 @@ int _tmain()
 [免杀基础之 DLL 远程线程注入](https://mp.weixin.qq.com/s/oaVq98wxbA6OOxoMcStBIw)
 [【逆向学习】Windows 平台下的 DLL 注入](https://www.xunflash.top/archives/DLLInject.html)
 [DLL 注入之 APC 注入](https://www.bilibili.com/video/BV1PB4y1f7eW/)
-
+[exe 注入之全局钩子注入](https://mp.weixin.qq.com/s/l_hCz_Kbm_q2MPjUd5WPbw)
+[远线程注入](https://mp.weixin.qq.com/s/CNZFytugjY2LZb_HqHf1EQ)
 ## 寻址
 
 [动态寻找函数地址](https://mp.weixin.qq.com/s/zVJvggesZTtvvK__aR4jtw)
