@@ -93,6 +93,7 @@ int _tmain()
   #ifndef
   #define
 
+
 ## 安全编程
 
 - CTF\binary\Reverse\index.md
@@ -126,6 +127,7 @@ int _tmain()
 [windows-api-function-cheatsheets](https://github.com/snowcra5h/windows-api-function-cheatsheets)
 [《Windows 恶意软件常见 API 一览》发布](https://mp.weixin.qq.com/s/GCNK3eLXYLWMGF6BW3Yy-A)
 [极安御信网络安全系列课程 Windows 编程基础-Windows 窗口 API 详解](https://www.bilibili.com/video/BV1cV4y1e7pq/)
+[MinGW能不能调用MSVC生成的dll](https://www.bilibili.com/video/BV1na4y1D7eS/)
 
 ## network
 
