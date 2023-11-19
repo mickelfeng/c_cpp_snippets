@@ -123,11 +123,13 @@ int _tmain()
 
 [键盘消息 | [原创] 从应用层到 MCU，看 Windows 处理键盘输入 [1.在应用层调试 Notepad.exe (按键消费者)] ](https://bbs.kanxue.com/user-home-399589.htm)
 [国外油管大神 C++游戏编程实战教程，新手 6 小时入门，并快速达到游戏开发能力（中英字](https://www.bilibili.com/video/BV16h4y1d766/)
+[极安御信网络安全系列课程 Windows 编程基础-Windows 窗口 API 详解](https://www.bilibili.com/video/BV1cV4y1e7pq/)
+[MinGW能不能调用MSVC生成的dll](https://www.bilibili.com/video/BV1na4y1D7eS/)
+## API
 [Windows 远端线程执行任意 API 的设计与实现](https://mp.weixin.qq.com/s/bqLiDI-kt6dDIWyl-C3K0Q)
 [windows-api-function-cheatsheets](https://github.com/snowcra5h/windows-api-function-cheatsheets)
 [《Windows 恶意软件常见 API 一览》发布](https://mp.weixin.qq.com/s/GCNK3eLXYLWMGF6BW3Yy-A)
-[极安御信网络安全系列课程 Windows 编程基础-Windows 窗口 API 详解](https://www.bilibili.com/video/BV1cV4y1e7pq/)
-[MinGW能不能调用MSVC生成的dll](https://www.bilibili.com/video/BV1na4y1D7eS/)
+[系统调用-API函数调用过程](https://mp.weixin.qq.com/s/Ay2SAtwVZnCZmFaLofiw8g)
 
 ## network
 
@@ -143,7 +145,7 @@ int _tmain()
 
 # FAQ
 
-# 查看 lib 文件
+# 查看 lib 文件/查看符号表
 
 ```sh
 dumpbin -exports kernel32.lib

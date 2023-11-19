@@ -50,6 +50,8 @@
 [C++函数返回指针和引用的坑](https://mp.weixin.qq.com/s/aGIdPrE2vOZC2BkfJoOPJw)
 [跟我学c++中级篇——再论全局和静态智能指针](https://mp.weixin.qq.com/s/5rrsMayIYzldV9qiVl-N4A)
 [C++ 中的返回值优化](https://mp.weixin.qq.com/s/UI56112_jitpN3g-ULJ-1w)
+[跟我学c++中级篇——模板的调试](https://mp.weixin.qq.com/s/It2mhMEieK7EvMubSRNHgQ)
+[auto含量最高的一集——C++20简写函数模板](https://www.bilibili.com/video/BV1KC4y1S7gX/)
 
 [一个简单实用的线程池及线程池组的实现！](https://mp.weixin.qq.com/s/n0bFI2xGnjTEcvS1k7Ao_A)
 
