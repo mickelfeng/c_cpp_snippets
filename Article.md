@@ -53,6 +53,7 @@
 [跟我学c++中级篇——模板的调试](https://mp.weixin.qq.com/s/It2mhMEieK7EvMubSRNHgQ)
 [auto含量最高的一集——C++20简写函数模板](https://www.bilibili.com/video/BV1KC4y1S7gX/)
 [C++那些事之string那些事](https://mp.weixin.qq.com/s/WIz4tSazseQjafuYhf-pEQ)
+[跟我学c++高级篇——静态反射实现之一](https://mp.weixin.qq.com/s/-FMNZ3gOcteJ9Gbt3fpsFg)
 
 [一个简单实用的线程池及线程池组的实现！](https://mp.weixin.qq.com/s/n0bFI2xGnjTEcvS1k7Ao_A)
 
@@ -205,6 +206,7 @@
 [CMake:配置时运行自定义命令](https://mp.weixin.qq.com/s/PjqU8q9tkWYSgYu-Aglpfg)
 [CMake：构建时为特定目标运行自定义命令](https://mp.weixin.qq.com/s/8YgyARRUYAy3K9A426HJhg)
 [一些通用的Makefile文件模板](https://mp.weixin.qq.com/s/jKoGezTJKFbIw7Efiea2ww)
+[从版本1到版本5如何编写牛逼的Makefile](https://mp.weixin.qq.com/s/a9vg0r7wRA84947CRl5beg)
 
 # VSCode
 [VSCode配置C++环境](https://mp.weixin.qq.com/s/JIW8h_HDPf2BdrTnOqTPFQ)
