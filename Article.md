@@ -1,3 +1,4 @@
+[C++提效网站](https://mp.weixin.qq.com/s/Nqcj6HTtF5Azb_M9fpny0A)
 [c++函数式编程：提高代码表达力和可维护性](https://mp.weixin.qq.com/s/HFyZ-Dp33i00uWllcns7Ig)
 [基于范围的 for 循环：现代 C++ 循环控制的新思维](https://mp.weixin.qq.com/s/KX9pRIVCdeH-yQOskRdhnQ)
 [C++中typedef详解及应用示例](https://mp.weixin.qq.com/s/CrfSu_6BxPiPr-pRa-_fnQ)
@@ -54,6 +55,7 @@
 [auto含量最高的一集——C++20简写函数模板](https://www.bilibili.com/video/BV1KC4y1S7gX/)
 [C++那些事之string那些事](https://mp.weixin.qq.com/s/WIz4tSazseQjafuYhf-pEQ)
 [跟我学c++高级篇——静态反射实现之一](https://mp.weixin.qq.com/s/-FMNZ3gOcteJ9Gbt3fpsFg)
+[现代 c++ 读写 buffer](https://mp.weixin.qq.com/s/YCTSntOm8HsK9lDECBSKcw)
 
 [一个简单实用的线程池及线程池组的实现！](https://mp.weixin.qq.com/s/n0bFI2xGnjTEcvS1k7Ao_A)
 
@@ -160,6 +162,7 @@
 ## 安全
 [CC++05.shellcode本地&远程分离](https://www.bilibili.com/video/BV1qN4y1y75A/)
 [将shellcode注入Linux中正在运行的进程（C/C++代码实现）](https://mp.weixin.qq.com/s/WrN2ErTGFfFTY3Q6qrbqvg)
+[修改页的属性两种范式SSDT HOOK（补充）](https://mp.weixin.qq.com/s/MidvsBr6_Yb-2uK2JFr56w)
 
 ## 通信
 [Linux进程间通信的六种常见方式及代码实现](https://mp.weixin.qq.com/s/qz5bJ_y2NGWuWdC3U3u0lQ)
