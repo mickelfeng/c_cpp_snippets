@@ -3,6 +3,9 @@
 
 在查找资源时 `    res = FindResource(NULL, MAKEINTRESOURCE(IDR_BIN4), L"BIN");` , 使用L"BIN"和上面对应
 
+## 关闭随机地址
+
+解决方案管理器-属性 (Ctrl+Shift+E - Alt+Enter) - 链接器 - 高级 - 随机基地 - 否
 
 ## Article
 

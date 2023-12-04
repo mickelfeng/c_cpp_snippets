@@ -1,4 +1,6 @@
 [C++提效网站](https://mp.weixin.qq.com/s/Nqcj6HTtF5Azb_M9fpny0A)
+[全面盘点C++类型转换](https://mp.weixin.qq.com/s/8JzlknW_uMpkzr5u4E72EA)
+[一个简单例子教会你C++动态库的用法](https://mp.weixin.qq.com/s/_FcQZrkCEau5OzBvaDm_og)
 [c++函数式编程：提高代码表达力和可维护性](https://mp.weixin.qq.com/s/HFyZ-Dp33i00uWllcns7Ig)
 [基于范围的 for 循环：现代 C++ 循环控制的新思维](https://mp.weixin.qq.com/s/KX9pRIVCdeH-yQOskRdhnQ)
 [C++中typedef详解及应用示例](https://mp.weixin.qq.com/s/CrfSu_6BxPiPr-pRa-_fnQ)
@@ -53,9 +55,12 @@
 [C++ 中的返回值优化](https://mp.weixin.qq.com/s/UI56112_jitpN3g-ULJ-1w)
 [跟我学c++中级篇——模板的调试](https://mp.weixin.qq.com/s/It2mhMEieK7EvMubSRNHgQ)
 [auto含量最高的一集——C++20简写函数模板](https://www.bilibili.com/video/BV1KC4y1S7gX/)
+[C++那些事之万物皆可auto](https://mp.weixin.qq.com/s/ARH7Iq7kC7flhW850ex2ZA)
 [C++那些事之string那些事](https://mp.weixin.qq.com/s/WIz4tSazseQjafuYhf-pEQ)
-[跟我学c++高级篇——静态反射实现之一](https://mp.weixin.qq.com/s/-FMNZ3gOcteJ9Gbt3fpsFg)
 [现代 c++ 读写 buffer](https://mp.weixin.qq.com/s/YCTSntOm8HsK9lDECBSKcw)
+[跟我学c++高级篇——静态反射实现之一](https://mp.weixin.qq.com/s/-FMNZ3gOcteJ9Gbt3fpsFg)
+[跟我学c++高级篇——动态反射之二动态列表](https://mp.weixin.qq.com/s/N1YL0r7_s2Ly557GXSE0og)
+[跟我学c++高级篇——动态反射之一递归遍历](https://mp.weixin.qq.com/s/onRdi7HylMENIy3DphSw6w)
 
 [一个简单实用的线程池及线程池组的实现！](https://mp.weixin.qq.com/s/n0bFI2xGnjTEcvS1k7Ao_A)
 
@@ -210,6 +215,7 @@
 [CMake：构建时为特定目标运行自定义命令](https://mp.weixin.qq.com/s/8YgyARRUYAy3K9A426HJhg)
 [一些通用的Makefile文件模板](https://mp.weixin.qq.com/s/jKoGezTJKFbIw7Efiea2ww)
 [从版本1到版本5如何编写牛逼的Makefile](https://mp.weixin.qq.com/s/a9vg0r7wRA84947CRl5beg)
+[CMake: 配置时生成源码](https://mp.weixin.qq.com/s/Lv8FMN9WHdcWDNIUF5D4Wg)
 
 # VSCode
 [VSCode配置C++环境](https://mp.weixin.qq.com/s/JIW8h_HDPf2BdrTnOqTPFQ)
