@@ -19,3 +19,26 @@ set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -O3")
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -O3")
 
 ```
+
+# Make
+./configure --prefix=/home/kali/Downloads/yafu/ecm_bin # 安装目录
+
+```sh
+LIBS += -L../msieve
+LIBS += -lmsieve -ldl
+# 即等于, -L指定查找路径 -l指定库
+LIBS += -L../msieve -lmsieve -ldl
+```
+
+**指定LIB目录的方式, 可用以下几种**
+
+1. 用libtool，and specify the full pathname of the library
+2. use the '-LLIBDIR' 配合下面
+   - add LIBDIR to the 'LD_LIBRARY_PATH' environment variable
+     during execution
+   - add LIBDIR to the 'LD_RUN_PATH' environment variable
+     during linking
+   - use the '-Wl,-rpath -Wl,LIBDIR' linker flag
+   - have your system administrator add LIBDIR to '/etc/ld.so.conf'
+   /bin/bash ./libtool   --mode=install /usr/bin/install -c ecm '/usr/local/bin' 
+   libtool: install: /usr/bin/install -c ecm /usr/local/bin/ecm
