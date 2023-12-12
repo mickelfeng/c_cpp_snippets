@@ -63,6 +63,7 @@
 [跟我学c++高级篇——动态反射之一递归遍历](https://mp.weixin.qq.com/s/onRdi7HylMENIy3DphSw6w)
 [跟我学c++高级篇——静态反射实现之二函数接口实现](https://mp.weixin.qq.com/s/aihQKPa5LtF-YtVuXrAaDw)
 [一个简单实用的线程池及线程池组的实现！](https://mp.weixin.qq.com/s/n0bFI2xGnjTEcvS1k7Ao_A)
+[C++中设计好用的API](https://mp.weixin.qq.com/s/KmLiKA55Bc9nIbkS47J7mA)
 
 [C++ 11 的随机数之伪随机数库](https://mp.weixin.qq.com/s/dCrZ3KV9-gxLMeKX5SivDw)
 [C++ 11 的随机数之 rand 函数陷阱与真随机数](https://mp.weixin.qq.com/s/0X5X_VaYg3k0aRSc25b0jg)
