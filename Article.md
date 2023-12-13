@@ -91,6 +91,7 @@
 [c++23中的新功能之十六std::forward_like](https://mp.weixin.qq.com/s/Pb7pjEKvSXMTvUjlFxWuag)
 [c++23中的新功能之十七显示this的应用](https://mp.weixin.qq.com/s/p_mtMllkt_EK_dCrK0fGqg)
 [c++23中的新功能之十八新增的属性](https://mp.weixin.qq.com/s/XKdJYLWul70x60M2Vmy0QQ)
+[现代 c++ URL](https://mp.weixin.qq.com/s/-5yIPyzpVGxCPi1AP9Vk9g)
 
 [const | const修饰指针的理解](https://mp.weixin.qq.com/s/JF_EwyA9hKakj1yDLJ3_ew)
 [const | C++中const、constexpr和consteval的同与不同](https://mp.weixin.qq.com/s/C-Rl1BvlrYZRQh0EU4Kz9A)
@@ -132,6 +133,7 @@
 [cherno | 用 C++ 制作漂亮的桌面应用程序](https://www.bilibili.com/video/BV1xh4y167T7/)
 
 ## 多线程
+[C++线程安全：共享数据的完美守护者](https://mp.weixin.qq.com/s/AojhztK0OmM3yxO-GHg6pA)
 [C++ 多线程](https://mp.weixin.qq.com/s/4P_8YNZx5I0mEp4uPMtc3g)
 [C++ 多线程 | 一个基础的多线程案例](https://mp.weixin.qq.com/s/b8LIo9LhutMKXDfzXNK9Vw)
 [C++ 中的多线程编程：一种高效的并发处理方式](https://mp.weixin.qq.com/s/g2XjqbbouiXlVXfLlvK76w)
