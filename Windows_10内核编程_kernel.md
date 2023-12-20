@@ -25,3 +25,5 @@
 [系统调用-3环进0环](https://mp.weixin.qq.com/s/ys4vFIP89Eozcq1Rpn_laA)
 [3环与0环通信-代码](https://mp.weixin.qq.com/s/LRtn3YVR0eZuMPG3h_CQNw)
 [进程与线程-EPROCESS&ETHREAD&KPCR](https://mp.weixin.qq.com/s/fxQUbD-OAlt57a9-28EShQ)
+[进程与线程-内核隐藏进程](https://mp.weixin.qq.com/s/x3Lap1OMR3acMyIUJsWCug)
+[进程与线程-模拟线程切换](https://mp.weixin.qq.com/s/CnbiMbHh_5FwHCYTRuXJdQ)

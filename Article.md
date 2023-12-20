@@ -64,6 +64,8 @@
 [跟我学c++高级篇——静态反射实现之二函数接口实现](https://mp.weixin.qq.com/s/aihQKPa5LtF-YtVuXrAaDw)
 [一个简单实用的线程池及线程池组的实现！](https://mp.weixin.qq.com/s/n0bFI2xGnjTEcvS1k7Ao_A)
 [C++中设计好用的API](https://mp.weixin.qq.com/s/KmLiKA55Bc9nIbkS47J7mA)
+[C++的函数如何返回多个值？](https://mp.weixin.qq.com/s/-PJ2b_AtE1wuQDFfClewkA)
+[跟我学c++高级篇——C++26反射预览](https://mp.weixin.qq.com/s/O568GHyBLw5jLtU7s2kKJQ)
 
 [C++ 11 的随机数之伪随机数库](https://mp.weixin.qq.com/s/dCrZ3KV9-gxLMeKX5SivDw)
 [C++ 11 的随机数之 rand 函数陷阱与真随机数](https://mp.weixin.qq.com/s/0X5X_VaYg3k0aRSc25b0jg)
@@ -259,6 +261,7 @@
 [C语言：调试-----06. assert断言函数](https://mp.weixin.qq.com/s/kIXn4htLEQYhvIGthPvOQQ)
 [C语言：调试-----07.调试信息的输出](https://mp.weixin.qq.com/s/w6Ao5qGfXCqtPQDRq61jKQ)
 [Linux多线程调试没那么难，可别再用printf了](https://mp.weixin.qq.com/s/qJTnEDT3xO9T7koDk5kVdQ)
+[C++如何快速调试异常位置？](https://mp.weixin.qq.com/s/REYgdAyKAn7_AgLNfvCxIw)
 
 [C语言函数指针与回调函数](https://mp.weixin.qq.com/s/eEmejpEGKAXSwz6PfHpAzg)
 [C语言操作寄存器和函数指针](https://mp.weixin.qq.com/s/rDgicesnpq4zLEUKWMyhKQ)

@@ -28,6 +28,11 @@ LIBS += -L../msieve
 LIBS += -lmsieve -ldl
 # 即等于, -L指定查找路径 -l指定库
 LIBS += -L../msieve -lmsieve -ldl
+
+# INC加.h, LIBS加库
+INC += -I../gmp_install/gmp-6.2.0/include
+LIBS += -L../gmp_install/gmp-6.2.0/lib
+
 ```
 
 **指定LIB目录的方式, 可用以下几种**
