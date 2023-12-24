@@ -34,6 +34,7 @@ INC += -I../gmp_install/gmp-6.2.0/include
 LIBS += -L../gmp_install/gmp-6.2.0/lib
 
 ```
+Makefile.patch 使用 patch 命令生成 Makefile
 
 **指定LIB目录的方式, 可用以下几种**
 

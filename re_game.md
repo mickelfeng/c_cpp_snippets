@@ -19,6 +19,10 @@
 [逆向植物大战僵尸](https://www.bilibili.com/video/BV1uk4y1x7RA/)
 [极安御信网络安全系列课程-01.游戏逆向](https://www.bilibili.com/video/BV1pA411z7PF/)
 
+# 变速 
+[揭秘用户模式进程变速原理和C++实现](https://www.bilibili.com/video/BV19j411H74q/)
+
+
 # 飞郁
 
 [【网络空间安全】04.编写进制转换器](https://www.bilibili.com/video/BV1Ay4y1M7iU/)

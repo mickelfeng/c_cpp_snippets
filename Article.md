@@ -66,6 +66,7 @@
 [C++中设计好用的API](https://mp.weixin.qq.com/s/KmLiKA55Bc9nIbkS47J7mA)
 [C++的函数如何返回多个值？](https://mp.weixin.qq.com/s/-PJ2b_AtE1wuQDFfClewkA)
 [跟我学c++高级篇——C++26反射预览](https://mp.weixin.qq.com/s/O568GHyBLw5jLtU7s2kKJQ)
+[C++反射-简介](https://mp.weixin.qq.com/s/kmBS8N-xf_dyWDKc7iuEWw)
 
 [C++ 11 的随机数之伪随机数库](https://mp.weixin.qq.com/s/dCrZ3KV9-gxLMeKX5SivDw)
 [C++ 11 的随机数之 rand 函数陷阱与真随机数](https://mp.weixin.qq.com/s/0X5X_VaYg3k0aRSc25b0jg)
@@ -151,6 +152,7 @@
 [C++ 多线程详解之异步编程 future](https://mp.weixin.qq.com/s/_TFG0jQr2JzhP0qSArhCmw)
 [C++ 多线程详解之异步编程 std::async](https://mp.weixin.qq.com/s/gKlt9Ua7x8Jbn6jDPdjm-g)
 [现代 c++ 异步 binder - (2/2)](https://mp.weixin.qq.com/s/-lvlvcqmSTIuI3xulq4AzA)
+[一步一步写线程之二线程应用管理](https://mp.weixin.qq.com/s/wnDc1le51y9qpT77H26vig)
 ### 并发
 
 [C++并发编程：实现线程安全的栈](https://mp.weixin.qq.com/s/AeNBWAbu4t4-qKR8IKrZIw)
