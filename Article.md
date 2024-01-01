@@ -153,6 +153,7 @@
 [C++ 多线程详解之异步编程 std::async](https://mp.weixin.qq.com/s/gKlt9Ua7x8Jbn6jDPdjm-g)
 [现代 c++ 异步 binder - (2/2)](https://mp.weixin.qq.com/s/-lvlvcqmSTIuI3xulq4AzA)
 [一步一步写线程之二线程应用管理](https://mp.weixin.qq.com/s/wnDc1le51y9qpT77H26vig)
+
 ### 并发
 
 [C++并发编程：实现线程安全的栈](https://mp.weixin.qq.com/s/AeNBWAbu4t4-qKR8IKrZIw)
@@ -175,6 +176,7 @@
 [CC++05.shellcode本地&远程分离](https://www.bilibili.com/video/BV1qN4y1y75A/)
 [将shellcode注入Linux中正在运行的进程（C/C++代码实现）](https://mp.weixin.qq.com/s/WrN2ErTGFfFTY3Q6qrbqvg)
 [修改页的属性两种范式SSDT HOOK（补充）](https://mp.weixin.qq.com/s/MidvsBr6_Yb-2uK2JFr56w)
+[映射注入](https://mp.weixin.qq.com/s/ji7oV9OM3C8Z0gk5MXoiVA)
 
 ## 通信
 [Linux进程间通信的六种常见方式及代码实现](https://mp.weixin.qq.com/s/qz5bJ_y2NGWuWdC3U3u0lQ)
