@@ -5,3 +5,5 @@ https://microsoft.github.io/devicescript/
 [物联网安全之qiling框架初探](https://mp.weixin.qq.com/s/WTWD24dasuTbfghntqnsLQ)
 [用 亿 点 点 代码将ESP32接入ChatGpt](https://www.bilibili.com/video/BV1bv411c7CV/)
 [ESP32-C3蓝牙小车获奖了](https://mp.weixin.qq.com/s/ewEzvBAaNAwcDHBTkMlbjg)
+[合宙ESP32-S3刷入MicroPython固件并点亮LED灯](https://mp.weixin.qq.com/s/QfHwNbOm3_f1a4Ar_Vn2HQ)
+[固件、驱动、示例和相关软件下载](https://mp.weixin.qq.com/s/7RtQyvU2XMCBPLl1QLfSvA)
