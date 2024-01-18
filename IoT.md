@@ -1,6 +1,7 @@
 https://microsoft.github.io/devicescript/
 
 [平台 | 协议介绍 | 物联网快速学习入门指南](https://mp.weixin.qq.com/s/ySIqybBmV1yZE1OwOBzImg)
+[工具 | 分享一个非常有用的虚拟串口工具](https://mp.weixin.qq.com/s/TURLmhZXCQUi5PL0HM4BcA)
 [【ESP32 & Arduino】ESP32入门之环境安装](https://blog.jamiexu.cn/2022/11/23/%E3%80%90ESP32%20&%20Arduino%E3%80%91ESP32%E5%85%A5%E9%97%A8%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85%E4%B9%8B%E7%82%B9%E4%BA%AE%E7%AC%AC%E4%B8%80%E9%A2%97LED/)
 [【STM32&I2C(IIC)&Proteus】基于STM32的Proteus下I2C仿真](https://blog.jamiexu.cn/2023/04/20/%E3%80%90STM32&I2C(IIC)&ROM&RAM&Proteus%E3%80%91IIC%E5%8D%8F%E8%AE%AE%E5%92%8C%E5%AD%98%E5%82%A8%E5%99%A8%E7%9A%84%E4%BB%8B%E7%BB%8D%E5%8F%8A%E5%9F%BA%E4%BA%8ESTM32%E7%9A%84Proteus%E4%B8%8BI2C%E4%BB%BF%E7%9C%9F/)
 [物联网安全之qiling框架初探](https://mp.weixin.qq.com/s/WTWD24dasuTbfghntqnsLQ)
@@ -10,3 +11,4 @@ https://microsoft.github.io/devicescript/
 [固件、驱动、示例和相关软件下载](https://mp.weixin.qq.com/s/7RtQyvU2XMCBPLl1QLfSvA)
 [ESP32-S3通过LCD显示JPG、PNG图片(基于Micropython)](https://mp.weixin.qq.com/s/zySZuR9VpvlTjzJy0ELNoA)
 [ESP32使用SDIO驱动SD卡模块](https://mp.weixin.qq.com/s/7LvjztQpp9nxBpz5pCDcsQ)
+[ESP32-S3实时显示摄像头拍摄的画面(基于Micropython)](https://mp.weixin.qq.com/s/ElWBqrbIKa6pSG2wELBVqA)
