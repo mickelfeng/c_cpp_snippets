@@ -12,3 +12,5 @@ https://microsoft.github.io/devicescript/
 [ESP32-S3通过LCD显示JPG、PNG图片(基于Micropython)](https://mp.weixin.qq.com/s/zySZuR9VpvlTjzJy0ELNoA)
 [ESP32使用SDIO驱动SD卡模块](https://mp.weixin.qq.com/s/7LvjztQpp9nxBpz5pCDcsQ)
 [ESP32-S3实时显示摄像头拍摄的画面(基于Micropython)](https://mp.weixin.qq.com/s/ElWBqrbIKa6pSG2wELBVqA)
+[基于ESP32-C3的智慧卫生间方案设计](https://mp.weixin.qq.com/s/92oK1ttnnUBSqNb-7k5MPQ)
+[ESP32-C3驱动墨水屏并显示图片（基于Micropython）](https://mp.weixin.qq.com/s/tHU1i0hN5YtI6oo9bs2lrg)
