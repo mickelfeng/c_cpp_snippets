@@ -15,3 +15,4 @@ https://microsoft.github.io/devicescript/
 [基于ESP32-C3的智慧卫生间方案设计](https://mp.weixin.qq.com/s/92oK1ttnnUBSqNb-7k5MPQ)
 [ESP32-C3驱动墨水屏并显示图片（基于Micropython）](https://mp.weixin.qq.com/s/tHU1i0hN5YtI6oo9bs2lrg)
 [平台 | FluxMQ: 开源云原生高性能的IOT平台](https://mp.weixin.qq.com/s/512T3hXHKtihoA1fpLfBVg)
+[ESP32-S3-EYE实现卡片相机的拍照功能(基于Micropython)](https://mp.weixin.qq.com/s/tsnBCgmheza2IwUPgYdSoQ)
