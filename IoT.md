@@ -17,3 +17,4 @@ https://microsoft.github.io/devicescript/
 [平台 | FluxMQ: 开源云原生高性能的IOT平台](https://mp.weixin.qq.com/s/512T3hXHKtihoA1fpLfBVg)
 [ESP32-S3-EYE实现卡片相机的拍照功能(基于Micropython)](https://mp.weixin.qq.com/s/tsnBCgmheza2IwUPgYdSoQ)
 [ESP32-C3墨水屏电子时钟（基于Micropython）](https://mp.weixin.qq.com/s/RWmwi3iqkqjetavBAwcnGQ)
+[100 个物联网项目创意（IOT项目）](https://mp.weixin.qq.com/s/anUvrAUlQ7fzFHq6qAh8Mw)
