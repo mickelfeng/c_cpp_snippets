@@ -14,6 +14,7 @@
 
 
 # 内核编程
+[Windows内核理论基础学习](https://mp.weixin.qq.com/s/3Ntp7W9T7TLDYpbs61RGFQ)
 [Windows 内核编程》1.环境搭建以及第一个内核程序](https://www.bilibili.com/video/BV1Uw41127Vd/)
 [Driver Download](https://learn.microsoft.com/zh-cn/windows-hardware/drivers/download-the-wdk#download-icon-step-3-install-wdk)
 [Windows内核安全-字符串操作【逆向安全/漏洞安全/2023最新课程/CTF】- 极安御信系列课程](https://www.bilibili.com/video/BV19u4y1P7Cx/)
