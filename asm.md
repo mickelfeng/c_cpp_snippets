@@ -13,3 +13,6 @@ imul eax, [rbp+rax*4+200h+cc1], 17h
 mov  byte ptr [0x4000], al
 mov dword ptr [0x4000], eax
 mov qword ptr [0x4000], rax
+
+# Article
+[16位汇编基础环境搭建](https://mp.weixin.qq.com/s/RQr7Jo_tfq0LEHDRMnCq6g)

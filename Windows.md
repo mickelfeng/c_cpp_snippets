@@ -94,10 +94,11 @@ int _tmain()
   #define
 
 
-## 安全编程
+## 安全编程/免杀
 
 - CTF\binary\Reverse\index.md
 
+[免杀学习-基础-一](https://mp.weixin.qq.com/s/qpINhoeK3gBNrZrY_jH7Cw)
 [Windows*Shellcode*内联汇编](https://secondbc.github.io/SecondBC/2023/06/19/Windows_Shellcode/)
 [Windows 编程](https://secondbc.github.io/SecondBC/2022/12/04/Windows编程/)
 [远程线程注入-极安御信网络安全系列课程-病毒分析](https://www.bilibili.com/video/BV1ww411U71g/)
