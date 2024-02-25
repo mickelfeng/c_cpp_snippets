@@ -115,6 +115,7 @@
 [std | C++ std::thread线程详解](https://mp.weixin.qq.com/s/VvXLfQzbxn9ffz7esi7eew)
 [std | 深入解析现代C++中的原子（std::atomic）](https://mp.weixin.qq.com/s/VVFZlcXqjvFlxt_T8mAS6w
 [std | std::invoke与自己实现模板比较](https://mp.weixin.qq.com/s/YI4ebhvGHGpWoT3ayxUHqg)
+[std | 跟我学C++中级篇——C++17标准后的std::invoke系列](https://mp.weixin.qq.com/s/Qgy-mgML_VjWTPFo0oESnw)
 [std | std::any和枚举类转换](https://mp.weixin.qq.com/s/X4Sa50MwamvboB7IzvQDBA)
 [std | C++23：多维视图（std::mdspan）](https://mp.weixin.qq.com/s/_gNs3L8dM0ucjJ9lJ1dXHA)
 [std | 跟我学c++中级篇——std::tuple的复合操作](https://mp.weixin.qq.com/s/moMjnWMQ8HU7qaCjWnM4yQ)
