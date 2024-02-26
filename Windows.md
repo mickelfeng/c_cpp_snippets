@@ -127,6 +127,7 @@ int _tmain()
 [极安御信网络安全系列课程 Windows 编程基础-Windows 窗口 API 详解](https://www.bilibili.com/video/BV1cV4y1e7pq/)
 [MinGW能不能调用MSVC生成的dll](https://www.bilibili.com/video/BV1na4y1D7eS/)
 ## API
+[Windows API 简介](https://mp.weixin.qq.com/s/NBAYTCksJWpA-nCiVyX0Pw)
 [Windows 远端线程执行任意 API 的设计与实现](https://mp.weixin.qq.com/s/bqLiDI-kt6dDIWyl-C3K0Q)
 [windows-api-function-cheatsheets](https://github.com/snowcra5h/windows-api-function-cheatsheets)
 [《Windows 恶意软件常见 API 一览》发布](https://mp.weixin.qq.com/s/GCNK3eLXYLWMGF6BW3Yy-A)
