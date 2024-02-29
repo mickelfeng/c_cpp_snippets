@@ -93,6 +93,9 @@ int _tmain()
   #ifndef
   #define
 
+## WindowsAPI/内存
+
+[Win32 API · 内存操作](https://mp.weixin.qq.com/s/NGPb7YfMiZSBMJuVfrweLQ)
 
 ## 安全编程/免杀
 
@@ -116,6 +119,8 @@ int _tmain()
 [DLL 注入之 APC 注入](https://www.bilibili.com/video/BV1PB4y1f7eW/)
 [exe 注入之全局钩子注入](https://mp.weixin.qq.com/s/l_hCz_Kbm_q2MPjUd5WPbw)
 [远线程注入](https://mp.weixin.qq.com/s/CNZFytugjY2LZb_HqHf1EQ)
+[浅析RDI-反射DLL注入](https://mp.weixin.qq.com/s/5huCKEoxrnWyFDdBmxI3dA)
+
 ## 寻址
 
 [动态寻找函数地址](https://mp.weixin.qq.com/s/zVJvggesZTtvvK__aR4jtw)
