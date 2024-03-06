@@ -3,6 +3,7 @@
 [任鸟飞逆向安全](https://space.bilibili.com/413483715)
 
 [植物大战僵尸修改器制作--从入门到入土](https://mp.weixin.qq.com/s/y3IK6h5ZdgOuXNMBx7Siag)
+[FPS游戏安全入门](https://www.bilibili.com/video/BV1vr421W7Ln/)
 
 [【直播回放】3月31日-变态功能与自动寻路call定位分析](https://www.bilibili.com/video/BV1Zs4y177f3/)
 [2023年最新！引擎逆向专题-虚幻引擎通杀逆向分析与实战](https://www.bilibili.com/video/BV1Vv4y1p73s/)
@@ -19,7 +20,7 @@
 [逆向植物大战僵尸](https://www.bilibili.com/video/BV1uk4y1x7RA/)
 [极安御信网络安全系列课程-01.游戏逆向](https://www.bilibili.com/video/BV1pA411z7PF/)
 
-# 变速 
+# 变速
 [揭秘用户模式进程变速原理和C++实现](https://www.bilibili.com/video/BV19j411H74q/)
 
 
