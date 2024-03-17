@@ -18,5 +18,6 @@ https://microsoft.github.io/devicescript/
 [ESP32-S3-EYE实现卡片相机的拍照功能(基于Micropython)](https://mp.weixin.qq.com/s/tsnBCgmheza2IwUPgYdSoQ)
 [ESP32-C3墨水屏电子时钟（基于Micropython）](https://mp.weixin.qq.com/s/RWmwi3iqkqjetavBAwcnGQ)
 [100 个物联网项目创意（IOT项目）](https://mp.weixin.qq.com/s/anUvrAUlQ7fzFHq6qAh8Mw)
+[一篇讲透物联网自定义的TCP协议](https://mp.weixin.qq.com/s/Dpm0epDQ9_MOoQhTF9cbmg)
 
 [DeskHop：一套键盘鼠标畅享两台电脑](https://mp.weixin.qq.com/s/Db2sHAYIO-aBJRHcbT55Cw)
