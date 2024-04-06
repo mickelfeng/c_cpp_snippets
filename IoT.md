@@ -21,3 +21,5 @@ https://microsoft.github.io/devicescript/
 [一篇讲透物联网自定义的TCP协议](https://mp.weixin.qq.com/s/Dpm0epDQ9_MOoQhTF9cbmg)
 
 [DeskHop：一套键盘鼠标畅享两台电脑](https://mp.weixin.qq.com/s/Db2sHAYIO-aBJRHcbT55Cw)
+
+[动画演示 | 秒懂物联网 UART、I2C、SPI 三种串行总线通信原理](https://mp.weixin.qq.com/s/_R0jDSkBpGQB_xfHDmCbvQ)
