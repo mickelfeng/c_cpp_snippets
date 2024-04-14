@@ -5,6 +5,23 @@
 #include <string.h>
 #include <stdlib.h>
 
+time_t get_timestamp(int year, int month, int day, int hour, int min, int sec) {
+    struct tm timeinfo;
+    time_t timestamp;
+
+    timeinfo.tm_year = year - 1900;
+    timeinfo.tm_mon = month - 1;
+    timeinfo.tm_mday = day;
+    timeinfo.tm_hour = hour;
+    timeinfo.tm_min = min;
+    timeinfo.tm_sec = sec;
+    timeinfo.tm_isdst = -1;
+
+    timestamp = mktime(&timeinfo);
+
+    return timestamp;
+}
+
 void test_timet();
 
 void test_timestamp_lite();
