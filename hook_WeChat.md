@@ -156,3 +156,6 @@ https://blog.csdn.net/u010256831?type=blog
 
 # Aritcle
 [极安御信网络安全系列课程-游戏逆向-反录制反截屏 - API实现](https://www.bilibili.com/video/BV1Ks4y117BA/) 
+
+## Hook Framework
+[wechat-hook：一款开源的微信hook机器人框架](https://mp.weixin.qq.com/s/-nrV9P7omF8bDK_so9r7sA)

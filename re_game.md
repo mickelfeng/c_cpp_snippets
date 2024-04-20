@@ -160,3 +160,6 @@
 [游戏逆向检测对抗小白也能入门10----过数据检测防封](https://www.bilibili.com/video/BV1ZX4y167mo/)
 
 [3分钟学会,最简单的X64X86注入DLL----远线程注入](https://www.bilibili.com/video/BV1rs4y1N769/)
+
+## Type1
+[逆向分析VT加持的无畏契约纯内核挂](https://mp.weixin.qq.com/s/Utm-bFqVCj3B-fZetXny-g)

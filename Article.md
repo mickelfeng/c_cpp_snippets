@@ -155,6 +155,7 @@
 [C++ 多线程详解之异步编程 std::async](https://mp.weixin.qq.com/s/gKlt9Ua7x8Jbn6jDPdjm-g)
 [现代 c++ 异步 binder - (2/2)](https://mp.weixin.qq.com/s/-lvlvcqmSTIuI3xulq4AzA)
 [一步一步写线程之二线程应用管理](https://mp.weixin.qq.com/s/wnDc1le51y9qpT77H26vig)
+[一步一步写线程之九线程池任务的窃取](https://mp.weixin.qq.com/s/KiuytstWowIYHkrxzfvqjQ)
 
 ### 并发
 
@@ -301,3 +302,5 @@
 Dev-C++可以编译16位程序，比如Dev-C++ 4.9.9.2。https://sourceforge.net/projects/dev-cpp/files/Binaries/  https://sourceforge.net/projects/devcpp/
 DOSBox虚拟机运行16位程序。 https://www.dosbox.com/download.php?main=1
 
+# 实际应用
+[百度身份证C++离线SDK接入](https://mp.weixin.qq.com/s/-r8YnaOmkIa3MqfnjVVtZQ)
