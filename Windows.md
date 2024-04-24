@@ -121,6 +121,7 @@ int _tmain()
 [exe 注入之全局钩子注入](https://mp.weixin.qq.com/s/l_hCz_Kbm_q2MPjUd5WPbw)
 [远线程注入](https://mp.weixin.qq.com/s/CNZFytugjY2LZb_HqHf1EQ)
 [浅析RDI-反射DLL注入](https://mp.weixin.qq.com/s/5huCKEoxrnWyFDdBmxI3dA)
+[【C++ Hook钩子技术(中)——Hook按键小精灵弹窗】从弹窗引发的Hook编程思考大爆炸，拨开表象寻求真实自我！突破常规思维，建立底层逻辑。](https://www.bilibili.com/video/BV1Mq421c7j8/)
 
 ## 寻址
 
