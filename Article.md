@@ -52,6 +52,8 @@
 [C++中的局部static](https://mp.weixin.qq.com/s/VDEL-uOlQf39JKNhgJsVJg)
 [C++函数返回指针和引用的坑](https://mp.weixin.qq.com/s/aGIdPrE2vOZC2BkfJoOPJw)
 [跟我学c++中级篇——再论全局和静态智能指针](https://mp.weixin.qq.com/s/5rrsMayIYzldV9qiVl-N4A)
+[跟我学C++中级篇——零长度数组](https://mp.weixin.qq.com/s/FkYfDJXPgpB0urYIdEh8mA)
+[跟我学C++中级篇——const和constexpr的使用](https://mp.weixin.qq.com/s/0piEOFV6iWmCrQ-qZ0vk0Q)
 [C++ 中的返回值优化](https://mp.weixin.qq.com/s/UI56112_jitpN3g-ULJ-1w)
 [跟我学c++中级篇——模板的调试](https://mp.weixin.qq.com/s/It2mhMEieK7EvMubSRNHgQ)
 [auto含量最高的一集——C++20简写函数模板](https://www.bilibili.com/video/BV1KC4y1S7gX/)
@@ -156,6 +158,7 @@
 [现代 c++ 异步 binder - (2/2)](https://mp.weixin.qq.com/s/-lvlvcqmSTIuI3xulq4AzA)
 [一步一步写线程之二线程应用管理](https://mp.weixin.qq.com/s/wnDc1le51y9qpT77H26vig)
 [一步一步写线程之九线程池任务的窃取](https://mp.weixin.qq.com/s/KiuytstWowIYHkrxzfvqjQ)
+[一步一步写线程之十memory_order的应用](https://mp.weixin.qq.com/s/KB_NjBOQoUM9kMU7V7_cPw)
 
 ### 并发
 
