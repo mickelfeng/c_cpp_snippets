@@ -64,6 +64,7 @@
 [跟我学c++高级篇——动态反射之二动态列表](https://mp.weixin.qq.com/s/N1YL0r7_s2Ly557GXSE0og)
 [跟我学c++高级篇——动态反射之一递归遍历](https://mp.weixin.qq.com/s/onRdi7HylMENIy3DphSw6w)
 [跟我学c++高级篇——静态反射实现之二函数接口实现](https://mp.weixin.qq.com/s/aihQKPa5LtF-YtVuXrAaDw)
+[跟我学C++高级篇——名称反射创建对象的一种实现](https://mp.weixin.qq.com/s/Ec7W48Keyy6E37G2I8qk5Q)
 [一个简单实用的线程池及线程池组的实现！](https://mp.weixin.qq.com/s/n0bFI2xGnjTEcvS1k7Ao_A)
 [C++中设计好用的API](https://mp.weixin.qq.com/s/KmLiKA55Bc9nIbkS47J7mA)
 [C++的函数如何返回多个值？](https://mp.weixin.qq.com/s/-PJ2b_AtE1wuQDFfClewkA)
