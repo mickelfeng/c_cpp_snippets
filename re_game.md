@@ -2,6 +2,8 @@
 [飞郁](https://space.bilibili.com/476729843/video)
 [任鸟飞逆向安全](https://space.bilibili.com/413483715)
 
+[游戏辅助 -- 三种分析角色坐标方法（CE、xdbg、龙龙遍历工具）](https://mp.weixin.qq.com/s/m460D-97bDrGL2q37c2kbw)
+
 [植物大战僵尸修改器制作--从入门到入土](https://mp.weixin.qq.com/s/y3IK6h5ZdgOuXNMBx7Siag)
 [FPS游戏安全入门](https://www.bilibili.com/video/BV1vr421W7Ln/)
 
