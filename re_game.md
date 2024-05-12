@@ -1,6 +1,7 @@
 [Ferry学院](https://space.bilibili.com/399331917/video)
 [飞郁](https://space.bilibili.com/476729843/video)
 [任鸟飞逆向安全](https://space.bilibili.com/413483715)
+https://space.bilibili.com/95835298/video
 
 [游戏辅助 -- 三种分析角色坐标方法（CE、xdbg、龙龙遍历工具）](https://mp.weixin.qq.com/s/m460D-97bDrGL2q37c2kbw)
 

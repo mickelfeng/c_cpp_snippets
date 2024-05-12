@@ -29,3 +29,10 @@
 [进程与线程-EPROCESS&ETHREAD&KPCR](https://mp.weixin.qq.com/s/fxQUbD-OAlt57a9-28EShQ)
 [进程与线程-内核隐藏进程](https://mp.weixin.qq.com/s/x3Lap1OMR3acMyIUJsWCug)
 [进程与线程-模拟线程切换](https://mp.weixin.qq.com/s/CnbiMbHh_5FwHCYTRuXJdQ)
+
+## Video
+[windows驱动开发进阶篇-内核安全视频课程](https://www.ruike1.com/thread-71763-1-1.html)
+[创客-Linux内核开发及优化](https://www.ruike1.com/thread-71787-1-1.html)
+https://space.bilibili.com/94240122/video
+https://space.bilibili.com/95835298/video
+[二进制 - VT虚拟化&内核驱动](https://www.bilibili.com/video/BV1Yw4m117SN/)
