@@ -4,6 +4,7 @@
 https://space.bilibili.com/95835298/video
 
 [游戏辅助 -- 三种分析角色坐标方法（CE、xdbg、龙龙遍历工具）](https://mp.weixin.qq.com/s/m460D-97bDrGL2q37c2kbw)
+[游戏辅助 -- MFC获取游戏数据](https://mp.weixin.qq.com/s/NS9c_oPtxFAozsf_byxjHA)
 
 [植物大战僵尸修改器制作--从入门到入土](https://mp.weixin.qq.com/s/y3IK6h5ZdgOuXNMBx7Siag)
 [FPS游戏安全入门](https://www.bilibili.com/video/BV1vr421W7Ln/)

@@ -16,6 +16,7 @@
 [跟我学c++中级篇——Pimpl](https://mp.weixin.qq.com/s/tvlAOT7dzcaWrpcvQTKwTA)
 [跟我学c++中级篇——模板的模板参数匹配](https://mp.weixin.qq.com/s/zFGoQTECVZc0R01EcevDBg)
 [跟我学C++中级篇——POD数据类型及演进](https://mp.weixin.qq.com/s/Yv86wnBBPYpX1gmHPsZpcQ)
+[C++那些事之Mixin惯用法](https://mp.weixin.qq.com/s/GC-1DMpcWr2WCk-bNmN9gw)
 [用C++语言写一个可读的回调函数](https://mp.weixin.qq.com/s/pLhNLmx9BrLaIerfabL8yA)
 [深入探究：为什么C++有了int还需要int32_t ？](https://mp.weixin.qq.com/s/xj461SWBISrYY_ZEWEAwRA)
 [C++循环优化：提升性能的关键技巧](https://mp.weixin.qq.com/s/DiIGtUw8XmSmb4euY9HyhQ)
