@@ -12,6 +12,7 @@
 * [PC微信机器人接口api之od找登陆二维码hook地址](https://juejin.cn/post/6976906082291548191)
 * [企业微信PC版hook源码api接口](https://juejin.cn/post/7100373217742684173)
 * [微信界面逆向分析](https://mp.weixin.qq.com/s/K59W5QiLFJW48rQy2Rio3g)
+* [广东财经大学-信息安全-基于IDA Pro和Frida的微信消息撤回无效实验](https://www.bilibili.com/video/BV1di421U7qD/)
 
 
 https://github.com/liumesopw
