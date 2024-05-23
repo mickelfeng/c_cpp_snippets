@@ -78,6 +78,7 @@
 [C++ 11 的随机数之伪随机数库](https://mp.weixin.qq.com/s/dCrZ3KV9-gxLMeKX5SivDw)
 [C++ 11 的随机数之 rand 函数陷阱与真随机数](https://mp.weixin.qq.com/s/0X5X_VaYg3k0aRSc25b0jg)
 
+[C++ Hook技术之inline Hook(内联Hook)](https://mp.weixin.qq.com/s/YkxR_fs2Xh2rPe_nyNtOVg)
 
 [C++ 动态内存](https://mp.weixin.qq.com/s/BmEG7OLOxyG3WbDKUvpG0A)
 
