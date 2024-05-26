@@ -165,6 +165,7 @@
 [一步一步写线程之二线程应用管理](https://mp.weixin.qq.com/s/wnDc1le51y9qpT77H26vig)
 [一步一步写线程之九线程池任务的窃取](https://mp.weixin.qq.com/s/KiuytstWowIYHkrxzfvqjQ)
 [一步一步写线程之十memory_order的应用](https://mp.weixin.qq.com/s/KB_NjBOQoUM9kMU7V7_cPw)
+[一步一步写线程之十二无锁编程](https://mp.weixin.qq.com/s/9hP7qe7oSUG2dYXGOZ-JBw)
 
 ### 并发
 

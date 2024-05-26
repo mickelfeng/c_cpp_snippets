@@ -30,6 +30,9 @@
 [进程与线程-内核隐藏进程](https://mp.weixin.qq.com/s/x3Lap1OMR3acMyIUJsWCug)
 [进程与线程-模拟线程切换](https://mp.weixin.qq.com/s/CnbiMbHh_5FwHCYTRuXJdQ)
 
+## package
+[TitanHide 泰坦驱动  github开源](https://github.com/mrexodia/TitanHide)
+
 ## Video
 [windows驱动开发进阶篇-内核安全视频课程](https://www.ruike1.com/thread-71763-1-1.html)
 [创客-Linux内核开发及优化](https://www.ruike1.com/thread-71787-1-1.html)
