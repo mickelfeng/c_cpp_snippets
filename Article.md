@@ -83,6 +83,7 @@
 [C++ 动态内存](https://mp.weixin.qq.com/s/BmEG7OLOxyG3WbDKUvpG0A)
 
 [C++20 中​constinit](https://mp.weixin.qq.com/s/cAN4WUpI7x6xw0H2sTacug)
+[C++20实战之channel](https://mp.weixin.qq.com/s/spHtymMAEkTw3c5uN9cXKQ)
 [c++23中的新功能之一介绍](http://mp.weixin.qq.com/s?__biz=MzU0OTkzNjU2OA==&mid=2247485094&idx=1&sn=aefed4b6b72bd59f2bdce8de47c7d22c)
 [c++23中的新功能之二语法中的Deducing This](http://mp.weixin.qq.com/s?__biz=MzU0OTkzNjU2OA==&mid=2247485102&idx=1&sn=47384ac68b20f75fc11af476d74ae766)
 [c++23中的新功能之三zip的应用](http://mp.weixin.qq.com/s?__biz=MzU0OTkzNjU2OA==&mid=2247485106&idx=1&sn=0c585896a6195555dd1b6a173f9c6d2e)
