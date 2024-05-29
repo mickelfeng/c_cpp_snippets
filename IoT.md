@@ -23,8 +23,12 @@ https://microsoft.github.io/devicescript/
 [DeskHop：一套键盘鼠标畅享两台电脑](https://mp.weixin.qq.com/s/Db2sHAYIO-aBJRHcbT55Cw)
 
 [动画演示 | 秒懂物联网 UART、I2C、SPI 三种串行总线通信原理](https://mp.weixin.qq.com/s/_R0jDSkBpGQB_xfHDmCbvQ)
+
 ## 案例
+
 [仅1.3万元，源码交付 IoT 物联网设备管理运维MES系统，含巡检、维修、保养、盘点、排班、采购管理](https://mp.weixin.qq.com/s/we-L45xj4d8mmRtc7eRhiw)
+[雨季来临， IoT 物联网助力城市防汛排涝监测预警智能解决方案](https://mp.weixin.qq.com/s/Ior_34zRSAGzz3eo4X8Aig)
+[物联网边缘计算盒子，智能 AI 视频监控赋能智慧加油站，守护生命安全每一天](https://mp.weixin.qq.com/s/rZI_4fF5tfJFmssrEqcEuA)
 
 # Tutorials
 [IoT- From Basic to Advanced](https://www.0daydown.com/04/2381098.html)

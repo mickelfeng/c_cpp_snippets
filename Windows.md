@@ -124,7 +124,7 @@ int _tmain()
 [浅析RDI-反射DLL注入](https://mp.weixin.qq.com/s/5huCKEoxrnWyFDdBmxI3dA)
 [【C++ Hook钩子技术(中)——Hook按键小精灵弹窗】从弹窗引发的Hook编程思考大爆炸，拨开表象寻求真实自我！突破常规思维，建立底层逻辑。](https://www.bilibili.com/video/BV1Mq421c7j8/)
 [第十六课 拦截DLL注入](https://www.bilibili.com/video/BV1kr421g7ri/)
-
+[Windows攻防对抗-DLL侧载篇](https://mp.weixin.qq.com/s/fZAu99uVUskO1T4-QIoVPg)
 
 ## 寻址
 
