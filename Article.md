@@ -58,6 +58,7 @@
 [跟我学c++中级篇——再论全局和静态智能指针](https://mp.weixin.qq.com/s/5rrsMayIYzldV9qiVl-N4A)
 [跟我学C++中级篇——零长度数组](https://mp.weixin.qq.com/s/FkYfDJXPgpB0urYIdEh8mA)
 [跟我学C++中级篇——const和constexpr的使用](https://mp.weixin.qq.com/s/0piEOFV6iWmCrQ-qZ0vk0Q)
+[跟我学C++中级篇——if constexpr的应用](https://mp.weixin.qq.com/s/nPwb34Ofzstsuq_fyVSg0w)
 [C++ 中的返回值优化](https://mp.weixin.qq.com/s/UI56112_jitpN3g-ULJ-1w)
 [跟我学c++中级篇——模板的调试](https://mp.weixin.qq.com/s/It2mhMEieK7EvMubSRNHgQ)
 [auto含量最高的一集——C++20简写函数模板](https://www.bilibili.com/video/BV1KC4y1S7gX/)
@@ -167,6 +168,8 @@
 [一步一步写线程之九线程池任务的窃取](https://mp.weixin.qq.com/s/KiuytstWowIYHkrxzfvqjQ)
 [一步一步写线程之十memory_order的应用](https://mp.weixin.qq.com/s/KB_NjBOQoUM9kMU7V7_cPw)
 [一步一步写线程之十二无锁编程](https://mp.weixin.qq.com/s/9hP7qe7oSUG2dYXGOZ-JBw)
+[一步一步写线程之十三队列间的消息通知](https://mp.weixin.qq.com/s/rUPP7DYDZPYvY3YpBTjk5Q)
+[一步一步写线程之十四并行编程和并行库](https://mp.weixin.qq.com/s/-17Wvsw6u28R-zn6mCnDzg)
 
 ### 并发
 
