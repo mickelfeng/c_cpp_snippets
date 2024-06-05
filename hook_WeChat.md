@@ -154,9 +154,9 @@ https://blog.csdn.net/u010256831?type=blog
 [详细分析vx微信多开原理+工具](https://www.bilibili.com/video/BV1Mv4y1E7Qy/)
 [QQ的TIM版，防撤回原理分析+工具](https://www.bilibili.com/video/BV18T411n7pn/)
 [某聊天软件防撤回尝试](https://www.cnblogs.com/Here-is-SG/p/17056517.html)
-
 # Aritcle
 [极安御信网络安全系列课程-游戏逆向-反录制反截屏 - API实现](https://www.bilibili.com/video/BV1Ks4y117BA/) 
 
 ## Hook Framework
 [wechat-hook：一款开源的微信hook机器人框架](https://mp.weixin.qq.com/s/-nrV9P7omF8bDK_so9r7sA)
+[【喂饭级教程】基于Hook机制的微信AI机器人，无需服务器，运行更稳定，X号风险更小](https://mp.weixin.qq.com/s/_Bx95oGKjfzSrswV1uzuMg)
