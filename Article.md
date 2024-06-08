@@ -74,6 +74,7 @@
 [C++中设计好用的API](https://mp.weixin.qq.com/s/KmLiKA55Bc9nIbkS47J7mA)
 [C++的函数如何返回多个值？](https://mp.weixin.qq.com/s/-PJ2b_AtE1wuQDFfClewkA)
 [跟我学c++高级篇——C++26反射预览](https://mp.weixin.qq.com/s/O568GHyBLw5jLtU7s2kKJQ)
+[跟我学C++高级篇——回调函数及应用](https://mp.weixin.qq.com/s/uyz_RS8Lug47G8puNp1vMQ)
 [C++反射-简介](https://mp.weixin.qq.com/s/kmBS8N-xf_dyWDKc7iuEWw)
 
 [C++ 11 的随机数之伪随机数库](https://mp.weixin.qq.com/s/dCrZ3KV9-gxLMeKX5SivDw)
