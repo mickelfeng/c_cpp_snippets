@@ -13,7 +13,7 @@
 * [企业微信PC版hook源码api接口](https://juejin.cn/post/7100373217742684173)
 * [微信界面逆向分析](https://mp.weixin.qq.com/s/K59W5QiLFJW48rQy2Rio3g)
 * [广东财经大学-信息安全-基于IDA Pro和Frida的微信消息撤回无效实验](https://www.bilibili.com/video/BV1di421U7qD/)
-
+* [hook 微信信息撤回功能](https://mp.weixin.qq.com/s/mPIjc7MnqrzFiKCWoJhsNA)
 
 https://github.com/liumesopw
 https://blog.csdn.net/u010256831?type=blog
