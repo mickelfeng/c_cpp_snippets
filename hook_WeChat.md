@@ -51,6 +51,8 @@ https://blog.csdn.net/u010256831?type=blog
 * [Windows逆向分析入门（七）——实战篇（刷新二维码）](https://www.cnblogs.com/wwgk/p/13197983.html)
 * [Windows逆向分析入门（八）——实战篇（收发文本消息）](https://www.cnblogs.com/wwgk/p/13199338.html)
 * [Windows逆向分析入门（九）——实战篇（内存直接读取通讯录）](https://www.cnblogs.com/wwgk/p/13199553.html)
+* [PC微信逆向) 定位微信浏览器打开链接的call](https://mp.weixin.qq.com/s/Nik8fBF3hxH5FPMGNx3JFw)
+
 * [2021 Duilib最新入门教程（一）Duilib简介](https://www.cnblogs.com/wwgk/p/14314187.html)
 * [2021 Duilib最新入门教程（二）Duilib编译动态库](https://www.cnblogs.com/wwgk/p/14314459.html)
 * [2021 Duilib最新入门教程（三）Duilib调用动态库示例](https://www.cnblogs.com/wwgk/p/14314523.html)
