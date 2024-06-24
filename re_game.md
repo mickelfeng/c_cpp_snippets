@@ -167,6 +167,9 @@ https://space.bilibili.com/95835298/video
 [游戏逆向检测对抗小白也能入门10----过数据检测防封](https://www.bilibili.com/video/BV1ZX4y167mo/)
 
 [3分钟学会,最简单的X64X86注入DLL----远线程注入](https://www.bilibili.com/video/BV1rs4y1N769/)
+## Untitled
+[游戏抓包工具制作（九）——自动录像功能（上）](https://mp.weixin.qq.com/s/w9F38kS9_LGAq-s3LNdkNQ)
+
 ## CE
 [游戏辅助 -- 实战找人物对象基址](https://mp.weixin.qq.com/s/GuIHgnQ9RBLmpiNKhxfPyA)
 [游戏辅助 -- 背包对象基址的分析方法](https://mp.weixin.qq.com/s/bQ5M5Ar_LwjK5dL1ZXXpHA)
