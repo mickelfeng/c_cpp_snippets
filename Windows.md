@@ -111,7 +111,7 @@ int _tmain()
 [一周学会 Windbg 调试器使用第 8 篇 - 何时使用 Windbg 进行动态调试](https://www.bilibili.com/video/BV1DX4y1b7bq/)
 [极安御信网络安全系列课程-C++ shellcode 加载器原理](https://www.bilibili.com/video/BV19P411v7rX/)
 
-### dll 注入/Hook
+### dll/进程 注入/Hook
 
 [DLL 注入与 HOOK](https://secondbc.github.io/SecondBC/2022/12/12/DLL注入与HOOK/)
 [DLL 显式调用及隐式调用](https://www.bilibili.com/video/BV1M44y1F79S/)
@@ -125,6 +125,8 @@ int _tmain()
 [【C++ Hook钩子技术(中)——Hook按键小精灵弹窗】从弹窗引发的Hook编程思考大爆炸，拨开表象寻求真实自我！突破常规思维，建立底层逻辑。](https://www.bilibili.com/video/BV1Mq421c7j8/)
 [第十六课 拦截DLL注入](https://www.bilibili.com/video/BV1kr421g7ri/)
 [Windows攻防对抗-DLL侧载篇](https://mp.weixin.qq.com/s/fZAu99uVUskO1T4-QIoVPg)
+[进程注入](https://mp.weixin.qq.com/s/shIXAYlqRp4WjoRxvHUQHQ)
+[重生之我在干免杀-利用 Windows 线程池 API：使用 IO 完成回调代理 DLL 加载](https://mp.weixin.qq.com/s/J5kokfj3bcb77Jl81l1AKg)
 
 ## 寻址
 

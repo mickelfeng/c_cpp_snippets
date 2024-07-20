@@ -8,6 +8,7 @@
 [C++中的自动返回类型推导](https://mp.weixin.qq.com/s/X4y1qhFaI3uwtbs-u4ztrQ)
 [掌握 Effective C++ : 条款28](https://mp.weixin.qq.com/s/baZgDgwrhWMLjOuYJrtCiw)
 [跟我学c++中级篇——c++中的Abominable Function Types](https://mp.weixin.qq.com/s/_x_ZeLgzHYQmwr5fsmRD2g)
+[跟我学C++中级篇——虚函数的性能](https://mp.weixin.qq.com/s/gpypYcbw6zwTxQ3ebCsKqA)
 [玩转C++小项目之短链接Demo](https://mp.weixin.qq.com/s/CWs6At3QjccU2tt4SWpVsg)
 [C++ Web 编程](https://mp.weixin.qq.com/s/S8G_6t3cYRHPO7cXqKPQyQ)
 [时间 | 跟我学c++中级篇——c++11时间库实现定时器和延时](https://mp.weixin.qq.com/s/zRDc6Vgg34U43yy_FrnwkA)
